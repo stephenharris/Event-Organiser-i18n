@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T18:27:58+00:00\n"
+"PO-Revision-Date: 2016-12-06T18:28:06+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1146,7 +1146,7 @@ msgstr "Þú hefur ekki réttindi til breytinga"
 
 #: event-organiser-edit.php:107
 msgid "Start Date/Time:"
-msgstr ""
+msgstr "Upphafsdagur/tími:"
 
 #: event-organiser-settings.php:756
 msgid "Page list (fallback)"
