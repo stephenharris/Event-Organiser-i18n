@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:41:38+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:41:51+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1900,7 +1900,7 @@ msgstr "Skráið Google Maps API-lykil"
 
 #: includes/event-organiser-cpt.php:42
 msgid "Separate venues with commas"
-msgstr "Skiljið að staði með kommum"
+msgstr "Skiljið á milli staðsetninga með kommum"
 
 #: event-organiser-edit.php:166
 msgid "custom"
