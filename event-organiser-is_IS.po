@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T18:18:58+00:00\n"
+"PO-Revision-Date: 2016-12-06T18:19:09+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1009,7 +1009,7 @@ msgstr "Leita í staðsetningum"
 
 #: event-organiser-settings.php:184
 msgid "This alters the default format for inputting dates."
-msgstr "Þetta breytir staðlaða forminu til að setja inn dagsetningar."
+msgstr "Þetta breytir staðlaða forminu til að skrá dagsetningar."
 
 #: includes/event-organiser-cpt.php:585
 msgid "For more information"
