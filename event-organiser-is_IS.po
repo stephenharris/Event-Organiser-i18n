@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T17:06:13+00:00\n"
+"PO-Revision-Date: 2016-12-06T17:06:33+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -599,7 +599,7 @@ msgstr "Safn árs"
 #: includes/class-eo-ical-parser.php:1077
 #, php-format
 msgid "Invalid datetime \"%s\". Date expected in YYYYMMDDTHHiissZ or YYYYMMDDTHHiiss format."
-msgstr "Ógild stund \"%s\". Hún á að vera á forminu ÁÁÁÁMMDDTHHiissZ or ÁÁÁÁMMDDTHHiiss forminu."
+msgstr "Ógild stund \"%s\". Hún á að vera á forminu ÁÁÁÁMMDDTHHiissZ eða ÁÁÁÁMMDDTHHiiss."
 
 #: event-organiser-edit.php:139
 #, fuzzy
