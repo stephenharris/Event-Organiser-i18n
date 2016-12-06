@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T15:44:32+00:00\n"
+"PO-Revision-Date: 2016-12-06T16:17:49+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -281,7 +281,7 @@ msgstr "Þig skortir leyfi til að eyða viðburði"
 
 #: event-organiser-go-pro.php:76
 msgid "Give your users the ability to search and filter through your events with the event search shortcode. Event Organiser Pro also adds a text editor button to make inserting and configuring your shortcodes that bit easier. "
-msgstr "Gefðu notendum þínum kleift að leita eftir leitar skammvali. Event Organiser Pro also adds a text editor button to make inserting and configuring your shortcodes that bit easier. "
+msgstr "Leyfðu notendum þínum að nota skammkóða við leit og flettingu viðburða. Í pro-útgáfu Viðburðastjóra er einnig hnappur fyrir textaritil til að auðvelda þér að bæta við og stilla skammkóða þína."
 
 #: event-organiser-manage.php:160
 msgid "Events within 1 week"
@@ -305,7 +305,7 @@ msgid "Search Categories"
 msgstr "Leita í flokkum"
 
 #: event-organiser-edit.php:99
-#, fuzzy,php-format
+#, php-format
 msgid "Enter date in %s format"
 msgstr "Skráðu dagsetningu á %s sniði"
 
@@ -391,7 +391,7 @@ msgid "Add or remove venues"
 msgstr "Bæta við eða eyða stöðum"
 
 #: templates/taxonomy-event-venue.php:30
-#, fuzzy,php-format
+#, php-format
 msgid "Events at: %s"
 msgstr "Viðburður á: %s"
 
