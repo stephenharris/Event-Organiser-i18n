@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T16:21:18+00:00\n"
+"PO-Revision-Date: 2016-12-06T16:21:26+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -315,7 +315,7 @@ msgstr "Hlaða inn flokkum"
 
 #: event-organiser-manage.php:36
 msgid "End Date/Time"
-msgstr "Lokastund"
+msgstr "Lokadgur/stund"
 
 #: event-organiser-settings.php:249
 msgid "To use Google Maps you need to register an API key with Google. You can register for a free API key by %sfollowing these instructions%s."
