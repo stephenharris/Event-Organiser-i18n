@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:04:55+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:09:28+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1640,7 +1640,7 @@ msgstr "Vinsæl tög"
 
 #: event-organiser-calendar.php:224
 msgid "View keyboard shortcuts"
-msgstr ""
+msgstr "Sjá flýtileiðir"
 
 #: includes/event-organiser-cpt.php:153
 msgid "Search Tags"
@@ -1656,11 +1656,11 @@ msgstr "1 viðburður fluttur inn"
 
 #: event-organiser-settings.php:31
 msgid "Permalinks"
-msgstr "Slóðir"
+msgstr "Fastslóðir"
 
 #: includes/class-eo-ical-parser.php:299
 msgid "There was an error opening the ICAL file."
-msgstr "Villa kom upp við að opna ICAL skrána."
+msgstr "Villa kom upp við að opna iCal-skrá."
 
 #: includes/class-event-organiser-im-export.php:281
 msgid "1 category was created"
@@ -1668,19 +1668,19 @@ msgstr "1 flokkur stofnaður"
 
 #: event-organiser-calendar.php:352
 msgid "Switch to day view"
-msgstr ""
+msgstr "Fara í dagssýn"
 
 #: event-organiser-manage.php:156
 msgid "View all events"
-msgstr "Birta allt"
+msgstr "Birta alla viðburði"
 
 #: event-organiser-settings.php:310
 msgid "Event (date archive)"
-msgstr ""
+msgstr "Viðburður (dagssafn)"
 
 #: event-organiser-settings.php:654
 msgid "Venue page:"
-msgstr "Síða staðar:"
+msgstr "Síða staðsetningar:"
 
 #: includes/event-organiser-cpt.php:101
 msgid "Update Category"
@@ -1702,11 +1702,11 @@ msgstr ""
 
 #: includes/event-organiser-cpt.php:574
 msgid "By clicking the relevant tab, you can view events in Month, Week or Day mode. You can also filter the events by events by category and venue. The 'go to date' button allows you to quickly jump to a specific date."
-msgstr "Með því að smella á viðeigandi fleti má sjá í Mánaðar, Viku eða Dags ham. Svo geturðu líka skoðað eftir flokki eða viðburðarstað. 'Hoppa á dagsetningu' hnappurinn leyfir þér svo að hoppa þangað sem þú vilt í tíma."
+msgstr "Með því að smella á viðeigandi fleti má sjá í mánaðar-, viku- eða dagssýn. Svo geturðu líka skoðað eftir flokki eða staðsetningu. 'Hoppa á dag' hnappurinn leyfir þér svo að skoða ákveðinn dag."
 
 #: classes/class-eo-event-list-widget.php:166
 msgid "Event list widget placeholders"
-msgstr "Táknmyndir fyrir viðburðarlista viðbótina"
+msgstr "Táknmyndir fyrir viðburðarskrár-viðbótina"
 
 #: classes/class-eo-agenda-widget.php:20
 msgid "Events Agenda"
@@ -1715,7 +1715,7 @@ msgstr "Dagskrá viðburða"
 #: templates/event-meta-event-single.php:41
 #, php-format
 msgid "This event is running from %1$s until %2$s. It is next occurring on %3$s"
-msgstr "Þessi viðburður stendur yfir frá %1$s til %2$s. Næsti er %3$s"
+msgstr "Þessi viðburður stendur yfir frá %1$s til %2$s. Næsti verður %3$s"
 
 #: classes/class-eo-event-list-widget.php:144
 msgid "Order by"
@@ -1728,11 +1728,11 @@ msgstr "fyrsti"
 
 #: classes/class-eventorganiser-shortcodes.php:439
 msgid "There is no excerpt because this is a protected post."
-msgstr "Enginn útdráttur þar sem hér er ritvarin færsla."
+msgstr "Enginn útdráttur er til fyrir ritvarða færslu."
 
 #: includes/class-event-organiser-im-export.php:94
 msgid "The export button below generates an ICS file of your events that can be imported in to other calendar applications such as Google Calendar."
-msgstr "Útflutnings-hnappurinn að neðan græjar til ICS skrá sem gerir þér kleift að flytja gögnin aftur inn í önnur dagatöl, Google Calendar sem dæmi."
+msgstr "Útflutnings-hnappurinn að neðan býr til ICS skrá sem gerir þér kleift að færa gögnin yfirí önnur dagatöl, t.d. Google Calendar."
 
 #: classes/class-eo-widget-categories.php:11
 #: event-organiser-settings.php:333
