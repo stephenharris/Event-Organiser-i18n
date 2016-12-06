@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:35:23+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:35:53+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1812,7 +1812,7 @@ msgstr "Síðari viðburðir <span class=\"meta-nav\">→</span>"
 
 #: includes/event-organiser-cpt.php:43
 msgid "Event venues list navigation"
-msgstr ""
+msgstr "Yfirlit um skrá um staðsetningar viðburða"
 
 #: classes/class-eo-venue-list-table.php:89
 #, php-format
