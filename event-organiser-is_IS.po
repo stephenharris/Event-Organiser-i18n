@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T19:55:19+00:00\n"
+"PO-Revision-Date: 2016-12-06T19:55:35+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1392,7 +1392,7 @@ msgstr "Hóptilvik"
 
 #: event-organiser-go-pro.php:23
 msgid "Get Event Organiser Pro Add-On"
-msgstr "Sækja viðbætur við Event Organiser"
+msgstr "Sækja Pro-útgáfu Viðbótastjóra"
 
 #: event-organiser-settings.php:243
 msgid "Google API key:"
