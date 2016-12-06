@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T15:43:14+00:00\n"
+"PO-Revision-Date: 2016-12-06T15:43:19+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -294,7 +294,7 @@ msgstr "Ógild dagsetning \"%s\". Búst er við henni á forminu ÁÁÁÁMMDD."
 
 #: classes/class-eo-agenda-widget.php:12
 msgid "Displays a list of events, grouped by date"
-msgstr "Sýnir yfirlit yfir viðburði, hópað eftir dagsetningu"
+msgstr "Sýnir yfirlit yfir viðburði, flokkaða eftir dagsetningu"
 
 #: event-organiser-settings.php:284
 msgid "If you have pretty permalinks enabled, select to have pretty premalinks for events."
