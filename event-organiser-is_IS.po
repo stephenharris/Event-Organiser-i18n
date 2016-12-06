@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T15:41:26+00:00\n"
+"PO-Revision-Date: 2016-12-06T15:41:31+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -227,7 +227,7 @@ msgstr "Litur"
 
 #: includes/event-organiser-ajax.php:466
 msgid "Delete this occurrence"
-msgstr "Eyða þessum viðburði"
+msgstr "Eyða þessu tilviki"
 
 #: includes/event-organiser-cpt.php:47
 msgid "Venue Location"
