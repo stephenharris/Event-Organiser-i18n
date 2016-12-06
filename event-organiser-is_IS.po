@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T18:06:04+00:00\n"
+"PO-Revision-Date: 2016-12-06T18:07:28+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -826,7 +826,7 @@ msgstr "Nánar um viðburð"
 
 #: includes/event-organiser-cpt.php:238
 msgid "Events list navigation"
-msgstr ""
+msgstr "Yfirlit viðborðaskrár"
 
 #: classes/class-eo-widget-categories.php:25
 #: includes/event-organiser-cpt.php:94
