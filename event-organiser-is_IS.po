@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T19:34:05+00:00\n"
+"PO-Revision-Date: 2016-12-06T19:35:59+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1326,7 +1326,7 @@ msgstr "Sýna fleiri"
 
 #: event-organiser-settings.php:214
 msgid "If 'no' is selected, an occurrence of an event is only past when it has finished. Otherwise, an occurrence is considered 'past' as soon as it starts."
-msgstr "Ef valið er 'nei', þá er litið á viðburð sem liðinn aðeins þegar hann er sannarlega liðinn. Annars er hann flokkaður sem liðinn um leið og hann hefst."
+msgstr "Ef valið er 'nei', þá er tilvik viðburðar liðið þegar því er endanlega lokið. Annars birtist það sem 'liðið' um leið og það hefst."
 
 #: event-organiser-calendar.php:332
 msgid "The following keyboard shortcuts are available"
