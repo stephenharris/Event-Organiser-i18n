@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T18:58:58+00:00\n"
+"PO-Revision-Date: 2016-12-06T18:59:00+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1174,7 +1174,7 @@ msgstr "Stílsnið Viðburðastjóra verða notaðar er þemað sem þú ert að
 
 #: includes/event-organiser-cpt.php:534
 msgid "If weekly recurrence is selected, select which days of the week the event should be repeated. If no days are selected, the day of the start date is used"
-msgstr "If weekly reoccurrence is selected, select which days of the week the event should be repeated. If no days are selected, the day of the start date is used"
+msgstr "Ef vikuleg tíðni er valin, þarf að velja á hvaða dögum vikunnar viðburður á að eiga sér stað. Ef enginn dagur er valinn byggir endurtekning á upphafsdegi."
 
 #: includes/event-organiser-cpt.php:158
 msgid "Add New Tag"
