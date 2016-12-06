@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T18:22:35+00:00\n"
+"PO-Revision-Date: 2016-12-06T18:22:47+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1031,7 +1031,7 @@ msgstr "Hvort sem miðar eru seldir á ákveðnum dögum eða fyrir alla daga vi
 
 #: event-organiser-settings.php:41
 msgid "Event Organiser"
-msgstr "Skipuleggjandi viðburðar"
+msgstr "Viðburðastjóri"
 
 #: includes/event-organiser-cpt.php:162
 #: includes/event-organiser-event-functions.php:1557
