@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T17:41:06+00:00\n"
+"PO-Revision-Date: 2016-12-06T17:41:48+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -370,7 +370,7 @@ msgstr "Virkja samhæfni við þema (sjálfgefið)"
 
 #: includes/event-organiser-cpt.php:543
 msgid "Only pre-existing venues can be selected. To add a venue, go to the venues page."
-msgstr "Einungis er hægt að velja viðburðarstaðir sem þegar er búið að skilgreina. Til að bæta við viðburðarstað, farðu á  síðu viðburðastaða."
+msgstr "Einungis er hægt að velja staðsetningar sem þegar er búið að skilgreina. Til að bæta við staðsetnginu, farðu á staðsetningarsíðu."
 
 #: includes/event-organiser-event-functions.php:777
 #: includes/event-organiser-register.php:273
