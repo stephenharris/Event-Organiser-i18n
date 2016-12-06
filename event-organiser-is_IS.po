@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T19:52:40+00:00\n"
+"PO-Revision-Date: 2016-12-06T19:54:03+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1346,7 +1346,7 @@ msgstr "Tilviki eytt"
 
 #: includes/event-organiser-cpt.php:529
 msgid "To repeat an event according to some regular pattern, use the recurrence dropdown menu to select how the event is to repeat. Further options then appear, "
-msgstr "To repeat an event according to some regular pattern, use the reoccurrence dropdown menu to select how the event is to repeat. Further options then appear,"
+msgstr "Til að endurtaka viðburð út frá reglulegu mynstri er hægt að nýta fellivalmyndina til að velja hvernig viðburðurinn er endurtekinn. Frekari möguleikar birtast þá"
 
 #: event-organiser-settings.php:263
 msgid "Disable CSS:"
