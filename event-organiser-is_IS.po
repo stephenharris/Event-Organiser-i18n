@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T19:03:58+00:00\n"
+"PO-Revision-Date: 2016-12-06T19:08:28+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1297,7 +1297,7 @@ msgstr "Leita í viðburðum"
 
 #: includes/event-organiser-cpt.php:579
 msgid "You can create an event on this Calendar, by clicking on day or dragging over multiple days (in Month view) or multiple times (in Week and Day view). You can give the event a title, specify a venue and provide a descripton. The event can be immediately published or saved as a draft. In any case, the event is created and you are forwarded to that event's edit page."
-msgstr "Þú getur bætt viðburði við þetta dagatal, með því að smella á daginn eða með því að velja nokkra daga (í Mánaðar sýninni) eða nokkrum sinnum í Viku eða Dgs ham). Þú getur skráð nafn, sett stað og sett inn lýsingu. Síðan má birta eða vista uppkast. Hvernig sem fer þá er viðburðurinn búinn til og þú er sendur áfram á síðu til að breyta."
+msgstr "Þú getur bætt viðburði við þetta dagatal með því að smella á daginn eða með því að velja nokkra daga (í mánaðarsýn) eða nokkrum sinnum í viku- eða dagssýn). Þú getur skráð nafn, valið staðsetningu og sett inn lýsingu. Síðan má birta eða vista uppkast. Hvernig sem fer þá er viðburðurinn búinn til og  breyta."
 
 #: includes/event-organiser-cpt.php:164
 msgid "Separate tags with commas"
