@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T17:05:14+00:00\n"
+"PO-Revision-Date: 2016-12-06T17:05:22+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -586,7 +586,7 @@ msgstr "Opna/loka glugga: Staðsetning"
 #: classes/class-eo-calendar-widget.php:26
 #: event-organiser-calendar.php:249
 msgid "Events Calendar"
-msgstr "Viðburða"
+msgstr "Viðburðadagatal"
 
 #: includes/class-event-organiser-im-export.php:97
 msgid "Download Export File"
