@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T17:27:46+00:00\n"
+"PO-Revision-Date: 2016-12-06T17:29:07+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -700,7 +700,7 @@ msgstr "Viðbætur Viðburðastjóra"
 
 #: includes/event-organiser-cpt.php:573
 msgid "This page shows all (occurrances of) events. You can view the summary of an event by clicking on it. If you have the necessary permissions, a link to the event's edit page will appear also."
-msgstr "Þessi síða sýnir öll tilvik viðburðar. Þú getur skoðað nánar með því að smella á slóð hans. Ef þú hefur réttindi til geturðu meira að segja fengið að breyta honum."
+msgstr "Þessi síða sýnir öll tilvik viðburðar. Þú getur fengið yfirlit viðburðar með því að smella á hann. Ef þú hefur réttindi til geturðu breytinga birtist tengill til þess líka."
 
 #: event-organiser-settings.php:202
 msgid "If selected only one occurrence of an event will be displayed on event lists and archives (this can be over-ridden by shortcode attributes and widget options."
