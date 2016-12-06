@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T19:32:49+00:00\n"
+"PO-Revision-Date: 2016-12-06T19:33:29+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1310,7 +1310,7 @@ msgstr "1 staðsetning skráð"
 #. / TRANSLATORS: [this plugin] requires [required plugin] version [required plugin version] or higher
 #: event-organiser-debug.php:437
 msgid "%1$s requires %1$s version %1$s or higher"
-msgstr ""
+msgstr "%1$s þarf %1$s útgáfu %1$s eða nýrri"
 
 #: event-organiser-settings.php:716
 msgid "You may also need to go to WordPress Settings > Permalinks and click 'Save Changes' before any changes will take effect."
