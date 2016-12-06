@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T19:57:27+00:00\n"
+"PO-Revision-Date: 2016-12-06T19:57:45+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1429,7 +1429,7 @@ msgstr "Réttindi viðburðastjórnunar"
 
 #: includes/event-organiser-ajax.php:798
 msgid "Are you sure you want to do this?"
-msgstr ""
+msgstr "Ertu viss um að þú ætlir að gera þetta?"
 
 #: event-organiser-calendar.php:213
 msgid "Event deleted."
