@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T16:25:12+00:00\n"
+"PO-Revision-Date: 2016-12-06T16:27:09+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -362,7 +362,7 @@ msgstr ""
 
 #: includes/event-organiser-cpt.php:554
 msgid "This is the list of all saved events. Note that <strong> recurring events appear as a single row </strong> in the table and the start and end date refers to the first occurrence of that event."
-msgstr "This is the list of all saved events. Note that <strong> reoccurring events appear as a single row </strong> in the table and the start and end date refers to the first occurrence of that event."
+msgstr "Þetta er listi allra vistaðra viðburða. Athugið að <strong> endurteknir viðburðir birtast sem ein röð </strong> í töflunni og að upphafs- og lokadagur vísar til fyrsta tilviks þess viðburðar."
 
 #: event-organiser-settings.php:361
 msgid "Enable theme compatability mode (default)"
