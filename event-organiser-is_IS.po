@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T16:54:35+00:00\n"
+"PO-Revision-Date: 2016-12-06T16:55:01+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -445,7 +445,7 @@ msgstr "Viðburðir innan %d mánaða"
 #: event-organiser.php:125
 #: includes/event-organiser-install.php:119
 msgid "Edit Others' Events"
-msgstr "Breyta annarra manna viðburðum"
+msgstr "Breyta  viðburðum annarra"
 
 #: includes/event-organiser-cpt.php:102
 msgid "Add New Category"
