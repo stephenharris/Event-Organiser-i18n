@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T15:37:30+00:00\n"
+"PO-Revision-Date: 2016-12-06T15:37:48+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -168,7 +168,7 @@ msgstr "Viðburðaraðir"
 
 #: event-organiser-go-pro.php:24
 msgid "Go Pro"
-msgstr "Go Pro"
+msgstr "Uppfæra í Pro"
 
 #: classes/class-eo-agenda-widget.php:60
 msgid "Include 'Add To Google' link"
