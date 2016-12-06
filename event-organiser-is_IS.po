@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T18:20:58+00:00\n"
+"PO-Revision-Date: 2016-12-06T18:22:35+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1027,7 +1027,7 @@ msgstr "Skipuleggjandi"
 
 #: event-organiser-go-pro.php:71
 msgid "Sell tickets for specific dates or sell tickets for all dates of an event - such as booking places on a course. You can offer multiple tickets, and customise the booking form to suit your needs."
-msgstr "Sell tickets for specific dates or sell tickets for all dates of an event - such as booking places on a course. You can offer multiple tickets, and customise the booking form to suit your needs."
+msgstr "Hvort sem miðar eru seldir á ákveðnum dögum eða fyrir alla daga viðburðar – eins og til að bóka fast sæti. Hægt er að bjóða upp á marga miða og aðlaga bókunarformið að þörfum."
 
 #: event-organiser-settings.php:41
 msgid "Event Organiser"
