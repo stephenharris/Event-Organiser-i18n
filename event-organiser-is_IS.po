@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T18:17:36+00:00\n"
+"PO-Revision-Date: 2016-12-06T18:18:27+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -992,7 +992,7 @@ msgstr "Ný staðsetning"
 
 #: includes/event-organiser-cpt.php:521
 msgid "The start date is the date the event starts. If the event is a recurring event, this is the start date of the first occurrence."
-msgstr "Upphafsdagsetninging er sá dagur sem viðburður byrjar. Ef viðburðurinn er hluti af viðburðaröð, þá er miðað við lok fyrsta viðburðar í röðinni."
+msgstr "Upphafsdagur er dagurinn sem viðburður byrjar. á Ef viðburðurinn er hluti af viðburðaröð, þá er miðað við lok fyrsta viðburðar í röðinni."
 
 #: includes/event-organiser-cpt.php:339
 #, php-format
