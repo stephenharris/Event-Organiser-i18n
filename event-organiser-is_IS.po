@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T17:41:48+00:00\n"
+"PO-Revision-Date: 2016-12-06T17:41:56+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -388,7 +388,7 @@ msgstr "í dag"
 
 #: includes/event-organiser-cpt.php:41
 msgid "Add or remove venues"
-msgstr "Bæta við eða eyða viðburðastöðum"
+msgstr "Bæta við eða eyða staðsetnngum"
 
 #: templates/taxonomy-event-venue.php:30
 #, php-format
