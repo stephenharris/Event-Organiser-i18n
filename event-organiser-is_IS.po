@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T17:41:56+00:00\n"
+"PO-Revision-Date: 2016-12-06T17:42:10+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -401,7 +401,7 @@ msgstr "Listi eða fellilisti yfir viðburðaflokka"
 
 #: includes/event-organiser-cpt.php:562
 msgid "Edit takes you to the editing screen for that venue. You can also reach that screen by clicking on the venue title."
-msgstr "Að breyta flytur þig á breytingaskjá fyrir viðkomandi viðburðastað. Þú flyst þangað líka ef þú smellir á heiti viðburðar."
+msgstr "Að breyta flytur þig á breytingaskjá fyrir  stasetningu. Þú flyst þangað líka ef þú smellir á heiti viðburðar."
 
 #: includes/event-organiser-cpt.php:330
 #, php-format
