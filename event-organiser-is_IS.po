@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T18:12:12+00:00\n"
+"PO-Revision-Date: 2016-12-06T18:12:17+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -913,7 +913,7 @@ msgstr "Setja réttindi fyrir stjórnun viðburða og viðburðastaða"
 
 #: classes/class-eo-event-list-widget.php:65
 msgid "Past events"
-msgstr ""
+msgstr "Fyrri viðburðir"
 
 #: classes/class-eo-widget-categories.php:124
 #: classes/class-eo-widget-venues.php:125
