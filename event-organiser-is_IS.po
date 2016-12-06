@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T16:24:10+00:00\n"
+"PO-Revision-Date: 2016-12-06T16:25:12+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -349,7 +349,7 @@ msgstr "Býr til 'viðburði', sérsniðna gerð færslu sem felur í sér atri�
 
 #: event-organiser-settings.php:269
 msgid "Check this option to prevent any stylesheets from Event Organiser being loaded on the front-end"
-msgstr "Hakið við þetta ef þú vilt koma í veg fyrir að nokkur "
+msgstr "Hakið við þetta ef þú vilt koma í veg fyrir að stílsnið úr Viðburðastjóra birtist á vefnum sjálfum."
 
 #: includes/event-organiser-ajax.php:443
 #: includes/event-organiser-cpt.php:228
