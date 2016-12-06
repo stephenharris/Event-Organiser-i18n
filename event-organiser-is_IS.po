@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:40:24+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:40:37+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1880,7 +1880,7 @@ msgstr "Bæta við viðburði"
 
 #: event-organiser-go-pro.php:80
 msgid "Venue custom fields & thumbnails"
-msgstr "Sérreitir og táknmyndir viðburðarstaðar."
+msgstr "Sérreitir og táknmyndir staðsetningar."
 
 #: event-organiser-calendar.php:181
 msgid "You do not have sufficient permissions to edit this event. "
