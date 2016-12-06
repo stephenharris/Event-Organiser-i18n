@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T16:57:15+00:00\n"
+"PO-Revision-Date: 2016-12-06T16:59:54+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -497,7 +497,7 @@ msgstr "Listi yfir viðburðastaði"
 
 #: includes/event-organiser-cpt.php:533
 msgid "If monthly recurrence is selected, select whether this should repeat on that date of the month (e.g. on the 24th) or on the day of the month (e.g. on the third Tuesday) "
-msgstr "If monthly reoccurrence is selected, select whether this should repeat on that date of the month (e.g. on the 24th) or on the day of the month (e.g. on the third Tuesday)"
+msgstr "Ef viðburður á að eiga sér stað mánaðarlega þarf að velja hvort hann á að eiga sér stað á mánaðardegi (t.d. 24. hvers mánaðar) eða vissum vikudegi (t.d. þriðja þriðjudag mánaðar)"
 
 #: includes/event-organiser-cpt.php:523
 msgid "All dates and times must be entered in the specified format. This format can changed in the settings page."
