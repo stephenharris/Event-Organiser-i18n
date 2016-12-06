@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T17:29:07+00:00\n"
+"PO-Revision-Date: 2016-12-06T17:30:11+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -704,7 +704,7 @@ msgstr "Þessi síða sýnir öll tilvik viðburðar. Þú getur fengið yfirlit
 
 #: event-organiser-settings.php:202
 msgid "If selected only one occurrence of an event will be displayed on event lists and archives (this can be over-ridden by shortcode attributes and widget options."
-msgstr "Ef valið mun aðeins eitt eintak viðburðar vera birt á listum og í söfnum (þetta má yfirtaka með skammvölum og stillingum viðbóta)."
+msgstr "Ef valið birtist aðeins eitt tilvik viðburðar viðburðaskrám og í söfnum (þetta má yfirtaka með skammvölum og stillingum viðbóta)."
 
 #: event-organiser-calendar.php:265
 msgid "Current date/time"
