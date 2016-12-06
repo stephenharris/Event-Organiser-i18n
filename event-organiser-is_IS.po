@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T18:11:40+00:00\n"
+"PO-Revision-Date: 2016-12-06T18:11:52+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -897,7 +897,7 @@ msgstr "Endurtekinn viðburður. Veldu til að breyta viðburði og tilvikum han
 
 #: classes/class-eo-widget-venues.php:55
 msgid "Select Venue"
-msgstr ""
+msgstr "Velja staðsetningu"
 
 #: event-organiser-edit.php:166
 msgid "monthly"
