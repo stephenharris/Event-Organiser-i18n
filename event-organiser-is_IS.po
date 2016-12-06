@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T18:23:11+00:00\n"
+"PO-Revision-Date: 2016-12-06T18:23:22+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1054,7 +1054,7 @@ msgstr "[Línur %1$d-%2$d]"
 #: event-organiser.php:126
 #: includes/event-organiser-install.php:120
 msgid "Delete Other's Events"
-msgstr "Eyða annarra manna viðburðum"
+msgstr "Eyða viðburðum annars"
 
 #: includes/event-organiser-cpt.php:166
 msgid "Event tags list"
