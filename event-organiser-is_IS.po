@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T17:04:14+00:00\n"
+"PO-Revision-Date: 2016-12-06T17:04:45+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -577,7 +577,7 @@ msgstr "Fyrri mánuður"
 #: classes/class-eo-calendar-widget.php:96
 #: classes/class-eo-event-list-widget.php:112
 msgid "List category slug(s), seperate by comma. Leave blank for all"
-msgstr "Birta skemmri slóðir flokka, aðkildar með kommu. Skiljið eftir autt fyrir all"
+msgstr "Birta skammslóðir flokka, aðskildar með kommu. Skiljið eftir autt fyrir allar"
 
 #: event-organiser-venues.php:308
 msgid "Toggle panel: Location"
