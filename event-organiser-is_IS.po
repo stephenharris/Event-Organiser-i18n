@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T15:34:36+00:00\n"
+"PO-Revision-Date: 2016-12-06T15:35:05+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -85,7 +85,7 @@ msgstr "Search results for &#8220;%s&#8221;"
 #: includes/event-organiser-cpt.php:586
 #, php-format
 msgid "See the <a %s> documentation</a>"
-msgstr "Sjá <a %s> skjölunina</a>"
+msgstr "Sjá <a %s> upplýsingar</a>"
 
 #: includes/event-organiser-register.php:254
 msgid "weeks"
