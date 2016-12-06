@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T17:24:21+00:00\n"
+"PO-Revision-Date: 2016-12-06T17:24:31+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -647,7 +647,7 @@ msgstr "ár"
 
 #: includes/class-event-organiser-im-export.php:105
 msgid "Import venues"
-msgstr "Hlaða inn stöðum"
+msgstr "Hlaða inn viðburðastöðum"
 
 #: event-organiser-debug.php:462
 msgid "unknown"
