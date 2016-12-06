@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:34:10+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:34:25+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1786,7 +1786,7 @@ msgstr "Breyta tagi"
 
 #: event-organiser-edit.php:215
 msgid "date of month"
-msgstr "dagur mánaðar"
+msgstr "mánaðardagur"
 
 #: event-organiser-settings.php:181
 msgid "mm-dd-yyyy"
