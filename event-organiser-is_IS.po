@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T16:21:33+00:00\n"
+"PO-Revision-Date: 2016-12-06T16:22:29+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -331,7 +331,7 @@ msgstr "Varið"
 
 #: includes/event-organiser-register.php:577
 msgid "It is strongly recommended you select a city instead, even if you don't observe Daylight Savings Time."
-msgstr ""
+msgstr "Við mælum sérlega með því að þú veljir frekar borg, jafnvel þótt þú notir ekki sumartíma."
 
 #: includes/class-event-organiser-im-export.php:103
 msgid "Import an ICS file."
