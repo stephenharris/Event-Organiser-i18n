@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:37:00+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:37:08+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1864,7 +1864,7 @@ msgstr "Fara í daginn í dag í sýn"
 #: templates/taxonomy-event-tag.php:27
 #, php-format
 msgid "Event Tag: %s"
-msgstr ""
+msgstr "Viðburðatag: %s"
 
 #: includes/event-organiser-cpt.php:336
 msgid "M j, Y @ G:i"
