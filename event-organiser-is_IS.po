@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T19:01:19+00:00\n"
+"PO-Revision-Date: 2016-12-06T19:01:49+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1254,7 +1254,7 @@ msgstr "Lok"
 
 #: includes/class-event-organiser-im-export.php:71
 msgid "Invalid file uploaded. The file must be a ics calendar file of type 'text/calendar', no larger than 2MB."
-msgstr "Óhæft form á skrá. Skráin verður að vera á ics dagatalsformi, tegundinni 'text/calendar', ekki stærri en 2MB."
+msgstr "Óhæf skráargerð. Skráin verður að vera á ics dagatalsformi, tegundinni 'text/calendar', og ekki stærri en 2 MB."
 
 #: event-organiser-edit.php:219
 msgid "day of week"
