@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:03:27+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:03:34+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1576,7 +1576,7 @@ msgstr "Hlaðið inn í þennan viðburð"
 
 #: includes/class-eo-ical-parser.php:208
 msgid "Feed not found"
-msgstr ""
+msgstr "Fæði fannst ekki"
 
 #: event-organiser-debug.php:72
 msgid "Most bugs arise from theme or plug-in conflicts. You can check this by disabling all other plug-ins and switching to TwentyTweleve. To help speed things along, if you report a bug please indicate if you have done so. Once the plug-in or theme has been identified it is often easy to resolve the issue. Below any <strong>known</strong> plug-in and theme conflicts are highlighted in red."
