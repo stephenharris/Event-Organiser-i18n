@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T19:02:14+00:00\n"
+"PO-Revision-Date: 2016-12-06T19:03:01+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1267,7 +1267,7 @@ msgstr "Fyrir frekari upplýsingar sjá <a href='%s'>að breyta sniðmátum</a>"
 
 #: event-organiser-edit.php:100
 msgid "Enter time in 24-hour hh colon mm format"
-msgstr ""
+msgstr "Skráið tíma á 24-stunda hh tvípunktur mm sniði"
 
 #: event-organiser-settings.php:205
 msgid "Are current events past?"
