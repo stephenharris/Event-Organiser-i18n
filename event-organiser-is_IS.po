@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:10:45+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:33:59+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1757,19 +1757,19 @@ msgstr "Þú hefur ekki leyfi til að stofna viðburði."
 
 #: event-organiser-venues.php:402
 msgid "Latitude/Longitude:"
-msgstr ""
+msgstr "Breidd/Lengd"
 
 #: classes/class-eo-event-list-widget.php:58
 msgid "Running events"
-msgstr ""
+msgstr "Hlaupandi viðburðir"
 
 #: event-organiser-go-pro.php:81
 msgid "Add information on your venue pages with venue custom fields, or give your venues more attentioned with their own 'featured image'"
-msgstr "Hér má bæta við aukareitum fyrir viðburðastaðinn, eða setja inn sérstaka táknmynd staðarins."
+msgstr "Hér má bæta við aukareitum fyrir staðsetningu, eða setja inn sérstaka táknmynd hennar."
 
 #: event-organiser-settings.php:362
 msgid "Event Organiser will attempt to ensure compatability with your theme and apply additional styles."
-msgstr ""
+msgstr "Viðburðastjóri reynir að tryggja að hann sé samhæfður við þema þitt og bætir við stílum eftir því sem þörf er á."
 
 #: classes/class-eo-calendar-widget.php:93
 #: classes/class-eo-event-list-widget.php:110
