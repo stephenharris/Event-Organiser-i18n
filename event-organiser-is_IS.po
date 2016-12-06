@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T17:35:48+00:00\n"
+"PO-Revision-Date: 2016-12-06T17:36:05+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -738,7 +738,7 @@ msgstr "hverja %d. viku þann"
 #: classes/class-eo-venue-list-table.php:75
 #, php-format
 msgid "Edit &#8220;%s&#8221;"
-msgstr ""
+msgstr "Breyta &#8220;%s&#8221;"
 
 #: event-organiser-settings.php:169
 msgid "Add an 'events' link to the navigation menu:"
