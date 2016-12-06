@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T18:07:52+00:00\n"
+"PO-Revision-Date: 2016-12-06T18:08:00+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -877,7 +877,7 @@ msgstr "Breyta flokki"
 
 #: event-organiser-edit.php:165
 msgid "none"
-msgstr ""
+msgstr "engin/n"
 
 #: classes/class-eo-calendar-widget.php:105
 msgid "Event venue"
