@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:42:10+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:42:18+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1916,7 +1916,7 @@ msgstr "Bæta við Google Calendar"
 
 #: classes/class-eo-event-list-widget.php:164
 msgid "Template (leave blank for default)"
-msgstr "Sniðmát (hafið autt ef nota skal sjálfgefið)"
+msgstr "Sniðmát (autt fyrir sjálfgefið)"
 
 #: includes/class-event-organiser-im-export.php:244
 msgid "No events were imported."
