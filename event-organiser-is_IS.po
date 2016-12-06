@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T20:09:28+00:00\n"
+"PO-Revision-Date: 2016-12-06T20:10:45+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1745,15 +1745,15 @@ msgstr "ár"
 
 #: includes/class-eo-ical-parser.php:193
 msgid "There was an error detecting iCal source."
-msgstr ""
+msgstr "Villa kom upp við að greina iCal-uppsprettu."
 
 #: event-organiser-debug.php:253
 msgid "Known plug-in & theme conflicts, highlighted in red, may be minor or have a simple resolution. Please contact support."
-msgstr "Þekktir árekstrar viðbóta og þemu, sýnt í rauðu, kunna að vera smávægilegir eða eiga sér einfalda lausn. Vinsamlegast leitið aðstoðar."
+msgstr "Þekktir árekstrar viðbóta og þemdir, sýnt í rauðu, kunna að vera smávægilegir eða eiga sér einfalda lausn. Vinsamlegast leitið aðstoðar."
 
 #: event-organiser-calendar.php:125
 msgid "You do not have sufficient permissions to create events. "
-msgstr "Nú skortir til vald til viðburðastofnunar."
+msgstr "Þú hefur ekki leyfi til að stofna viðburði."
 
 #: event-organiser-venues.php:402
 msgid "Latitude/Longitude:"
