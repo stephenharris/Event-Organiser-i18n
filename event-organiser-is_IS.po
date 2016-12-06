@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T17:30:11+00:00\n"
+"PO-Revision-Date: 2016-12-06T17:30:18+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -708,7 +708,7 @@ msgstr "Ef valið birtist aðeins eitt tilvik viðburðar viðburðaskrám og í
 
 #: event-organiser-calendar.php:265
 msgid "Current date/time"
-msgstr "Núverandi stund"
+msgstr "Núverandi dagur/stund"
 
 #: includes/class-eo-ical-parser.php:428
 msgid "Feed contains an indefinitely recurring event. This event will recurr until %s."
