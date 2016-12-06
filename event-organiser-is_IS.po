@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T18:26:49+00:00\n"
+"PO-Revision-Date: 2016-12-06T18:27:11+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -1117,7 +1117,7 @@ msgstr "Flokka eftir"
 
 #: includes/event-organiser-cpt.php:528
 msgid "Repeating events"
-msgstr "Endurteknir viðburðir"
+msgstr "Viðburðaröð"
 
 #: includes/event-organiser-event-functions.php:805
 #: includes/event-organiser-register.php:261
