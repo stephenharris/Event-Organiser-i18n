@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T17:35:17+00:00\n"
+"PO-Revision-Date: 2016-12-06T17:35:37+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -727,7 +727,7 @@ msgstr "Staðsetning:"
 
 #: event-organiser-settings.php:223
 msgid "If selected the event will be automatically trashed 24 hours after the last occurrence finishes."
-msgstr "Ef valið þá verður viðburðinum sjálfkrafa eytt sólarhring eftir síðasta viðburð í röðinni."
+msgstr "Ef valið þá verður viðburðinum sjálfkrafa eytt sólarhring eftir síðasta tilvik hans."
 
 #: includes/event-organiser-event-functions.php:807
 #: includes/event-organiser-register.php:262
