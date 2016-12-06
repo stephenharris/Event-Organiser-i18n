@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-12-06T16:55:32+00:00\n"
+"PO-Revision-Date: 2016-12-06T16:55:51+00:00\n"
 "Language: is_IS\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
@@ -468,7 +468,7 @@ msgstr "þriðji"
 
 #: classes/class-eo-event-list-widget.php:71
 msgid "Future & running events"
-msgstr ""
+msgstr "Núverandi og tilvonandi viðburðir"
 
 #: includes/event-organiser-event-functions.php:777
 #: includes/event-organiser-register.php:271
