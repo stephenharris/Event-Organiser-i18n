@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-11-27T01:16:53+00:00\n"
+"PO-Revision-Date: 2017-02-28T21:36:01+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -47,10 +47,6 @@ msgctxt "post"
 msgid "Add New"
 msgstr "Nouvel événement"
 
-#: event-organiser-edit.php:320
-msgid "Google Maps now requires you register for an API key. If you wish to use maps on your site, %1$splease enter your key%1$s."
-msgstr ""
-
 #: includes/event.php:870
 msgid "Event does not contain any dates."
 msgstr "L'événement n'est associé à aucune date."
@@ -73,11 +69,17 @@ msgstr "chaque mois le"
 msgid "Slug"
 msgstr "identifiant"
 
+#: event-organiser-edit.php:320
+#, php-format
+msgid "Google Maps now requires you register for an API key. If you wish to use maps on your site, %1$splease enter your key%2$s."
+msgstr ""
+
 #: includes/event-organiser-cpt.php:35
 msgid "View Venue"
 msgstr "Voir le lieu"
 
 #: includes/class-eo-theme-compatability.php:161
+#, php-format
 msgid "Events at %s"
 msgstr "Événements à : %s"
 
@@ -118,6 +120,7 @@ msgid "Overview"
 msgstr "Aperçu"
 
 #: templates/single-event.php:58
+#, php-format
 msgid "This event was posted in %1$s by <a href=\"%3$s\">%2$s</a>."
 msgstr ""
 
@@ -162,8 +165,9 @@ msgid "Custom Fields"
 msgstr "Champ personnalisé"
 
 #: includes/event-organiser-ajax.php:472
+#, fuzzy
 msgid "Delete this event"
-msgstr ""
+msgstr "Effacer des événements d'autres personnes"
 
 #: includes/class-eo-ical-parser.php:279
 #, php-format
@@ -264,6 +268,7 @@ msgid "last"
 msgstr "dernier"
 
 #: event-organiser-debug.php:64
+#, php-format
 msgid "This page highlights useful information for debugging. If you're reporting a bug, please include this information. The 'system info' link in under the Events admin tab is only visible to admins and only when %1$s is set to %1$s."
 msgstr ""
 
@@ -313,7 +318,7 @@ msgid "Search Categories"
 msgstr "Chercher dans les catégories"
 
 #: event-organiser-edit.php:99
-#, fuzzy
+#, fuzzy,php-format
 msgid "Enter date in %s format"
 msgstr "Entrer la date sous le format %s"
 
@@ -326,8 +331,9 @@ msgid "End Date/Time"
 msgstr "Date/heure de fin"
 
 #: event-organiser-settings.php:249
+#, php-format
 msgid "To use Google Maps you need to register an API key with Google. You can register for a free API key by %sfollowing these instructions%s."
-msgstr ""
+msgstr "Pour utiliser Google Maps vous devez enregistrer une clé API de Google.%sSuivez les instruction%s pour obtenir une clé API gratuite par Google."
 
 #: includes/event.php:1080
 msgid "Occurrence not deleted. Occurrence not found."
@@ -366,7 +372,7 @@ msgstr "Éditer un événement"
 
 #: event-organiser-settings.php:645
 msgid "For each of the pages, the corresponding template is used. To use your own template simply give it the same name and store in your theme folder. By default, if Event Organiser cannot find a template in your theme directory, it will use its own default template. You can disable this below. WordPress will then decide which template from your theme's folder to use."
-msgstr ""
+msgstr "Pour chaque page, le template correspondant est utilisé. Pour utiliser votre template placer simplement un fichier avec le même nom dans le dossier de votre thème.Par défaut, Si Event Organiser ne trouve pas de template dans le dossier de votre thème, le template par défaut est utilisé. Vous pouvez les désactiver. WordPress décidera alors du template à utiliser dans le dossier de votre thème."
 
 #: includes/event-organiser-cpt.php:554
 msgid "This is the list of all saved events. Note that <strong> recurring events appear as a single row </strong> in the table and the start and end date refers to the first occurrence of that event."
@@ -402,6 +408,14 @@ msgstr "Aujourd'hui"
 msgid "Add or remove venues"
 msgstr "Ajouter ou supprimer des lieux"
 
+#. //docs.wp-event-organiser.com/theme-integration for more information
+#. *
+#. * WordPress will automatically prioritise the template in your theme directory.
+#. ***************** NOTICE: *****************
+#. * @package Event Organiser (plug-in)
+#. * @since 1.0.0
+#. 
+#. Call the template header
 #: templates/taxonomy-event-venue.php:30
 #, php-format
 msgid "Events at: %s"
@@ -538,6 +552,7 @@ msgid "Enable events ICAL feed:"
 msgstr "Activer le flux iCal des événements : "
 
 #: includes/event-organiser-ajax.php:821
+#, php-format
 msgid "Event not created: %s"
 msgstr "Événement non créé : %s"
 
@@ -580,6 +595,7 @@ msgid "Event date/time format"
 msgstr "Format d'horodatage d'événement"
 
 #: classes/class-eo-venue-list-table.php:82
+#, php-format
 msgid "Delete &#8220;%s&#8221;"
 msgstr "Effacer &#8220;%s&#8221;"
 
@@ -593,8 +609,9 @@ msgid "List category slug(s), seperate by comma. Leave blank for all"
 msgstr "Listez les identifiants des catégories, séparés par une virgule. Laissez vide pour afficher toutes les catégories."
 
 #: event-organiser-venues.php:308
+#, fuzzy
 msgid "Toggle panel: Location"
-msgstr ""
+msgstr "Emplacement du lieu"
 
 #: includes/class-eo-admin-notice.php:125
 msgid "Dismiss this notice"
@@ -703,8 +720,17 @@ msgstr "Permalien : "
 msgid "End Date/Time:"
 msgstr "Date/Heure de fin :"
 
+#. //docs.wp-event-organiser.com/theme-integration for more information
+#. *
+#. * WordPress will automatically prioritise the template in your theme directory.
+#. ***************** NOTICE: *****************
+#. * @package Event Organiser (plug-in)
+#. * @since 1.0.0
+#. 
+#. Call the template header
 #: includes/class-eo-theme-compatability.php:174
 #: templates/taxonomy-event-category.php:27
+#, php-format
 msgid "Event Category: %s"
 msgstr "Catégorie d'événements : %s"
 
@@ -730,6 +756,7 @@ msgid "Current date/time"
 msgstr "Date/heure courante"
 
 #: includes/class-eo-ical-parser.php:428
+#, php-format
 msgid "Feed contains an indefinitely recurring event. This event will recurr until %s."
 msgstr ""
 
@@ -755,6 +782,7 @@ msgid "every %d weeks on"
 msgstr "Toutes les %d semaines le"
 
 #: classes/class-eo-venue-list-table.php:75
+#, php-format
 msgid "Edit &#8220;%s&#8221;"
 msgstr "Editer &#8220;%s&#8221;"
 
@@ -807,8 +835,9 @@ msgid "You do not have permission to delete this venue"
 msgstr "Vous ne disposez pas des droits suffisants pour supprimer ce lieu"
 
 #: includes/event-organiser-register.php:558
+#, fuzzy
 msgid "<h4>The Default Templates Have Changed</h4>Don't panic! If you've set up your own templates in your theme you won't notice any change. </br> If you haven't and want the old templates back, <a href='http://wp-event-organiser.com/blog/new-default-templates-in-1-7'>see this post</a>."
-msgstr ""
+msgstr "<h4>Les Templates par défaut ont été modifiés</h4>Ne craignez rien ! Si vous avez configuré vos propres templates dans votre thème, vous ne verrez aucune différence. </br> Si vous ne l'avez pas fait, et que vous souhaitiez revenir aux anciens templates, <a href='http://wp-event-organiser.com/blog/new-default-templates-in-1-7'>consultez cet article<a/>."
 
 #: event-organiser-manage.php:161
 #, php-format
@@ -1199,6 +1228,7 @@ msgid "Future events"
 msgstr "Prochains événements"
 
 #: includes/event-organiser-register.php:575
+#, fuzzy,php-format
 msgid "Your site timezone is %s"
 msgstr "Votre fuseau horaire est"
 
@@ -1392,8 +1422,9 @@ msgstr "1 lieu a été créé"
 
 #. / TRANSLATORS: [this plugin] requires [required plugin] version [required plugin version] or higher
 #: event-organiser-debug.php:437
+#, fuzzy,php-format
 msgid "%1$s requires %1$s version %1$s or higher"
-msgstr ""
+msgstr "%s requiert %s version %s ou plus récente"
 
 #: event-organiser-settings.php:716
 msgid "You may also need to go to WordPress Settings > Permalinks and click 'Save Changes' before any changes will take effect."
@@ -1520,8 +1551,9 @@ msgid "Are you sure you want to do this?"
 msgstr "Êtes-vous sûr de vouloir continuer ?"
 
 #: event-organiser-calendar.php:213
+#, fuzzy
 msgid "Event deleted."
-msgstr ""
+msgstr "Événement mis à jour."
 
 #: event-organiser-calendar.php:74
 #: includes/event-organiser-register.php:68
@@ -1537,6 +1569,18 @@ msgstr "Minute"
 msgid "Choose from the most used tags"
 msgstr "Choisir parmi les mots-clefs les plus utilisés"
 
+#. //codex.wp-event-organiser.com
+#. *
+#. ***************** NOTICE: *****************
+#. *  Do not make changes to this file. Any changes made to this file
+#. * will be overwritten if the plug-in is updated.
+#. * To overwrite this template with your own
+#.  make a copy of it (with the same name)
+#. * in your theme directory. See http://docs.wp-event-organiser.com/theme-integration for more information
+#. * WordPress will automatically prioritise the template in your theme directory.
+#. * @package Event Organiser (plug-in)
+#. * @since 1.7
+#. 
 #: event-organiser-calendar.php:387
 #: event-organiser-edit.php:14
 #: templates/event-meta-event-single.php:32
@@ -1576,8 +1620,9 @@ msgid "View will take you to the venue's page"
 msgstr "Voir vous dirigera vers la page du lieu"
 
 #: includes/event-organiser-ajax.php:444
+#, fuzzy,php-format
 msgid "Edit Event: %s"
-msgstr ""
+msgstr "Éditer des événements"
 
 #: event-organiser-calendar.php:344
 msgid "Switch to month view"
@@ -1649,10 +1694,12 @@ msgid "New Tag Name"
 msgstr "Nom du nouveau mot-clef"
 
 #: templates/single-event.php:60
+#, php-format
 msgid "This event was posted by <a href=\"%3$s\">%2$s</a>."
 msgstr ""
 
 #: includes/event-organiser-register.php:590
+#, php-format
 msgid "Google Maps now requires you register for an API key. If you wish to use maps on your site, %splease enter your key%s."
 msgstr ""
 
@@ -1921,8 +1968,9 @@ msgstr "mm-jj-aaaa"
 
 #. / TRANSLATORS: [this plugin] has only been tested up to [required plugin] [required plugin version]
 #: event-organiser-debug.php:424
+#, fuzzy,php-format
 msgid "%1$s has only been tested up to %1$s %1$s"
-msgstr ""
+msgstr "%s a seulement été testé jusqu'à %s %s"
 
 #: includes/event-organiser-register.php:578
 #, php-format
@@ -1946,6 +1994,7 @@ msgid "Event venues list navigation"
 msgstr ""
 
 #: classes/class-eo-venue-list-table.php:89
+#, php-format
 msgid "View &#8220;%s&#8221;"
 msgstr "Voir &#8220;%s&#8221;"
 
@@ -1990,11 +2039,21 @@ msgstr "Basculer à la vue par semaine"
 msgid "Jump to today in view"
 msgstr ""
 
+#. //docs.wp-event-organiser.com/theme-integration for more information
+#. *
+#. * WordPress will automatically prioritise the template in your theme directory.
+#. ***************** NOTICE: *****************
+#. * @package Event Organiser (plug-in)
+#. * @since 1.2.0
+#. 
+#. Call the template header
 #: includes/class-eo-theme-compatability.php:184
 #: templates/taxonomy-event-tag.php:27
+#, php-format
 msgid "Event Tag: %s"
 msgstr "Libellé d'événements : %s"
 
+#. //php.net/date
 #: includes/event-organiser-cpt.php:336
 msgid "M j, Y @ G:i"
 msgstr "j F Y @ H:i"
