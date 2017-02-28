@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-02-28T21:25:09+00:00\n"
+"PO-Revision-Date: 2017-02-28T21:25:17+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -712,7 +712,7 @@ msgstr "パーマリンク:"
 
 #: event-organiser-edit.php:130
 msgid "End Date/Time:"
-msgstr ""
+msgstr "終了日時"
 
 #. //docs.wp-event-organiser.com/theme-integration for more information
 #. *
