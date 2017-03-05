@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-05T21:45:49+00:00\n"
+"PO-Revision-Date: 2017-03-05T21:46:13+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -445,7 +445,7 @@ msgstr "journalière"
 
 #: event-organiser-calendar.php:368
 msgid "Open shortcut help"
-msgstr "Ouvrir le"
+msgstr "Ouvrir le raccourci d'aide"
 
 #: classes/class-eo-calendar-widget.php:59
 msgid "Include past events"
