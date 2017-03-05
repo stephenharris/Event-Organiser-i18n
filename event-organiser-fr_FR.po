@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-05T21:50:39+00:00\n"
+"PO-Revision-Date: 2017-03-05T21:51:44+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -758,9 +758,9 @@ msgid "Current date/time"
 msgstr "Date/heure courante"
 
 #: includes/class-eo-ical-parser.php:428
-#, php-format
+#, php-format,fuzzy
 msgid "Feed contains an indefinitely recurring event. This event will recurr until %s."
-msgstr ""
+msgstr "Le flux contient un événement répété indéfiniment. Cet événement se répétera jusqu'à %1$s."
 
 #: event-organiser-settings.php:52
 #: event-organiser.php:128
