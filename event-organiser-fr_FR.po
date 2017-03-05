@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-05T21:47:57+00:00\n"
+"PO-Revision-Date: 2017-03-05T21:48:33+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -70,7 +70,7 @@ msgid "Slug"
 msgstr "identifiant"
 
 #: event-organiser-edit.php:320
-#, php-format
+#, php-format,fuzzy
 msgid "Google Maps now requires you register for an API key. If you wish to use maps on your site, %1$splease enter your key%2$s."
 msgstr "Google Maps exige désormais que vous enregistriez une clé API. Si vous souhaitez utiliser des cartes sur votre site, %1$s entrez svp votre clé%2$s."
 
