@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-05T21:37:55+00:00\n"
+"PO-Revision-Date: 2017-03-05T21:39:24+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -205,7 +205,7 @@ msgstr "Événement publié. <a href=\"%s\">Voir l'événement</a>"
 
 #: event-organiser-edit.php:100
 msgid "Enter time in 12-hour hh colon mm am or pm format"
-msgstr ""
+msgstr "Donnez l'heure au format 12-heures hh virgule mm am ou pm"
 
 #: includes/event-organiser-event-functions.php:790
 msgid "custom recurrence"
