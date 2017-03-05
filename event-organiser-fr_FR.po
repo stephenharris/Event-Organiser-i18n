@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-05T21:46:27+00:00\n"
+"PO-Revision-Date: 2017-03-05T21:46:38+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -520,7 +520,7 @@ msgstr "Mais ce n'est pas tout …"
 
 #: includes/event-organiser-cpt.php:44
 msgid "Event venues list"
-msgstr ""
+msgstr "Liste des lieux"
 
 #: includes/event-organiser-cpt.php:533
 msgid "If monthly recurrence is selected, select whether this should repeat on that date of the month (e.g. on the 24th) or on the day of the month (e.g. on the third Tuesday) "
