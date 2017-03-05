@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-02-28T21:36:01+00:00\n"
+"PO-Revision-Date: 2017-03-05T21:33:31+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -120,9 +120,9 @@ msgid "Overview"
 msgstr "Aperçu"
 
 #: templates/single-event.php:58
-#, php-format
+#, php-format,fuzzy
 msgid "This event was posted in %1$s by <a href=\"%3$s\">%2$s</a>."
-msgstr ""
+msgstr "Cet événement est publié dans %1$s par"
 
 #: includes/event-organiser-cpt.php:587
 msgid "Debugging Event Organiser"
