@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-05T04:24:21+00:00\n"
+"PO-Revision-Date: 2017-03-05T04:24:26+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -450,6 +450,7 @@ msgid "No categories found"
 msgstr "カテゴリが見つかりません"
 
 #: includes/event-organiser-cpt.php:241
+#, fuzzy
 msgid "Insert into event"
 msgstr "イベントに追加"
 
