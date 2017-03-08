@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-08T16:12:22+00:00\n"
+"PO-Revision-Date: 2017-03-08T16:13:06+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -498,7 +498,6 @@ msgid "third"
 msgstr "terzo"
 
 #: classes/class-eo-event-list-widget.php:71
-#, fuzzy
 msgid "Future & running events"
 msgstr "Eventi attivi e futuri"
 
