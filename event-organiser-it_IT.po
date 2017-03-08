@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-08T16:11:14+00:00\n"
+"PO-Revision-Date: 2017-03-08T16:12:22+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -383,7 +383,6 @@ msgid "This is the list of all saved events. Note that <strong> recurring events
 msgstr "Questa &egrave; la lista di tutti gli eventi salvati. Nota che <strong>gli eventi ripetitivi appaiono come una riga singola</strong> nella tabella e la data d'inizio e fine si riferiscono alla prima occorrenza dell'evento."
 
 #: event-organiser-settings.php:361
-#, fuzzy
 msgid "Enable theme compatability mode (default)"
 msgstr "Abilita la modalità di compatibilità con il tema (default)"
 
