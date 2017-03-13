@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-13T20:45:28+00:00\n"
+"PO-Revision-Date: 2017-03-13T20:45:36+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -522,7 +522,7 @@ msgstr "Wanneer het evenement maandelijks terugkeerd, dan kunt u kiezen voor een
 
 #: includes/event-organiser-cpt.php:523
 msgid "All dates and times must be entered in the specified format. This format can changed in the settings page."
-msgstr "Alle datums en tijden moeten worden opgegeven in de juiste format. Dit kan worden aangepast op de instellingen-pagina."
+msgstr "Alle data en tijden moeten worden opgegeven in de juiste format. Dit kan worden aangepast op de instellingen-pagina."
 
 #: event-organiser-calendar.php:236
 msgid "24 hour time"
