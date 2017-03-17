@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-17T16:22:22+00:00\n"
+"PO-Revision-Date: 2017-03-17T16:23:04+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -188,7 +188,6 @@ msgid "No venues found"
 msgstr "Nessun luogo"
 
 #: classes/class-eo-event-list-widget.php:128
-#, fuzzy
 msgid "Show:"
 msgstr "Mostra:"
 
