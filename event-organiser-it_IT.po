@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-17T16:11:37+00:00\n"
+"PO-Revision-Date: 2017-03-17T16:11:54+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2097,7 +2097,6 @@ msgstr "Vai a oggi"
 #. Call the template header
 #: includes/class-eo-theme-compatability.php:184
 #: templates/taxonomy-event-tag.php:27
-#, fuzzy
 msgid "Event Tag: %s"
 msgstr "Tag evento: %s"
 
