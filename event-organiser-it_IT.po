@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-17T16:49:49+00:00\n"
+"PO-Revision-Date: 2017-03-17T16:50:18+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1497,7 +1497,7 @@ msgstr "Mostra come menu a tendina"
 #: event-organiser.php:124
 #: includes/event-organiser-install.php:118
 msgid "Delete Events"
-msgstr "Cancella eventi"
+msgstr "Elimina eventi"
 
 #: event-organiser-edit.php:226
 msgid "Repeat this event until:"
