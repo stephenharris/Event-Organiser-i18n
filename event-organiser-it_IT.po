@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-17T16:35:04+00:00\n"
+"PO-Revision-Date: 2017-03-17T16:36:07+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1905,9 +1905,8 @@ msgid "By clicking the relevant tab, you can view events in Month, Week or Day m
 msgstr "Cliccando sulla tab relativa, puoi vedere gli eventi mensili, settimanali o giornalieri. Puoi anche filtrare gli eventi per categoria o luogo. Il pulsante 'alla data' permette di vedere gli eventi di una data specifica."
 
 #: classes/class-eo-event-list-widget.php:166
-#, fuzzy
 msgid "Event list widget placeholders"
-msgstr "Widget segnalibri della lista eventi"
+msgstr "Segnaposti per il widget lista eventi"
 
 #: classes/class-eo-agenda-widget.php:20
 msgid "Events Agenda"
