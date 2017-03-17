@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-17T16:31:42+00:00\n"
+"PO-Revision-Date: 2017-03-17T16:32:36+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1058,7 +1058,6 @@ msgid "Repeat every"
 msgstr "Ripeti evento"
 
 #: includes/class-event-organiser-im-export.php:277
-#, fuzzy
 msgid "%d venues were created"
 msgstr "sono stati creati %d luoghi"
 
