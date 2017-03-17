@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-17T16:36:14+00:00\n"
+"PO-Revision-Date: 2017-03-17T16:36:21+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1906,7 +1906,7 @@ msgstr "Cliccando sulla tab relativa, puoi vedere gli eventi mensili, settimanal
 
 #: classes/class-eo-event-list-widget.php:166
 msgid "Event list widget placeholders"
-msgstr "Segnaposti per il widget lista eventi"
+msgstr "Segnaposto per il widget lista eventi"
 
 #: classes/class-eo-agenda-widget.php:20
 msgid "Events Agenda"
