@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-17T16:28:12+00:00\n"
+"PO-Revision-Date: 2017-03-17T16:28:17+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -941,7 +941,7 @@ msgstr "Scegli la data di fine ripetizione. Nessun altra occorrenza saranno aggi
 #: event-organiser-edit.php:182
 #, fuzzy
 msgid "Recurrence frequency"
-msgstr "Ricorrenza"
+msgstr "Frequenza ricorrenza"
 
 #: event-organiser-calendar.php:364
 #, fuzzy
