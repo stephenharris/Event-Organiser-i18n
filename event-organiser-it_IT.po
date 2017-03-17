@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-17T16:08:18+00:00\n"
+"PO-Revision-Date: 2017-03-17T16:09:31+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -43,7 +43,6 @@ msgid "Event Title"
 msgstr "Titolo evento"
 
 #: includes/event-organiser-cpt.php:226
-#, fuzzy
 msgctxt "post"
 msgid "Add New"
 msgstr "Aggiungi nuovo"
@@ -169,7 +168,6 @@ msgid "Delete this event"
 msgstr ""
 
 #: includes/class-eo-ical-parser.php:279
-#, fuzzy
 msgid "There was an error fetching the feed. Response code: %s."
 msgstr "Si è verificato un errore nel recupero del feed. Codice di risposta: %s."
 
