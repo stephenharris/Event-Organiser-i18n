@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-19T15:37:15+00:00\n"
+"PO-Revision-Date: 2017-03-19T15:38:21+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1158,7 +1158,7 @@ msgstr "Effacer des événements d'autres personnes"
 
 #: includes/event-organiser-cpt.php:166
 msgid "Event tags list"
-msgstr ""
+msgstr "Liste des tags d'événement"
 
 #: includes/class-eo-theme-compatability.php:193
 #: includes/class-eo-theme-compatability.php:195
