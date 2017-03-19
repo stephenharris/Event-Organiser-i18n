@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-19T15:48:45+00:00\n"
+"PO-Revision-Date: 2017-03-19T15:49:52+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1674,7 +1674,7 @@ msgstr ""
 
 #: event-organiser-calendar.php:336
 msgid "Navigate to next period"
-msgstr ""
+msgstr "Aller à le période suivante"
 
 #: event-organiser-edit.php:166
 msgid "yearly"
@@ -1967,7 +1967,7 @@ msgstr "mm-jj-aaaa"
 
 #. / TRANSLATORS: [this plugin] has only been tested up to [required plugin] [required plugin version]
 #: event-organiser-debug.php:424
-#, fuzzy,php-format
+#, php-format
 msgid "%1$s has only been tested up to %1$s %1$s"
 msgstr "%1$s a seulement été testé jusqu'à %1$s %1$s"
 
