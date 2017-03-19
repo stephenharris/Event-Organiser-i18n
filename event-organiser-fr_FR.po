@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-19T15:34:59+00:00\n"
+"PO-Revision-Date: 2017-03-19T15:36:13+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -860,7 +860,7 @@ msgstr "Lieu"
 
 #: includes/event-organiser-register.php:576
 msgid "Is this correct? Using a fixed offset from UTC may cause unexpected behaviour, particular if you observe Daylight Savings Time."
-msgstr ""
+msgstr "Est-ce correct? L'utilisation d'un décalage fixe à partir de UTC peut provoquer un comportement inattendu, en particulier si vous observez l'heure d'été."
 
 #: includes/event-organiser-event-functions.php:820
 #: includes/event-organiser-register.php:264
