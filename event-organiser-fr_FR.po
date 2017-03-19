@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-19T15:45:08+00:00\n"
+"PO-Revision-Date: 2017-03-19T15:45:32+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -317,7 +317,7 @@ msgid "Search Categories"
 msgstr "Chercher dans les catégories"
 
 #: event-organiser-edit.php:99
-#, fuzzy,php-format
+#, php-format
 msgid "Enter date in %s format"
 msgstr "Entrer la date au format %s"
 
