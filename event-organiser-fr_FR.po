@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-19T15:55:34+00:00\n"
+"PO-Revision-Date: 2017-03-19T15:57:27+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1730,7 +1730,7 @@ msgstr "Flux iCal non trouvé"
 
 #: event-organiser-debug.php:72
 msgid "Most bugs arise from theme or plug-in conflicts. You can check this by disabling all other plug-ins and switching to TwentyTweleve. To help speed things along, if you report a bug please indicate if you have done so. Once the plug-in or theme has been identified it is often easy to resolve the issue. Below any <strong>known</strong> plug-in and theme conflicts are highlighted in red."
-msgstr ""
+msgstr "La plupart des bogues proviennent de conflits de thèmes ou de plugins. Vous pouvez vérifier cela en désactivant tous les autres plugins et en passant à TwentyTweleve. Pour aider à accélérer les choses, si vous signalez un bug, veuillez indiquer si vous l'avez fait. Une fois que le plug-in ou le thème a été identifié, il est souvent facile de résoudre le problème. Les conflits de plug-ins et de thèmes connus <strong> connus </ strong> ci-dessous sont mis en surbrillance en rouge."
 
 #: event-organiser-edit.php:240
 #: includes/event-organiser-register.php:245
