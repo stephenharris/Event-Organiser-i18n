@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-19T15:27:10+00:00\n"
+"PO-Revision-Date: 2017-03-19T15:30:00+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1029,7 +1029,7 @@ msgstr "Cet événement ne fait plus partie d'un événement récurrent."
 
 #: includes/event-organiser-cpt.php:107
 msgid "Event categories list"
-msgstr ""
+msgstr "Liste des catégories d'événements"
 
 #: includes/event-organiser-event-functions.php:799
 #: includes/event-organiser-register.php:260
