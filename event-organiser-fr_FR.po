@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-19T15:50:21+00:00\n"
+"PO-Revision-Date: 2017-03-19T15:50:25+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1693,7 +1693,7 @@ msgid "New Tag Name"
 msgstr "Nom du nouveau mot-clef"
 
 #: templates/single-event.php:60
-#, php-format,fuzzy
+#, php-format
 msgid "This event was posted by <a href=\"%3$s\">%2$s</a>."
 msgstr "Cet événement a été publié par <a href=\"%3$s\">%2$s</a>."
 
