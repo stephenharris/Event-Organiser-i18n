@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-04-14T23:01:31+00:00\n"
+"PO-Revision-Date: 2017-04-14T23:01:46+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1189,7 +1189,7 @@ msgstr "Kalenderansicht"
 #: includes/class-event-organiser-im-export.php:61
 #, php-format
 msgid "File Error encountered: %d"
-msgstr "Dateifehler aufgetreten: % d"
+msgstr "Dateifehler aufgetreten: %d"
 
 #: event-organiser-settings.php:715
 msgid "Please note to enable these structures you must first have pretty permalinks enabled on WordPress in Settings > Permalinks."
