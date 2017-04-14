@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-04-14T22:56:48+00:00\n"
+"PO-Revision-Date: 2017-04-14T22:57:25+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1029,9 +1029,7 @@ msgstr "C'è già un evento in questa data"
 
 #: includes/event-organiser-cpt.php:342
 msgid "This event has been broken from a recurring event."
-msgstr ""
-"Questo evento è stato interrotto da un errore ripetuto\n"
-""
+msgstr "Questo evento è stato interrotto da un errore ripetuto"
 
 #: includes/event-organiser-cpt.php:107
 #, fuzzy
