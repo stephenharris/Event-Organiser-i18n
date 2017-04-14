@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-04-14T22:59:44+00:00\n"
+"PO-Revision-Date: 2017-04-14T22:59:50+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -89,7 +89,7 @@ msgid "Search results for &#8220;%s&#8221;"
 msgstr "Résultats de recherche pour &#8220;%s&#8221;"
 
 #: includes/event-organiser-cpt.php:586
-#, php-format,fuzzy
+#, php-format
 msgid "See the <a %s> documentation</a>"
 msgstr "Voir la <a %s>documentation</a>"
 
