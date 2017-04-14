@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-04-14T23:02:15+00:00\n"
+"PO-Revision-Date: 2017-04-14T23:02:23+00:00\n"
 "Language: el\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1191,7 +1191,7 @@ msgstr "Εμφάνιση Ημερολόγιου."
 #: includes/class-event-organiser-im-export.php:61
 #, php-format
 msgid "File Error encountered: %d"
-msgstr "Σφάλματα αρχείου :% d"
+msgstr "Σφάλματα αρχείου : %d"
 
 #: event-organiser-settings.php:715
 msgid "Please note to enable these structures you must first have pretty permalinks enabled on WordPress in Settings > Permalinks."
