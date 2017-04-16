@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-04-16T22:43:56+00:00\n"
+"PO-Revision-Date: 2017-04-16T22:44:11+00:00\n"
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1893,9 +1893,7 @@ msgstr "No hi ha resum perquè aquesta és una entrada protegida."
 
 #: includes/class-event-organiser-im-export.php:94
 msgid "The export button below generates an ICS file of your events that can be imported in to other calendar applications such as Google Calendar."
-msgstr ""
-"El botó d'exportació inferior genera un arxiu ICS dels esdeveniments que es poden importar a altres aplicacions de calendari com Google Calendar.\n"
-""
+msgstr "El botó d'exportació inferior genera un arxiu ICS dels esdeveniments que es poden importar a altres aplicacions de calendari com Google Calendar."
 
 #: classes/class-eo-widget-categories.php:11
 #: event-organiser-settings.php:333
