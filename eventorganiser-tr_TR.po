@@ -974,9 +974,9 @@ msgstr "aylık"
 msgid "Update Venue"
 msgstr ""
 
-#: event-organiser-settings.php:669
-msgid "Set permissions for events and venue management"
-msgstr "Etkinlik ve mekan yönetimi için izinleri belirleyin"
+#: event-organiser-settings.php:278
+msgid "Enable event pretty permalinks:"
+msgstr "Etkinlik kalıcı bağlantılarını etkinleştirin:"
 
 #: classes/class-eo-event-list-widget.php:65
 msgid "Past events"
@@ -1292,8 +1292,8 @@ msgctxt "taxonomy singular name"
 msgid "Tag"
 msgstr ""
 
-#: includes/event-organiser-ajax.php:792
-msgid "Events are not editable via the admin calendar"
+#: includes/class-event-organiser-im-export.php:71
+msgid "Invalid file uploaded. The file must be a ics calendar file of type 'text/calendar', no larger than 2MB."
 msgstr ""
 
 #: event-organiser-calendar.php:76

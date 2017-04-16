@@ -1544,9 +1544,9 @@ msgstr "Création d'événements"
 msgid "Event management permissions"
 msgstr "Permissions de gestion d'événements"
 
-#: includes/event-organiser-ajax.php:798
-msgid "Are you sure you want to do this?"
-msgstr "Êtes-vous sûr de vouloir continuer ?"
+#: event-organiser-venues.php:194
+msgid "Venue <strong>updated</strong>"
+msgstr "Lieu <strong>mis à jour</strong"
 
 #: event-organiser-calendar.php:213
 #, fuzzy
@@ -1687,9 +1687,9 @@ msgstr "chaque année le"
 msgid "Save Draft"
 msgstr "Sauvegarder le brouillon"
 
-#: includes/event-organiser-cpt.php:159
-msgid "New Tag Name"
-msgstr "Nom du nouveau mot-clef"
+#: event-organiser-venues.php:443
+msgid "Get Link"
+msgstr "Voir le lien"
 
 #: templates/single-event.php:60
 #, php-format
