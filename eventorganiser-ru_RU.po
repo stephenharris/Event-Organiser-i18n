@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-02-28T21:40:43+00:00\n"
+"PO-Revision-Date: 2017-04-16T23:28:12+00:00\n"
 "Language: ru_RU\n"
 "Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
 
@@ -541,7 +541,7 @@ msgstr "Все события"
 #: classes/class-eo-event-list-widget.php:168
 #, php-format
 msgid "You can use specified tags as placeholders for event information which you want to appear in the widget. <a href=\"%s\" target=\"_blank\"> Find out more</a>."
-msgstr "Указанные теги можно использовать как заглушки для информации о события, которая должны показываться в виджете. <a href=\\\"%s\\\" target=\\\"_blank\\\"> Как это делается</a>."
+msgstr "Указанные теги можно использовать как заглушки для информации о события, которая должны показываться в виджете. <a href=\"%s\" target=\"_blank\"> Как это делается</a>."
 
 #: event-organiser-settings.php:226
 msgid "Enable events ICAL feed:"
