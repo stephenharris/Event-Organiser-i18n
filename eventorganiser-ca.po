@@ -1907,6 +1907,8 @@ msgstr "anys"
 #: includes/class-eo-ical-parser.php:193
 msgid "There was an error detecting iCal source."
 msgstr ""
+"El botó d'exportació inferior genera un arxiu ICS dels esdeveniments que es poden importar a altres aplicacions de calendari com Google Calendar.\n"
+""
 
 #: event-organiser-debug.php:253
 msgid "Known plug-in & theme conflicts, highlighted in red, may be minor or have a simple resolution. Please contact support."
