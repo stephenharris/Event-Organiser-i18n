@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-04-16T23:29:17+00:00\n"
+"PO-Revision-Date: 2017-04-16T23:29:26+00:00\n"
 "Language: ru_RU\n"
 "Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
 
@@ -1614,7 +1614,7 @@ msgstr "Нажав 'Посмотреть' вы попадете на стран�
 #: includes/event-organiser-ajax.php:444
 #, php-format,fuzzy
 msgid "Edit Event: %s"
-msgstr "Редактировать событие"
+msgstr "Редактировать событие: %s"
 
 #: event-organiser-calendar.php:344
 msgid "Switch to month view"
