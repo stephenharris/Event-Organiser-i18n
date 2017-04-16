@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-04-16T22:43:21+00:00\n"
+"PO-Revision-Date: 2017-04-16T22:43:56+00:00\n"
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -953,7 +953,7 @@ msgstr "Mostra esdeveniments de llarga duració"
 
 #: event-organiser-venues.php:154
 msgid "Venue(s) <strong>were not </strong> deleted"
-msgstr "Lloc(s)"
+msgstr ""
 
 #: event-organiser-edit.php:80
 msgid "This is a recurring event. Check to edit this event and its recurrences"
