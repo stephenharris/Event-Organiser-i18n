@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-04-17T13:10:32+00:00\n"
+"PO-Revision-Date: 2017-04-17T13:10:35+00:00\n"
 "Language: hu_HU\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1604,7 +1604,6 @@ msgid "Events"
 msgstr "Események"
 
 #: includes/event-organiser-cpt.php:563
-#, fuzzy
 msgid "Delete will permanently remove the venue"
 msgstr "A Törlés link végleg eltávolítja a helyszínt"
 
