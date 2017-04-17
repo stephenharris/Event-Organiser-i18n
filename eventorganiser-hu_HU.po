@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-04-17T13:09:46+00:00\n"
+"PO-Revision-Date: 2017-04-17T13:09:58+00:00\n"
 "Language: hu_HU\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -423,7 +423,7 @@ msgstr ""
 #: includes/event-organiser-cpt.php:562
 #, fuzzy
 msgid "Edit takes you to the editing screen for that venue. You can also reach that screen by clicking on the venue title."
-msgstr "A <strong>Szerkesztés</strong> link a helyszín szerkesztő képernyőjére visz bennünket. Ez a képernyő a helyszín címére kattintással is elérhető."
+msgstr "A Szerkesztés link a helyszín szerkesztő képernyőjére visz bennünket. Ez a képernyő a helyszín címére kattintással is elérhető."
 
 #: includes/event-organiser-cpt.php:330
 #, php-format
