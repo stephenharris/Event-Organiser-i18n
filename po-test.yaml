@@ -4,7 +4,4 @@ tests:
   - stephenharris\PoTest\Test\HtmlStructureTest
   - stephenharris\PoTest\Test\NewLineTest
   - stephenharris\PoTest\Test\PlaceholderTest
-  - stephenharris\PoTest\Test\LengthTest:
-    - 0.2
-    - 5
 report: stephenharris\PoTest\Reports\Summary
