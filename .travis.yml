@@ -12,7 +12,7 @@ before_install:
 install:
 - composer init -n
 - composer config repositories.repo-name vcs https://github.com/stephenharris/po-test
-- composer require po-test/po-test:dev-master
+- composer require stephenharris/po-test:dev-master
 
 script: 
 - vendor/bin/po-test
