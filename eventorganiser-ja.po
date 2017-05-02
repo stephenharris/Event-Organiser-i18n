@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:37:17+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:37:28+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1253,7 +1253,7 @@ msgstr "基本"
 
 #: classes/class-eo-event-list-widget.php:77
 msgid "Events on today"
-msgstr ""
+msgstr "本日のイベント"
 
 #: includes/class-event-organiser-im-export.php:68
 msgid "No file detected."
