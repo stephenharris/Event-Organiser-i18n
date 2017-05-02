@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:02:48+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:02:58+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1954,8 +1954,9 @@ msgstr "月-日-年（mm-dd-yyyy）"
 
 #. / TRANSLATORS: [this plugin] has only been tested up to [required plugin] [required plugin version]
 #: event-organiser-debug.php:424
+#, fuzzy
 msgid "%1$s has only been tested up to %1$s %1$s"
-msgstr ""
+msgstr "％1 $ sは最大％1 $ s％1 $ sにしかテストされていません"
 
 #: includes/event-organiser-register.php:578
 #, php-format
