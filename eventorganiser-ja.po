@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:56:47+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:57:21+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1854,11 +1854,11 @@ msgstr "イベントの公開"
 
 #: includes/event-organiser-cpt.php:560
 msgid "Hovering over a row in the venues list will display action links that allow you to manage that venue. You can perform the following actions:"
-msgstr ""
+msgstr "会場リストの行にカーソルを合わせると、その会場を管理できるようにするアクションリンクが表示されます。次の操作を実行できます。"
 
 #: includes/event-organiser-cpt.php:574
 msgid "By clicking the relevant tab, you can view events in Month, Week or Day mode. You can also filter the events by events by category and venue. The 'go to date' button allows you to quickly jump to a specific date."
-msgstr "関連するタブをクリックすると、月、週、または日のモードでイベントを表示できます。また、カテゴリ別、会場別、イベント別にイベントをフィルタリングすることもできます。 「日付に行く」ボタンを使用すると、特定の日付にすばやくジャンプできます。"
+msgstr "関連するタブをクリックすると、月、週、または日のモードでイベントを表示できます。また、カテゴリ別、会場別、イベント別にイベントをフィルタリングすることもできます。 「日付を指定」ボタンを使用すると、特定の日付にすばやくジャンプできます。"
 
 #: classes/class-eo-event-list-widget.php:166
 msgid "Event list widget placeholders"
