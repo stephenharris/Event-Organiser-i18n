@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:15:45+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:15:55+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -902,7 +902,7 @@ msgstr "メインサイドバー"
 
 #: includes/event.php:736
 msgid "Invalid monthly schedule (invalid ordinal)"
-msgstr ""
+msgstr "無効な月間スケジュール（無効な序数）"
 
 #: event-organiser-settings.php:278
 msgid "Enable event pretty permalinks:"
