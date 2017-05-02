@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T11:23:09+00:00\n"
+"PO-Revision-Date: 2017-05-02T11:23:11+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -326,7 +326,6 @@ msgid "End Date/Time"
 msgstr "終了日時"
 
 #: event-organiser-settings.php:249
-#, fuzzy
 msgid "To use Google Maps you need to register an API key with Google. You can register for a free API key by %sfollowing these instructions%s."
 msgstr "Googleマップの使用にはAPIキーの登録が必要です。APIキーの登録%sこちらを参考にしてください%s"
 
