@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:49:45+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:49:53+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1538,7 +1538,7 @@ msgstr "イベント管理権限"
 
 #: includes/event-organiser-ajax.php:798
 msgid "Are you sure you want to do this?"
-msgstr "あなたは本当にこれをしたいですか？"
+msgstr "あなたは本当にこれを実行しますか？"
 
 #: event-organiser-calendar.php:213
 msgid "Event deleted."
