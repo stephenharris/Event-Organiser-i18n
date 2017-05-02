@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:08:02+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:09:38+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -546,7 +546,7 @@ msgid "Enable events ICAL feed:"
 msgstr "iCal フィードを利用:"
 
 #: includes/event-organiser-ajax.php:821
-#, php-format,fuzzy
+#, php-format
 msgid "Event not created: %s"
 msgstr "イベントが作成されていません: %s"
 
@@ -738,7 +738,7 @@ msgstr "Event Organiser 追加機能"
 
 #: includes/event-organiser-cpt.php:573
 msgid "This page shows all (occurrances of) events. You can view the summary of an event by clicking on it. If you have the necessary permissions, a link to the event's edit page will appear also."
-msgstr ""
+msgstr "このページには、すべての（オカレンスの）イベントが表示されます。イベントの概要をクリックすると表示できます。必要な権限がある場合は、イベントの編集ページへのリンクも表示されます。"
 
 #: event-organiser-settings.php:202
 msgid "If selected only one occurrence of an event will be displayed on event lists and archives (this can be over-ridden by shortcode attributes and widget options."
