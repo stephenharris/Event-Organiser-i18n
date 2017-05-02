@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:24:43+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:24:52+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -274,7 +274,7 @@ msgstr "イベントは見つかりませんでした"
 
 #: includes/event-organiser-cpt.php:522
 msgid "The end date is the date the event finishes. If the event is a recurring event, this is the end date of the first occurrence."
-msgstr "終了日は、イベントが終了した日です。繰り返しイベントの場合は、こちらが1回目の繰り返し日の最終日です。"
+msgstr "終了日は、イベントが終了した日です。繰り返しイベントの場合は、こちらが1回目の繰り返しイベントの最終日です。"
 
 #: includes/event-organiser-ajax.php:347
 msgid "Private"
