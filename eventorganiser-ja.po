@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:24:55+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:24:56+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -132,7 +132,7 @@ msgstr "月アーカイブ"
 
 #: event-organiser-edit.php:237
 msgid "Include/Exclude occurrences:"
-msgstr "繰り返し日を追加／削除"
+msgstr "繰り返しイベントを追加／削除"
 
 #: classes/class-eo-calendar-widget.php:109
 #: classes/class-eo-event-list-widget.php:120
