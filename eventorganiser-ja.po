@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:10:58+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:11:34+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -776,7 +776,7 @@ msgstr "%d週ごと"
 #: classes/class-eo-venue-list-table.php:75
 #, php-format
 msgid "Edit &#8220;%s&#8221;"
-msgstr ""
+msgstr "編集 &#8220;%s&#8221;"
 
 #: event-organiser-settings.php:169
 msgid "Add an 'events' link to the navigation menu:"
