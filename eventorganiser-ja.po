@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T11:45:41+00:00\n"
+"PO-Revision-Date: 2017-05-02T11:46:09+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -600,7 +600,7 @@ msgstr "先月"
 #: classes/class-eo-calendar-widget.php:96
 #: classes/class-eo-event-list-widget.php:112
 msgid "List category slug(s), seperate by comma. Leave blank for all"
-msgstr "リストカテゴリスラッグは、カンマで区切ってください。空白を残す"
+msgstr "リストカテゴリスラッグは、カンマで区切ってください。全て空白のままにしてください。"
 
 #: event-organiser-venues.php:308
 msgid "Toggle panel: Location"
