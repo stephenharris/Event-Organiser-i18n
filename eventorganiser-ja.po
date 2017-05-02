@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:14:12+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:15:25+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -850,7 +850,7 @@ msgstr "会場"
 
 #: includes/event-organiser-register.php:576
 msgid "Is this correct? Using a fixed offset from UTC may cause unexpected behaviour, particular if you observe Daylight Savings Time."
-msgstr ""
+msgstr "正しく設定されていますか？ UTCからの固定オフセットを使用すると、予期しない動作が発生する可能性があります（特に夏時間の場合）。"
 
 #: includes/event-organiser-event-functions.php:820
 #: includes/event-organiser-register.php:264
