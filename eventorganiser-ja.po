@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:40:34+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:40:45+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1380,7 +1380,7 @@ msgstr "進行中のイベントは過去と見なしますか？"
 #: includes/event-organiser-cpt.php:95
 msgctxt "taxonomy singular name"
 msgid "Category"
-msgstr ""
+msgstr "カテゴリー（タクソノミー名）"
 
 #: includes/event-organiser-event-functions.php:797
 #: includes/event-organiser-register.php:259
