@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:50:03+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:50:19+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1602,7 +1602,7 @@ msgstr "イベント"
 
 #: includes/event-organiser-cpt.php:563
 msgid "Delete will permanently remove the venue"
-msgstr ""
+msgstr "削除すると会場は完全に削除されます。"
 
 #: includes/event-organiser-cpt.php:564
 msgid "View will take you to the venue's page"
