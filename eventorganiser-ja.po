@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:10:55+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:10:56+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -645,7 +645,6 @@ msgid "Select Category"
 msgstr "カテゴリを選択"
 
 #: includes/event-organiser-cpt.php:531
-#, fuzzy
 msgid "Specify how regularly the event should repeat (default 1)"
 msgstr "イベントをどのくらい定期的に繰り返すかを指定する（デフォルトは1）"
 
