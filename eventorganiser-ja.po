@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T11:42:46+00:00\n"
+"PO-Revision-Date: 2017-05-02T11:43:10+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -521,7 +521,7 @@ msgstr "毎月の定期的開催が選択されている場合は、その月の
 
 #: includes/event-organiser-cpt.php:523
 msgid "All dates and times must be entered in the specified format. This format can changed in the settings page."
-msgstr ""
+msgstr "すべての日付と時刻は、指定された形式で入力する必要があります。このフォーマットは、設定ページで変更できます。"
 
 #: event-organiser-calendar.php:236
 msgid "24 hour time"
