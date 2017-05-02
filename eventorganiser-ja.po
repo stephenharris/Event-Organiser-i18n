@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:02:03+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:02:12+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1790,7 +1790,7 @@ msgstr "人気のタグ"
 
 #: event-organiser-calendar.php:224
 msgid "View keyboard shortcuts"
-msgstr ""
+msgstr "キーボードショートカットを表示する"
 
 #: includes/event-organiser-cpt.php:153
 msgid "Search Tags"
