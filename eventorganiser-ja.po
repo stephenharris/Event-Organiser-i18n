@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T11:06:15+00:00\n"
+"PO-Revision-Date: 2017-05-02T11:06:34+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -189,7 +189,7 @@ msgstr "会場が見つかりません"
 
 #: classes/class-eo-event-list-widget.php:128
 msgid "Show:"
-msgstr ""
+msgstr "表示:"
 
 #: event-organiser-manage.php:162
 msgid "Events within 1 month"
