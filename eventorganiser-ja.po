@@ -1686,7 +1686,6 @@ msgid "This event was posted by <a href=\"%3$s\">%2$s</a>."
 msgstr "このイベントは <a href=\"%3$s\">%2$s</a>に投稿されました。"
 
 #: includes/event-organiser-register.php:590
-#, fuzzy
 msgid "Google Maps now requires you register for an API key. If you wish to use maps on your site, %splease enter your key%s."
 msgstr "Googleマップの使用にはAPIキーの登録が必要です。サイトで地図を使用する場合は%sキーを入力してください。"
 
