@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:34:03+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:34:31+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -827,9 +827,8 @@ msgid "You do not have permission to delete this venue"
 msgstr "会場を削除する権限がありません"
 
 #: includes/event-organiser-register.php:558
-#, fuzzy
 msgid "<h4>The Default Templates Have Changed</h4>Don't panic! If you've set up your own templates in your theme you won't notice any change. </br> If you haven't and want the old templates back, <a href='http://wp-event-organiser.com/blog/new-default-templates-in-1-7'>see this post</a>."
-msgstr "<h4>デフォルトのテンプレートは変更されています</ h4>パニックに陥らないでください！テーマに独自のテンプレートを設定した場合は、変更に気付かないでしょう。 </ br>古いテンプレートに戻したくない場合は、<a href='http://wp-event-organiser.com/blog/new-default-templates-in-1-7'>see this post</a>."
+msgstr "<h4>デフォルトのテンプレートは変更されています</h4>パニックに陥らないでください！テーマに独自のテンプレートを設定した場合は、変更に気付かないでしょう。 </br>古いテンプレートに戻したくない場合は、<a href='http://wp-event-organiser.com/blog/new-default-templates-in-1-7'>こちらをご覧ください投稿</a>してください。"
 
 #: event-organiser-manage.php:161
 #, php-format
