@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:43:56+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:44:10+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1413,8 +1413,9 @@ msgstr "1件の会場が作成されました"
 
 #. / TRANSLATORS: [this plugin] requires [required plugin] version [required plugin version] or higher
 #: event-organiser-debug.php:437
+#, fuzzy
 msgid "%1$s requires %1$s version %1$s or higher"
-msgstr ""
+msgstr "％1 $ sには％1 $ sバージョン％1 $ s以上が必要です"
 
 #: event-organiser-settings.php:716
 msgid "You may also need to go to WordPress Settings > Permalinks and click 'Save Changes' before any changes will take effect."
