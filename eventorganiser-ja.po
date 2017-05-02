@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:00:53+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:01:06+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1692,7 +1692,7 @@ msgstr "Googleマップの使用にはAPIキーの登録が必要です。サイ
 
 #: event-organiser-settings.php:714
 msgid "Choose a custom permalink structure for events, venues, event categories and event tags."
-msgstr ""
+msgstr "イベント、会場、イベントカテゴリ、イベントタグのカスタムパーマリンク構造を選択します。"
 
 #: event-organiser-settings.php:318
 msgid "Day archive"
