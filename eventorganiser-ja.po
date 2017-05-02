@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T11:05:54+00:00\n"
+"PO-Revision-Date: 2017-05-02T11:06:10+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -169,7 +169,7 @@ msgstr "このイベントを削除"
 #: includes/class-eo-ical-parser.php:279
 #, php-format,fuzzy
 msgid "There was an error fetching the feed. Response code: %s."
-msgstr "フィードを取得中にエラーが発生しました。レスポンスコード：％s"
+msgstr "フィードを取得中にエラーが発生しました。レスポンスコード：%s."
 
 #: event-organiser-edit.php:160
 msgid "Recurrence:"
