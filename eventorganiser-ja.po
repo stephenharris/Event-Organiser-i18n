@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T14:17:49+00:00\n"
+"PO-Revision-Date: 2017-05-02T14:17:52+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1401,7 +1401,7 @@ msgstr "イベントを検索"
 
 #: includes/event-organiser-cpt.php:579
 msgid "You can create an event on this Calendar, by clicking on day or dragging over multiple days (in Month view) or multiple times (in Week and Day view). You can give the event a title, specify a venue and provide a descripton. The event can be immediately published or saved as a draft. In any case, the event is created and you are forwarded to that event's edit page."
-msgstr "このカレンダーでは、曜日をクリックするか、または複数の日（月間表示）または複数回（週および日表示）にドラッグしてイベントを作成できます。イベントにタイトルを付けたり、会場を指定したり、ディスクリプションを提供したりすることができます。このイベントはすぐに公開することも、ドラフトとして保存することもできます。いずれの場合も、イベントが作成され、そのイベントの編集ページに移行します。"
+msgstr "You can create an event o"
 
 #: includes/event-organiser-cpt.php:164
 msgid "Separate tags with commas"
