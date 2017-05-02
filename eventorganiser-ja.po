@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:49:17+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:49:25+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1524,9 +1524,9 @@ msgid "Event categories list navigation"
 msgstr "イベントカテゴリリストのナビゲーション"
 
 #: event-organiser-settings.php:586
-#, php-format
+#, php-format,fuzzy
 msgid "Event Settings: %s"
-msgstr ""
+msgstr "イベント設定：％s"
 
 #: includes/event-organiser-cpt.php:518
 msgid "Creating events"
