@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T11:41:58+00:00\n"
+"PO-Revision-Date: 2017-05-02T11:42:46+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -517,7 +517,7 @@ msgstr "イベント会場のリスト"
 
 #: includes/event-organiser-cpt.php:533
 msgid "If monthly recurrence is selected, select whether this should repeat on that date of the month (e.g. on the 24th) or on the day of the month (e.g. on the third Tuesday) "
-msgstr ""
+msgstr "毎月の定期的開催が選択されている場合は、その月の日付（たとえば24日）またはその月の日（たとえば3番目の火曜日）にこれを繰り返すかどうかを選択します。"
 
 #: includes/event-organiser-cpt.php:523
 msgid "All dates and times must be entered in the specified format. This format can changed in the settings page."
