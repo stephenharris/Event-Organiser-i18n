@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:39:30+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:39:38+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1312,7 +1312,7 @@ msgstr "イベントリストを表示する"
 
 #: includes/event-organiser-cpt.php:239
 msgid "Events list"
-msgstr ""
+msgstr "イベントリスト"
 
 #: event-organiser-manage.php:202
 msgid "&mdash; No Change &mdash;"
