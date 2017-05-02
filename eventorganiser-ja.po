@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:51:50+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:52:10+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1929,7 +1929,7 @@ msgstr ""
 
 #: event-organiser-settings.php:362
 msgid "Event Organiser will attempt to ensure compatability with your theme and apply additional styles."
-msgstr "イベント主催者はあなたのテーマとの互換性を確保し、追加のスタイルを適用しようとします。"
+msgstr "Event Organiserはあなたのテーマとの互換性を確保し、追加のスタイルを適用しようとします。"
 
 #: classes/class-eo-calendar-widget.php:93
 #: classes/class-eo-event-list-widget.php:110
