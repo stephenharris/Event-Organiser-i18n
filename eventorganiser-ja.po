@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:05:12+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:05:23+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1980,7 +1980,7 @@ msgid "Event venues list navigation"
 msgstr "イベント会場リストのナビゲーション"
 
 #: classes/class-eo-venue-list-table.php:89
-#, php-format,fuzzy
+#, php-format
 msgid "View &#8220;%s&#8221;"
 msgstr "表示 &#8220;%s&#8221;"
 
@@ -2023,7 +2023,7 @@ msgstr "週表示に切り替える"
 
 #: event-organiser-calendar.php:356
 msgid "Jump to today in view"
-msgstr "本日のビューにジャンプ表示に切り替える"
+msgstr "今日のビューにジャンプ"
 
 #. //docs.wp-event-organiser.com/theme-integration for more information
 #. *
