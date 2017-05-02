@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T11:35:08+00:00\n"
+"PO-Revision-Date: 2017-05-02T11:38:16+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -366,7 +366,7 @@ msgstr "イベントを編集"
 
 #: event-organiser-settings.php:645
 msgid "For each of the pages, the corresponding template is used. To use your own template simply give it the same name and store in your theme folder. By default, if Event Organiser cannot find a template in your theme directory, it will use its own default template. You can disable this below. WordPress will then decide which template from your theme's folder to use."
-msgstr ""
+msgstr "各ページについて、対応するテンプレートが使用されます。独自のテンプレートを使用するには、同じ名前を付けてテーマフォルダに保存してください。デフォルトでEvent Organizerがテーマディレクトリ内のテンプレートを見つけることができない場合、独自のデフォルトテンプレートが使用されます。これを無効にすることができます。無効にした場合は、WordPressがテーマフォルダから使用するテンプレートを決定します。"
 
 #: includes/event-organiser-cpt.php:554
 msgid "This is the list of all saved events. Note that <strong> recurring events appear as a single row </strong> in the table and the start and end date refers to the first occurrence of that event."
