@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:38:24+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:38:54+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1273,7 +1273,7 @@ msgstr "あなたのテーマが適切なテンプレートでない場合、Eve
 
 #: includes/event-organiser-cpt.php:534
 msgid "If weekly recurrence is selected, select which days of the week the event should be repeated. If no days are selected, the day of the start date is used"
-msgstr ""
+msgstr "毎週の繰り返しが選択されている場合は、イベントを繰り返す曜日を選択します。日数が選択されていない場合は、開始日の日が使用されます。"
 
 #: includes/event-organiser-cpt.php:158
 msgid "Add New Tag"
