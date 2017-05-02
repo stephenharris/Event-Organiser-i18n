@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:16:03+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:16:49+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -920,7 +920,7 @@ msgstr "なし"
 
 #: includes/event-organiser-cpt.php:532
 msgid "Choose the recurrence end date. No further occurrences are added after this date, but an occurrence that starts before may finish after this date."
-msgstr ""
+msgstr "繰り返されるイベントの終了日を選択します。この日付の後に追加のオカレンスは追加されませんが、前に開始するオカレンスはこの日付の後に終了することがあります。"
 
 #: event-organiser-edit.php:182
 msgid "Recurrence frequency"
