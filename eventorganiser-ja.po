@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-03-05T04:25:54+00:00\n"
+"PO-Revision-Date: 2017-05-02T10:55:48+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -36,7 +36,7 @@ msgstr "24時間以内のイベント"
 
 #: event-organiser-go-pro.php:70
 msgid "Flexible Booking Options"
-msgstr ""
+msgstr "フレキシブル予約オプション"
 
 #: event-organiser-calendar.php:279
 msgid "Event Title"
