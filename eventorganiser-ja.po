@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:38:03+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:38:24+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1269,7 +1269,7 @@ msgstr "1つのイベントのみでイベントに直接リンクする"
 
 #: event-organiser-settings.php:366
 msgid "Event Organiser's page templates will be used if your theme does not provide appropriate templates."
-msgstr ""
+msgstr "あなたのテーマが適切なテンプレートでない場合、Event Organizerのページテンプレートが使用されます。"
 
 #: includes/event-organiser-cpt.php:534
 msgid "If weekly recurrence is selected, select which days of the week the event should be repeated. If no days are selected, the day of the start date is used"
