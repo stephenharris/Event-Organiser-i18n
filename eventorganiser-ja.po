@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:02:38+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:02:48+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1946,7 +1946,7 @@ msgstr "タグを編集"
 
 #: event-organiser-edit.php:215
 msgid "date of month"
-msgstr ""
+msgstr "月の日付"
 
 #: event-organiser-settings.php:181
 msgid "mm-dd-yyyy"
