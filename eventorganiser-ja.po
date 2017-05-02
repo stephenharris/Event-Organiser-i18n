@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T11:23:27+00:00\n"
+"PO-Revision-Date: 2017-05-02T11:24:32+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -353,7 +353,7 @@ msgstr "カレンダーやイベントリスト、アーカイブにて、過去
 #. / TRANSLATORS: This is the description that of the plug-in that appears in the "Plugins" page.
 #: includes/i18n.php:8
 msgid "Creates a custom post type 'events' with features such as recurring events, venues, Google Maps, calendar views and events and venue pages"
-msgstr ""
+msgstr "定期的なイベント、会場、Googleマップ、カレンダーの表示、イベントページ、会場ページなどの機能を備えたカスタムの投稿タイプ 「イベント」を作成します。"
 
 #: event-organiser-settings.php:269
 msgid "Check this option to prevent any stylesheets from Event Organiser being loaded on the front-end"
