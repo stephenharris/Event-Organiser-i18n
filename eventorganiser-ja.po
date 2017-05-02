@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:53:48+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:54:00+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1917,7 +1917,7 @@ msgstr "イベントを作成できる権限がありません"
 
 #: event-organiser-venues.php:402
 msgid "Latitude/Longitude:"
-msgstr ""
+msgstr "緯度/経度:"
 
 #: classes/class-eo-event-list-widget.php:58
 msgid "Running events"
