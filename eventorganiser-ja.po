@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T11:23:11+00:00\n"
+"PO-Revision-Date: 2017-05-02T11:23:17+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -330,7 +330,6 @@ msgid "To use Google Maps you need to register an API key with Google. You can r
 msgstr "Googleマップの使用にはAPIキーの登録が必要です。APIキーの登録%sこちらを参考にしてください%s"
 
 #: includes/event.php:1080
-#, fuzzy
 msgid "Occurrence not deleted. Occurrence not found."
 msgstr "オカレンスは削除されませんでした。オカレンスが見つかりません。"
 
@@ -339,7 +338,6 @@ msgid "Protected"
 msgstr "保護"
 
 #: includes/event-organiser-register.php:577
-#, fuzzy
 msgid "It is strongly recommended you select a city instead, even if you don't observe Daylight Savings Time."
 msgstr "都市を選択することをお勧めします"
 
