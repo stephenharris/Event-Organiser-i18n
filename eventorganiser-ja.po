@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:50:31+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:50:44+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1609,8 +1609,9 @@ msgid "View will take you to the venue's page"
 msgstr "ビューで会場のページに移動します"
 
 #: includes/event-organiser-ajax.php:444
+#, fuzzy
 msgid "Edit Event: %s"
-msgstr ""
+msgstr "イベントの編集"
 
 #: event-organiser-calendar.php:344
 msgid "Switch to month view"
