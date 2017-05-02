@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T11:16:19+00:00\n"
+"PO-Revision-Date: 2017-05-02T11:16:36+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -316,7 +316,7 @@ msgstr "カテゴリを検索"
 #: event-organiser-edit.php:99
 #, fuzzy
 msgid "Enter date in %s format"
-msgstr "イベント日時の形式"
+msgstr "イベント日時の%s 形式"
 
 #: includes/class-event-organiser-im-export.php:107
 msgid "Import categories"
