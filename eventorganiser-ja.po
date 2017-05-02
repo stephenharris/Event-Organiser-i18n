@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T11:32:45+00:00\n"
+"PO-Revision-Date: 2017-05-02T11:33:36+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -421,7 +421,7 @@ msgstr "イベントカテゴリのリスト／ドロップダウン"
 
 #: includes/event-organiser-cpt.php:562
 msgid "Edit takes you to the editing screen for that venue. You can also reach that screen by clicking on the venue title."
-msgstr ""
+msgstr "編集は会場の編集画面に移動します。会場のタイトルをクリックして編集画面にアクセスすることもできます。"
 
 #: includes/event-organiser-cpt.php:330
 #, php-format
