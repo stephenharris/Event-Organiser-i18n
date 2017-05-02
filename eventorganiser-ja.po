@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:55:17+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:56:07+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1858,7 +1858,7 @@ msgstr ""
 
 #: includes/event-organiser-cpt.php:574
 msgid "By clicking the relevant tab, you can view events in Month, Week or Day mode. You can also filter the events by events by category and venue. The 'go to date' button allows you to quickly jump to a specific date."
-msgstr ""
+msgstr "関連するタブをクリックすると、月、週、または日のモードでイベントを表示できます。また、カテゴリ別、会場別、イベント別にイベントをフィルタリングすることもできます。 「日付に行く」ボタンを使用すると、特定の日付にすばやくジャンプできます。"
 
 #: classes/class-eo-event-list-widget.php:166
 msgid "Event list widget placeholders"
