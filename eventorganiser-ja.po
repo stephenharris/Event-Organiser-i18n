@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T11:46:09+00:00\n"
+"PO-Revision-Date: 2017-05-02T11:46:23+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -604,7 +604,7 @@ msgstr "リストカテゴリスラッグは、カンマで区切ってくださ
 
 #: event-organiser-venues.php:308
 msgid "Toggle panel: Location"
-msgstr ""
+msgstr "トグルパネル：場所"
 
 #: includes/class-eo-admin-notice.php:125
 msgid "Dismiss this notice"
