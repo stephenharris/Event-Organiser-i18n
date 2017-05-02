@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T13:03:57+00:00\n"
+"PO-Revision-Date: 2017-05-02T13:04:02+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1824,7 +1824,7 @@ msgstr "1件のカテゴリが作成されました"
 
 #: event-organiser-calendar.php:352
 msgid "Switch to day view"
-msgstr "日付けビューに切り替える"
+msgstr "デイビューに切り替える"
 
 #: event-organiser-manage.php:156
 msgid "View all events"
