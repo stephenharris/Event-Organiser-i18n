@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-02T12:42:55+00:00\n"
+"PO-Revision-Date: 2017-05-02T12:43:39+00:00\n"
 "Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -1455,7 +1455,7 @@ msgstr "繰り返しイベントは削除されました。"
 
 #: includes/event-organiser-cpt.php:529
 msgid "To repeat an event according to some regular pattern, use the recurrence dropdown menu to select how the event is to repeat. Further options then appear, "
-msgstr ""
+msgstr "定期的なパターンに従ってイベントを繰り返すには、繰り返しドロップダウンメニューを使用して、イベントの繰り返し方法を選択します。さらにオプションが表示され、"
 
 #: event-organiser-settings.php:263
 msgid "Disable CSS:"
