@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-16T11:24:39+00:00\n"
+"PO-Revision-Date: 2017-05-16T11:24:41+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -420,6 +420,7 @@ msgstr "Zaškrtněte tuto možnost pro zabránění nahrání jakéhokoliv style
 
 #: includes/event-organiser-ajax.php:443
 #: includes/event-organiser-cpt.php:228
+#, fuzzy
 msgid "Edit Event"
 msgstr "Upravit událost"
 
@@ -428,6 +429,7 @@ msgid "For each of the pages, the corresponding template is used. To use your ow
 msgstr ""
 
 #: includes/event-organiser-cpt.php:554
+#, fuzzy
 msgid "This is the list of all saved events. Note that <strong> recurring events appear as a single row </strong> in the table and the start and end date refers to the first occurrence of that event."
 msgstr "Toto je seznam všech uložených událostí. Berte na vědomí, že <strong> opakující se události se ukazují jako jeden řádek </strong> v tabulce a že datum začátku a konce odpovídá prvnímu výskytu dané události."
 
