@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-16T11:27:19+00:00\n"
+"PO-Revision-Date: 2017-05-16T11:27:20+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -2205,10 +2205,12 @@ msgid "No events were imported."
 msgstr "Nebyla importována žádná místa."
 
 #: includes/event-organiser-cpt.php:36
+#, fuzzy
 msgid "Edit Venue"
 msgstr "Upravit místa"
 
 #: event-organiser-settings.php:153
+#, fuzzy
 msgid "Comments"
 msgstr "Komentáře"
 
