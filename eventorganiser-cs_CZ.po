@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-16T11:24:31+00:00\n"
+"PO-Revision-Date: 2017-05-16T11:24:34+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -389,6 +389,7 @@ msgid "Occurrence not deleted. Occurrence not found."
 msgstr "Výskyt nesmazán. Výskyt nenalezen."
 
 #: includes/event-organiser-ajax.php:345
+#, fuzzy
 msgid "Protected"
 msgstr "Chráněno"
 
@@ -397,6 +398,7 @@ msgid "It is strongly recommended you select a city instead, even if you don't o
 msgstr ""
 
 #: includes/class-event-organiser-im-export.php:103
+#, fuzzy
 msgid "Import an ICS file."
 msgstr "Importova ICS soubor."
 
