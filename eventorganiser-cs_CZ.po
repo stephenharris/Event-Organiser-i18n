@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-16T11:23:44+00:00\n"
+"PO-Revision-Date: 2017-05-16T11:23:46+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -250,15 +250,17 @@ msgid "You do not have sufficient permissions to import events."
 msgstr "Nemáte dostatečné oprávnění k importování událostí."
 
 #: includes/class-event-organiser-im-export.php:91
+#, fuzzy
 msgid "Export Events"
 msgstr "Exportovat události"
 
 #: event-organiser-settings.php:288
+#, fuzzy
 msgid "Event (single)"
 msgstr "Událost (příspěvek)"
 
 #: includes/class-event-organiser-im-export.php:271
-#, php-format
+#, php-format,fuzzy
 msgid "%d events were successfully imported"
 msgstr "%d událostí bylo úspěšně importováno"
 
