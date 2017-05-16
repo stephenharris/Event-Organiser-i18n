@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-16T11:24:59+00:00\n"
+"PO-Revision-Date: 2017-05-16T11:25:01+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -531,13 +531,14 @@ msgid "Warning:"
 msgstr "Varování:"
 
 #: event-organiser-manage.php:163
-#, php-format
+#, php-format,fuzzy
 msgid "Events within %d months"
 msgstr "Události v následujících %d měsících"
 
 #: event-organiser-settings.php:49
 #: event-organiser.php:125
 #: includes/event-organiser-install.php:119
+#, fuzzy
 msgid "Edit Others' Events"
 msgstr "Upravit cizí události"
 
