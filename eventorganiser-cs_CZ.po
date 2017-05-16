@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-16T11:24:24+00:00\n"
+"PO-Revision-Date: 2017-05-16T11:24:26+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -345,11 +345,12 @@ msgid "Events within 1 week"
 msgstr "Události v následujícím týdnu"
 
 #: includes/class-eo-ical-parser.php:1039
-#, php-format
+#, php-format,fuzzy
 msgid "Invalid date \"%s\". Date expected in YYYYMMDD format."
 msgstr "Neplatné datum \"%s\". Datum očekáváno v YYYYMMDD formátu."
 
 #: classes/class-eo-agenda-widget.php:12
+#, fuzzy
 msgid "Displays a list of events, grouped by date"
 msgstr "Zobrazí seznam událostí seskupených podle data"
 
