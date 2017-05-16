@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-16T11:23:39+00:00\n"
+"PO-Revision-Date: 2017-05-16T11:23:42+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -226,7 +226,7 @@ msgid "Events within 1 month"
 msgstr "Události v následujícím měsíci"
 
 #: includes/event-organiser-cpt.php:327
-#, php-format
+#, php-format,fuzzy
 msgid "Event published. <a href=\"%s\">View event</a>"
 msgstr "Událost publikována. <a href=\"%s\">Zobrazit</a>"
 
@@ -235,6 +235,7 @@ msgid "Enter time in 12-hour hh colon mm am or pm format"
 msgstr ""
 
 #: includes/event-organiser-event-functions.php:790
+#, fuzzy
 msgid "custom recurrence"
 msgstr "ručně nastavené opakování"
 
