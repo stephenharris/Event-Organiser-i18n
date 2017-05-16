@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-16T11:25:06+00:00\n"
+"PO-Revision-Date: 2017-05-16T11:25:08+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -591,6 +591,7 @@ msgid "A list or dropdown of event venues"
 msgstr "Seznam nebo výběr míst událostí."
 
 #: event-organiser-go-pro.php:55
+#, fuzzy
 msgid "But that's not all &hellip;"
 msgstr "Ale to není vše..."
 
@@ -599,6 +600,7 @@ msgid "Event venues list"
 msgstr ""
 
 #: includes/event-organiser-cpt.php:533
+#, fuzzy
 msgid "If monthly recurrence is selected, select whether this should repeat on that date of the month (e.g. on the 24th) or on the day of the month (e.g. on the third Tuesday) "
 msgstr "Pokud je vybráno měsíční opakování události, vyberte, zda se má událost opakovat v dané datum (např. 24) nebo v daný den měsíce (např. třetí čtvrtek)"
 
