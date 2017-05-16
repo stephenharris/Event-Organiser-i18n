@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-16T11:24:26+00:00\n"
+"PO-Revision-Date: 2017-05-16T11:24:28+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -355,10 +355,12 @@ msgid "Displays a list of events, grouped by date"
 msgstr "Zobrazí seznam událostí seskupených podle data"
 
 #: event-organiser-settings.php:284
+#, fuzzy
 msgid "If you have pretty permalinks enabled, select to have pretty premalinks for events."
 msgstr "Pokud máte zanuty pěkné trvalé odkazy, zaškrtněte, abyste měli pěkné trvalé odkazy pro události."
 
 #: includes/event-organiser-cpt.php:96
+#, fuzzy
 msgid "Search Categories"
 msgstr "Prohledat kategorie"
 
