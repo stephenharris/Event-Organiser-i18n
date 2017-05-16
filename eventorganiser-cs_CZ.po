@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-16T11:24:34+00:00\n"
+"PO-Revision-Date: 2017-05-16T11:24:39+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -404,6 +404,7 @@ msgstr "Importova ICS soubor."
 
 #: event-organiser-settings.php:166
 #: event-organiser-settings.php:193
+#, fuzzy
 msgid "Display past events on calendars, event lists and archives (this can be over-ridden by shortcode attributes and widget options)."
 msgstr "Zobrazit minulé události v kalendáři, seznamu událostí a archivu (toto je možné změnit parametry shortcodu a nastaveném widgetu)."
 
@@ -413,6 +414,7 @@ msgid "Creates a custom post type 'events' with features such as recurring event
 msgstr ""
 
 #: event-organiser-settings.php:269
+#, fuzzy
 msgid "Check this option to prevent any stylesheets from Event Organiser being loaded on the front-end"
 msgstr "Zaškrtněte tuto možnost pro zabránění nahrání jakéhokoliv stylesheetu z Event organizeru do front-endu"
 
