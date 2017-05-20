@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T01:59:51+00:00\n"
+"PO-Revision-Date: 2017-05-20T02:00:08+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -550,7 +550,7 @@ msgstr "Habilitar feed ICAL para os eventos:"
 #: includes/event-organiser-ajax.php:821
 #, php-format
 msgid "Event not created: %s"
-msgstr ""
+msgstr "Evento não criado: %s"
 
 #: event-organiser-settings.php:232
 #, php-format
@@ -563,7 +563,7 @@ msgstr "Quebrar esta série"
 
 #: event-organiser-settings.php:78
 msgid "Google Maps"
-msgstr ""
+msgstr "Google Maps"
 
 #: event-organiser-edit.php:116
 msgid "Start Time"
