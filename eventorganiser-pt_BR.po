@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T01:50:18+00:00\n"
+"PO-Revision-Date: 2017-05-20T01:50:45+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1757,7 +1757,7 @@ msgstr "Data/Horário Inicial"
 
 #: event-organiser-settings.php:365
 msgid "Enable template handling"
-msgstr "Habilitar"
+msgstr "Habilitar manipulação de template"
 
 #: includes/event-organiser-venue-functions.php:984
 msgid "Country"
