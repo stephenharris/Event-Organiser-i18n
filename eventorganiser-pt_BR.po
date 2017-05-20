@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T01:53:59+00:00\n"
+"PO-Revision-Date: 2017-05-20T01:54:13+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1921,7 +1921,7 @@ msgstr "Você não possui permissões suficientes para criar eventos"
 
 #: event-organiser-venues.php:402
 msgid "Latitude/Longitude:"
-msgstr ""
+msgstr "Latitude/Longitude:"
 
 #: classes/class-eo-event-list-widget.php:58
 msgid "Running events"
