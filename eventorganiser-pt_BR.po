@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T01:51:23+00:00\n"
+"PO-Revision-Date: 2017-05-20T01:51:40+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1799,6 +1799,7 @@ msgid "Search Tags"
 msgstr "Procurar Tags"
 
 #: event-organiser-settings.php:75
+#, fuzzy
 msgid "Add-on Licence keys"
 msgstr "Chaves de Licença de add-on"
 
@@ -1818,7 +1819,7 @@ msgstr "Permalinks"
 
 #: includes/class-eo-ical-parser.php:299
 msgid "There was an error opening the ICAL file."
-msgstr ""
+msgstr "Houve um erro ao abrir o arquivo ICAL."
 
 #: includes/class-event-organiser-im-export.php:281
 msgid "1 category was created"
