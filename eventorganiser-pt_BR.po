@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T01:54:26+00:00\n"
+"PO-Revision-Date: 2017-05-20T01:55:03+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1933,7 +1933,7 @@ msgstr "Adicionar informação em suas páginas local com campos personalizados 
 
 #: event-organiser-settings.php:362
 msgid "Event Organiser will attempt to ensure compatability with your theme and apply additional styles."
-msgstr ""
+msgstr "O Event Organiser vai tentar assegurar a compatibilidade com o seu tema e aplicar os estilos adicionais."
 
 #: classes/class-eo-calendar-widget.php:93
 #: classes/class-eo-event-list-widget.php:110
