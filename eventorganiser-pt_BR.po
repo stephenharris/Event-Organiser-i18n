@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T02:29:30+00:00\n"
+"PO-Revision-Date: 2017-05-20T02:29:37+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -2044,7 +2044,7 @@ msgstr "Pular para hoje na visualização"
 #: templates/taxonomy-event-tag.php:27
 #, php-format
 msgid "Event Tag: %s"
-msgstr ""
+msgstr "Tag do Evento: %s"
 
 #. //php.net/date
 #: includes/event-organiser-cpt.php:336
