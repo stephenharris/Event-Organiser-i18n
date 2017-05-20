@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T02:31:14+00:00\n"
+"PO-Revision-Date: 2017-05-20T02:31:26+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -2131,7 +2131,7 @@ msgstr "Obtenha o Event Organiser Pro"
 
 #: includes/event-organiser-cpt.php:240
 msgid "Event Archives"
-msgstr ""
+msgstr "Arquivos de Evento"
 
 #: includes/event-organiser-cpt.php:168
 msgid "View all tags"
