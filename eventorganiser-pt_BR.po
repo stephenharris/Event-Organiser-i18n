@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T01:45:52+00:00\n"
+"PO-Revision-Date: 2017-05-20T01:49:59+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1718,7 +1718,7 @@ msgstr "Feed não encontrado"
 
 #: event-organiser-debug.php:72
 msgid "Most bugs arise from theme or plug-in conflicts. You can check this by disabling all other plug-ins and switching to TwentyTweleve. To help speed things along, if you report a bug please indicate if you have done so. Once the plug-in or theme has been identified it is often easy to resolve the issue. Below any <strong>known</strong> plug-in and theme conflicts are highlighted in red."
-msgstr ""
+msgstr "A maioria dos bugs surgem devido a conflitos de temas ou plugins. Você pode verificar isso desabilitando todos os outros plugins e alternando para Twenty-Twelve. Para ajudar a agilizar as coisas, se você reportar um bug, por favor, indique se você fez isso. Uma vez que o tema ou plugin tenha sido identificado é geralmente mais fácil de resolver o problema. Abaixo, quaisquer conflitos de temas e plug-ins <strong>conhecidos</strong> estão destacados em vermelho."
 
 #: event-organiser-edit.php:240
 #: includes/event-organiser-register.php:245
