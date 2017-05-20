@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T02:15:00+00:00\n"
+"PO-Revision-Date: 2017-05-20T02:16:15+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1120,7 +1120,7 @@ msgstr "Organizador"
 
 #: event-organiser-go-pro.php:71
 msgid "Sell tickets for specific dates or sell tickets for all dates of an event - such as booking places on a course. You can offer multiple tickets, and customise the booking form to suit your needs."
-msgstr ""
+msgstr "Venda tickets em datas específicas ou para todas as datas de um evento - assim como agendar locais num curso. Você pode oferecer múltiplos tickets e personalizar o formulário de agendamento para atender suas necessidades."
 
 #: event-organiser-settings.php:41
 msgid "Event Organiser"
