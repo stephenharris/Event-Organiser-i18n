@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T02:22:57+00:00\n"
+"PO-Revision-Date: 2017-05-20T02:23:02+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1462,7 +1462,7 @@ msgstr "Para repetir um evento de acordo com algum padrão, utilize opção de r
 
 #: event-organiser-settings.php:263
 msgid "Disable CSS:"
-msgstr ""
+msgstr "Desabilitar CSS:"
 
 #: classes/class-eo-widget-categories.php:128
 #: classes/class-eo-widget-venues.php:129
