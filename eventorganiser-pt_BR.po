@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T01:36:37+00:00\n"
+"PO-Revision-Date: 2017-05-20T01:38:22+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -266,7 +266,7 @@ msgstr "último"
 
 #: event-organiser-debug.php:64
 msgid "This page highlights useful information for debugging. If you're reporting a bug, please include this information. The 'system info' link in under the Events admin tab is only visible to admins and only when %1$s is set to %1$s."
-msgstr ""
+msgstr "Esta página destaca informação útil para debug. Se você está reportando um bug, por favor, inclua esta informação. O link 'informações do sistema' abaixo da aba Eventos no admin é visível apenas para admins e somente quando %1$s está configurado para %1$s."
 
 #: includes/event-organiser-ajax.php:784
 msgid "Event not found"
