@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T02:17:07+00:00\n"
+"PO-Revision-Date: 2017-05-20T02:17:18+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1167,7 +1167,7 @@ msgstr "Shortcodes adicionais & UI melhorada"
 
 #: event-organiser-edit.php:492
 msgid "Event dates were not saved."
-msgstr ""
+msgstr "As datas do evento não foram salvas."
 
 #: classes/class-eo-calendar-widget.php:24
 msgid "Displays a calendar of your events"
