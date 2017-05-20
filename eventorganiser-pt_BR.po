@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T01:56:17+00:00\n"
+"PO-Revision-Date: 2017-05-20T01:56:36+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -375,7 +375,7 @@ msgstr "Esta é a lista de todos os eventos salvos. Lembre-se que <strong>evento
 
 #: event-organiser-settings.php:361
 msgid "Enable theme compatability mode (default)"
-msgstr ""
+msgstr "Habilitar o modo de compatibilidade de tema (padrão)"
 
 #: includes/event-organiser-register.php:246
 msgid "Hide dates"
