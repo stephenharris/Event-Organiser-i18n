@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T01:52:48+00:00\n"
+"PO-Revision-Date: 2017-05-20T01:53:59+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1913,7 +1913,7 @@ msgstr "Houve um erro ao detectar a origem do iCal."
 
 #: event-organiser-debug.php:253
 msgid "Known plug-in & theme conflicts, highlighted in red, may be minor or have a simple resolution. Please contact support."
-msgstr ""
+msgstr "Conflitos conhecidos de plug-in & tema destacados em vermelho podem ser irrelevantes ou ter uma solução simples. Por favor, contacte o suporte."
 
 #: event-organiser-calendar.php:125
 msgid "You do not have sufficient permissions to create events. "
