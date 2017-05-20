@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T01:55:35+00:00\n"
+"PO-Revision-Date: 2017-05-20T01:56:17+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -358,7 +358,7 @@ msgstr "Cria um custom post type 'events' com funcionalidades como eventos recor
 
 #: event-organiser-settings.php:269
 msgid "Check this option to prevent any stylesheets from Event Organiser being loaded on the front-end"
-msgstr ""
+msgstr "Selecione essa opção para prevenir que qualquer estilo do Event Organiser seja carregado no front-end"
 
 #: includes/event-organiser-ajax.php:443
 #: includes/event-organiser-cpt.php:228
