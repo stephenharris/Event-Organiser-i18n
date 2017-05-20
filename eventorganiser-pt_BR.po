@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T01:58:18+00:00\n"
+"PO-Revision-Date: 2017-05-20T01:58:51+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -541,7 +541,7 @@ msgstr "Todos os Eventos"
 #: classes/class-eo-event-list-widget.php:168
 #, php-format,fuzzy
 msgid "You can use specified tags as placeholders for event information which you want to appear in the widget. <a href=\"%s\" target=\"_blank\"> Find out more</a>."
-msgstr "Você pode usar tags específicas"
+msgstr "Você pode usar tags específicas como"
 
 #: event-organiser-settings.php:226
 msgid "Enable events ICAL feed:"
