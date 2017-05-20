@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T01:41:59+00:00\n"
+"PO-Revision-Date: 2017-05-20T01:42:58+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -354,7 +354,7 @@ msgstr "Exibir os eventos passados no calendário, listas de eventos e arquivos 
 #. / TRANSLATORS: This is the description that of the plug-in that appears in the "Plugins" page.
 #: includes/i18n.php:8
 msgid "Creates a custom post type 'events' with features such as recurring events, venues, Google Maps, calendar views and events and venue pages"
-msgstr ""
+msgstr "Cria um custom post type 'events' com funcionalidades como eventos recorrentes, locais, Google Maps, visualização de calendário e páginas de eventos e locais"
 
 #: event-organiser-settings.php:269
 msgid "Check this option to prevent any stylesheets from Event Organiser being loaded on the front-end"
