@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T02:13:59+00:00\n"
+"PO-Revision-Date: 2017-05-20T02:14:24+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -606,7 +606,7 @@ msgstr "Lista de slug(s), separados por vígrulas. Deixe em branco para todas"
 
 #: event-organiser-venues.php:308
 msgid "Toggle panel: Location"
-msgstr ""
+msgstr "Alternar painel: Localização"
 
 #: includes/class-eo-admin-notice.php:125
 msgid "Dismiss this notice"
