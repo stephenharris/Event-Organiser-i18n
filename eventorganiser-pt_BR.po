@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-04-16T22:57:03+00:00\n"
+"PO-Revision-Date: 2017-05-20T01:29:52+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -45,7 +45,7 @@ msgstr "Título do Evento"
 #: includes/event-organiser-cpt.php:226
 msgctxt "post"
 msgid "Add New"
-msgstr ""
+msgstr "Adicionar Novo"
 
 #: includes/event.php:870
 msgid "Event does not contain any dates."
