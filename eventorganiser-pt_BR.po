@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T01:45:16+00:00\n"
+"PO-Revision-Date: 2017-05-20T01:45:27+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1696,7 +1696,7 @@ msgstr "Selecione uma estrutura customizada para os links personalizados dos eve
 
 #: event-organiser-settings.php:318
 msgid "Day archive"
-msgstr ""
+msgstr "Arquivo do dia"
 
 #: event-organiser-venues.php:193
 msgid "Venue <strong>created</strong>"
