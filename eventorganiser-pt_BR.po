@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T02:22:40+00:00\n"
+"PO-Revision-Date: 2017-05-20T02:22:57+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1437,7 +1437,7 @@ msgstr "Ao selecionar 'não', uma ocorrência do evento só será considerada 'p
 
 #: event-organiser-calendar.php:332
 msgid "The following keyboard shortcuts are available"
-msgstr ""
+msgstr "Os seguintes atalhos de teclado estão disponíveis"
 
 #: event-organiser-manage.php:19
 #: includes/event-organiser-cpt.php:225
