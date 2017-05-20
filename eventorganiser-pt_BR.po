@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T02:17:48+00:00\n"
+"PO-Revision-Date: 2017-05-20T02:18:09+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1243,7 +1243,7 @@ msgstr "Data/Hora de Início:"
 #: features/bootstrap/FeatureContext.php:415
 #: features/bootstrap/FeatureContext.php:610
 msgid "Widgets in this area will be shown on all posts and pages."
-msgstr ""
+msgstr "Os widgets nesta área serão exibidos em todos os posts e páginas."
 
 #: event-organiser-settings.php:756
 msgid "Page list (fallback)"
