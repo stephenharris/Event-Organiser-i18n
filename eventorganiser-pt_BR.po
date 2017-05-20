@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T02:30:46+00:00\n"
+"PO-Revision-Date: 2017-05-20T02:30:57+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -2087,7 +2087,7 @@ msgstr "Semana"
 
 #: includes/event-organiser-register.php:588
 msgid "Enter a Google Maps API key"
-msgstr ""
+msgstr "Informe uma chave de API do Google Maps"
 
 #: includes/event-organiser-cpt.php:42
 msgid "Separate venues with commas"
