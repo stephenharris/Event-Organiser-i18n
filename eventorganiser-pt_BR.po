@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T01:35:54+00:00\n"
+"PO-Revision-Date: 2017-05-20T01:36:14+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -222,7 +222,7 @@ msgstr "Exportar Eventos"
 
 #: event-organiser-settings.php:288
 msgid "Event (single)"
-msgstr ""
+msgstr "Evento (single)"
 
 #: includes/class-event-organiser-im-export.php:271
 #, php-format
