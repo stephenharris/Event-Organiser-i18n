@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T02:04:30+00:00\n"
+"PO-Revision-Date: 2017-05-20T02:04:34+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -822,7 +822,7 @@ msgstr "Local <strong>não foi atualizado</strong>"
 
 #: event-organiser-add-ons.php:19
 msgid "Extensions"
-msgstr ""
+msgstr "Extensões"
 
 #: event-organiser-venues.php:126
 msgid "You do not have permission to delete this venue"
