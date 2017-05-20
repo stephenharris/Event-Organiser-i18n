@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T02:03:03+00:00\n"
+"PO-Revision-Date: 2017-05-20T02:03:39+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -736,7 +736,7 @@ msgstr "dias"
 #: event-organiser-add-ons.php:18
 #: event-organiser-add-ons.php:91
 msgid "Event Organiser Extensions"
-msgstr ""
+msgstr "Extensões do Event Organiser"
 
 #: includes/event-organiser-cpt.php:573
 msgid "This page shows all (occurrances of) events. You can view the summary of an event by clicking on it. If you have the necessary permissions, a link to the event's edit page will appear also."
