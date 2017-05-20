@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T01:43:40+00:00\n"
+"PO-Revision-Date: 2017-05-20T01:43:52+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1664,7 +1664,7 @@ msgstr "Selecione se a repetição mensal é por data ou por dia:"
 
 #: event-organiser-calendar.php:336
 msgid "Navigate to next period"
-msgstr ""
+msgstr "Navegar para o próximo período"
 
 #: event-organiser-edit.php:166
 msgid "yearly"
