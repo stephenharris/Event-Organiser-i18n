@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T02:03:57+00:00\n"
+"PO-Revision-Date: 2017-05-20T02:04:11+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -794,7 +794,7 @@ msgstr "Evento salvo."
 
 #: includes/event-organiser-cpt.php:99
 msgid "Parent Category:"
-msgstr ""
+msgstr "Categoria Mãe:"
 
 #: event-organiser-settings.php:149
 msgid "Author"
