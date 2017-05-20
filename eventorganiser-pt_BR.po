@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T02:16:15+00:00\n"
+"PO-Revision-Date: 2017-05-20T02:16:20+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1124,7 +1124,7 @@ msgstr "Venda tickets em datas específicas ou para todas as datas de um evento 
 
 #: event-organiser-settings.php:41
 msgid "Event Organiser"
-msgstr ""
+msgstr "Event Organiser"
 
 #: includes/event-organiser-cpt.php:162
 #: includes/event-organiser-event-functions.php:1557
