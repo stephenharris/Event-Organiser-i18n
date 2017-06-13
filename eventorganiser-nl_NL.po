@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-06-13T10:54:49+00:00\n"
+"PO-Revision-Date: 2017-06-13T10:54:51+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -25,6 +25,7 @@ msgstr "Evenementen Archief:"
 #: event-organiser-calendar.php:75
 #: includes/event-organiser-register.php:69
 #: includes/event-organiser-register.php:255
+#, fuzzy
 msgid "month"
 msgstr "maand"
 
