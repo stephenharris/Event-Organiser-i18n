@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-06-24T09:25:57+00:00\n"
+"PO-Revision-Date: 2017-06-24T09:26:06+00:00\n"
 "Language: sl_SI\n"
 "Plural-Forms: nplurals=4; plural=(n % 100 == 1) ? 0 : ((n % 100 == 2) ? 1 : ((n % 100 == 3 || n % 100 == 4) ? 2 : 3));\n"
 
@@ -189,7 +189,7 @@ msgstr "Lokacije nismo našli"
 
 #: classes/class-eo-event-list-widget.php:128
 msgid "Show:"
-msgstr ""
+msgstr "Prikaži"
 
 #: event-organiser-manage.php:162
 msgid "Events within 1 month"
