@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-06-24T09:29:45+00:00\n"
+"PO-Revision-Date: 2017-06-24T09:29:52+00:00\n"
 "Language: sl_SI\n"
 "Plural-Forms: nplurals=4; plural=(n % 100 == 1) ? 0 : ((n % 100 == 2) ? 1 : ((n % 100 == 3 || n % 100 == 4) ? 2 : 3));\n"
 
@@ -801,7 +801,7 @@ msgstr "Avtor"
 
 #: includes/event-organiser-cpt.php:109
 msgid "View all categories"
-msgstr ""
+msgstr "Poglej vse kategorije"
 
 #: includes/event-organiser-cpt.php:165
 msgid "Event tags list navigation"
