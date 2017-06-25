@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-06-25T08:22:03+00:00\n"
+"PO-Revision-Date: 2017-06-25T08:22:09+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -562,7 +562,7 @@ msgstr "Splits deze serie"
 
 #: event-organiser-settings.php:78
 msgid "Google Maps"
-msgstr ""
+msgstr "Google Maps"
 
 #: event-organiser-edit.php:116
 msgid "Start Time"
