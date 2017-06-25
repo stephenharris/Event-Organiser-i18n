@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-06-25T08:22:09+00:00\n"
+"PO-Revision-Date: 2017-06-25T08:22:14+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -605,7 +605,7 @@ msgstr "Toon categorie slug(s), gescheiden door komma. Leeg laten voor alle."
 
 #: event-organiser-venues.php:308
 msgid "Toggle panel: Location"
-msgstr ""
+msgstr "Locatie"
 
 #: includes/class-eo-admin-notice.php:125
 msgid "Dismiss this notice"
