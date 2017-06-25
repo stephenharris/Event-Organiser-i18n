@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-06-25T08:26:10+00:00\n"
+"PO-Revision-Date: 2017-06-25T08:27:52+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1688,7 +1688,7 @@ msgstr "Dit evenement is gemaakt door <a href=\"%3$s\">%2$s</a>."
 
 #: includes/event-organiser-register.php:590
 msgid "Google Maps now requires you register for an API key. If you wish to use maps on your site, %splease enter your key%s."
-msgstr ""
+msgstr "Google Maps vereist een geregistreerde API sleutel. Als je Google Maps op je site wilt gebruiken, %svoer dan hier je API sleutel in%s."
 
 #: event-organiser-settings.php:714
 msgid "Choose a custom permalink structure for events, venues, event categories and event tags."
