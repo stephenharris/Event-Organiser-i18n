@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-06-25T08:24:14+00:00\n"
+"PO-Revision-Date: 2017-06-25T08:24:44+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1415,7 +1415,7 @@ msgstr "Er is 1 locatie aangemaakt"
 #. / TRANSLATORS: [this plugin] requires [required plugin] version [required plugin version] or higher
 #: event-organiser-debug.php:437
 msgid "%1$s requires %1$s version %1$s or higher"
-msgstr ""
+msgstr "%1$s vereist %1$s versie %1$s of hoger"
 
 #: event-organiser-settings.php:716
 msgid "You may also need to go to WordPress Settings > Permalinks and click 'Save Changes' before any changes will take effect."
