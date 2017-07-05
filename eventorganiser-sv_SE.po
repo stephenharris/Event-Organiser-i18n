@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-05T18:22:30+00:00\n"
+"PO-Revision-Date: 2017-07-05T18:22:53+00:00\n"
 "Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -763,7 +763,7 @@ msgstr "Administrera lokaler"
 #: classes/class-eo-event-list-widget.php:117
 #: includes/event-organiser-cpt.php:49
 msgid "Venue:"
-msgstr "Plats"
+msgstr "Plats:"
 
 #: event-organiser-settings.php:223
 msgid "If selected the event will be automatically trashed 24 hours after the last occurrence finishes."
