@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-05T18:22:53+00:00\n"
+"PO-Revision-Date: 2017-07-05T18:23:05+00:00\n"
 "Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -773,7 +773,7 @@ msgstr "Om detta väljs kommer evenemanget att tas bort 24 timmar efter det sist
 #: includes/event-organiser-register.php:262
 #, php-format
 msgid "every %d weeks on"
-msgstr "va %d vecka på "
+msgstr "var %d vecka på"
 
 #: classes/class-eo-venue-list-table.php:75
 #, php-format
