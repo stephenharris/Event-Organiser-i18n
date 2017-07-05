@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-05T18:35:51+00:00\n"
+"PO-Revision-Date: 2017-07-05T18:35:58+00:00\n"
 "Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1624,7 +1624,7 @@ msgstr "Hämta länk"
 
 #: event-organiser-settings.php:585
 msgid "Event Settings"
-msgstr ""
+msgstr "Evenemangsinställningar"
 
 #: templates/event-meta-event-single.php:45
 #, php-format
