@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-05T19:28:19+00:00\n"
+"PO-Revision-Date: 2017-07-05T19:28:38+00:00\n"
 "Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -290,7 +290,7 @@ msgstr "Du har inte rätt att ta bort detta evenemang"
 
 #: event-organiser-go-pro.php:76
 msgid "Give your users the ability to search and filter through your events with the event search shortcode. Event Organiser Pro also adds a text editor button to make inserting and configuring your shortcodes that bit easier. "
-msgstr "Ge dina användare möjlighet att söka och filtrera genom dina händelser med snabbkoder. Event Organiser Pro lägger också till en textredigerarkanpp för att förenkla skapandet och konfigerarandet av dina snabbkoder."
+msgstr "Ge dina användare möjlighet att söka och filtrera genom dina händelser med snabbkoder. Event Organiser Pro lägger också till en textredigerarknapp för att förenkla skapandet och konfigurerandet av dina snabbkoder."
 
 #: event-organiser-manage.php:160
 msgid "Events within 1 week"
