@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-05T18:29:59+00:00\n"
+"PO-Revision-Date: 2017-07-05T18:30:09+00:00\n"
 "Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1237,7 +1237,7 @@ msgstr "Du har inte rätt att redigera denna lokal"
 
 #: event-organiser-edit.php:107
 msgid "Start Date/Time:"
-msgstr ""
+msgstr "Startdatum/tid"
 
 #: features/bootstrap/FeatureContext.php:415
 #: features/bootstrap/FeatureContext.php:610
