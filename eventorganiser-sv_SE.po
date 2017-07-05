@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-05T18:31:17+00:00\n"
+"PO-Revision-Date: 2017-07-05T18:31:29+00:00\n"
 "Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1346,7 +1346,7 @@ msgstr "Evenemang uppdaterat. "
 
 #: includes/event-organiser-ajax.php:393
 msgid "Organiser:"
-msgstr ""
+msgstr "Organisatör:"
 
 #: event-organiser-calendar.php:73
 #: includes/event-organiser-register.php:67
