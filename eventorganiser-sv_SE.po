@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-05T18:32:52+00:00\n"
+"PO-Revision-Date: 2017-07-05T18:33:11+00:00\n"
 "Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1436,7 +1436,7 @@ msgstr "Om 'nej' väljs kommer ett evenemangstillfälle anses vara genomfört n�
 
 #: event-organiser-calendar.php:332
 msgid "The following keyboard shortcuts are available"
-msgstr ""
+msgstr "tillgänglig"
 
 #: event-organiser-manage.php:19
 #: includes/event-organiser-cpt.php:225
