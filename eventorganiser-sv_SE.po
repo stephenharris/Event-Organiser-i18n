@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-05T18:44:33+00:00\n"
+"PO-Revision-Date: 2017-07-05T18:44:40+00:00\n"
 "Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2093,7 +2093,7 @@ msgstr "anpassad"
 
 #: classes/class-eo-event-list-widget.php:37
 msgid "No Events"
-msgstr ""
+msgstr "Inga evenemang"
 
 #: classes/class-eo-agenda-widget.php:153
 msgid "Add To Google Calendar"
