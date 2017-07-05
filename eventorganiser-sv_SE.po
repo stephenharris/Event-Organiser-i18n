@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-05T18:39:57+00:00\n"
+"PO-Revision-Date: 2017-07-05T18:40:09+00:00\n"
 "Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1826,7 +1826,7 @@ msgstr "1 kategori skapades"
 
 #: event-organiser-calendar.php:352
 msgid "Switch to day view"
-msgstr "Byt till dagsvy"
+msgstr "Byt till dagvy"
 
 #: event-organiser-manage.php:156
 msgid "View all events"
