@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-05T18:50:38+00:00\n"
+"PO-Revision-Date: 2017-07-05T18:51:02+00:00\n"
 "Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -898,7 +898,7 @@ msgstr "Kategorisida för evenemang"
 #: features/bootstrap/FeatureContext.php:413
 #: features/bootstrap/FeatureContext.php:608
 msgid "Main Sidebar"
-msgstr ""
+msgstr "Huvudsidofält"
 
 #: includes/event.php:736
 msgid "Invalid monthly schedule (invalid ordinal)"
