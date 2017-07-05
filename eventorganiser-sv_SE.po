@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-05T18:40:40+00:00\n"
+"PO-Revision-Date: 2017-07-05T18:41:23+00:00\n"
 "Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1962,7 +1962,7 @@ msgstr ""
 #: includes/event-organiser-register.php:578
 #, php-format
 msgid "You can <a href='%s'>change your timezone settings here</a>."
-msgstr ""
+msgstr "Du kan<a href='%s'>ändra dina tidzonsinställningar här</a>."
 
 #: classes/class-eo-event-list-widget.php:151
 msgid "ASC"
