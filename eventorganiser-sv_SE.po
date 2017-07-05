@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-05T18:26:21+00:00\n"
+"PO-Revision-Date: 2017-07-05T18:26:43+00:00\n"
 "Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -978,7 +978,7 @@ msgstr "Ändra rättigheter för evenemang och lokalhantering"
 
 #: classes/class-eo-event-list-widget.php:65
 msgid "Past events"
-msgstr ""
+msgstr "Passerade evenemang"
 
 #: classes/class-eo-agenda-widget.php:36
 #: classes/class-eo-calendar-widget.php:48
