@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-05T18:30:27+00:00\n"
+"PO-Revision-Date: 2017-07-05T18:31:06+00:00\n"
 "Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1292,7 +1292,7 @@ msgstr "Tagg"
 
 #: includes/event-organiser-ajax.php:792
 msgid "Events are not editable via the admin calendar"
-msgstr ""
+msgstr "Evenemang är inte ändringsbara via adminkalendern"
 
 #: event-organiser-calendar.php:76
 #: includes/event-organiser-register.php:70
