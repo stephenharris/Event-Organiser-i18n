@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-05T18:48:46+00:00\n"
+"PO-Revision-Date: 2017-07-05T18:49:21+00:00\n"
 "Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -570,7 +570,7 @@ msgstr "Starttid"
 
 #: event-organiser-go-pro.php:54
 msgid "Event Organiser Pro is a premium add-on bringing advanced booking management to Event Organiser."
-msgstr ""
+msgstr "Event Organiser Pro är ett premiumtillägg som ger avancerad bokningshantering till Event Organiser."
 
 #: includes/event-organiser-venue-functions.php:981
 msgid "City"
