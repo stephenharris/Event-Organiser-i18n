@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-05T19:15:28+00:00\n"
+"PO-Revision-Date: 2017-07-05T19:15:33+00:00\n"
 "Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -828,7 +828,6 @@ msgid "You do not have permission to delete this venue"
 msgstr "Du har inte behörighet att ta bort denna lokal"
 
 #: includes/event-organiser-register.php:558
-#, fuzzy
 msgid "<h4>The Default Templates Have Changed</h4>Don't panic! If you've set up your own templates in your theme you won't notice any change. </br> If you haven't and want the old templates back, <a href='http://wp-event-organiser.com/blog/new-default-templates-in-1-7'>see this post</a>."
 msgstr "<h4>Defaultmallen har ändrats</h4>Ingen panik! Om du har skapat egna mallar i ditt tema kommer du inte märka någon förändring.</br>Om du inte har gjort det och vill ha de gamla mallarna tillbaka, <a href='http://wp-event-organiser.com/blog/new-default-templates-in-1-7'>läs detta inlägg</a>."
 
