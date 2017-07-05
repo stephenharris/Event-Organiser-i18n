@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-05T18:48:29+00:00\n"
+"PO-Revision-Date: 2017-07-05T18:48:40+00:00\n"
 "Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -549,7 +549,7 @@ msgstr "Aktivera ICAL feed för evenemang:"
 #: includes/event-organiser-ajax.php:821
 #, php-format
 msgid "Event not created: %s"
-msgstr ""
+msgstr "Evenemanget skapades inte: %s"
 
 #: event-organiser-settings.php:232
 #, php-format
