@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-05T18:36:38+00:00\n"
+"PO-Revision-Date: 2017-07-05T18:37:55+00:00\n"
 "Language: sv_SE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1661,7 +1661,7 @@ msgstr "ICal-filen kan ej läsas"
 
 #: event-organiser-edit.php:211
 msgid "Select whether to repeat monthly by date or day:"
-msgstr ""
+msgstr "Välj datum eller dag för månatligt återkommande:"
 
 #: event-organiser-calendar.php:336
 msgid "Navigate to next period"
