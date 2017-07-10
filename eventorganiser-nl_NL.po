@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T14:14:36+00:00\n"
+"PO-Revision-Date: 2017-07-10T14:14:56+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1091,7 +1091,7 @@ msgstr "De startdatum is de datum waarop het evenement begint. Bij evenementen d
 #: includes/event-organiser-cpt.php:339
 #, php-format
 msgid "Event draft updated. <a target=\"_blank\" href=\"%s\">Preview event</a>"
-msgstr "Evenement concept bijgewerkt. <a target=\"_blank\" href=\"%s\">Bekijk evenement</a>"
+msgstr "Evenement-concept bijgewerkt. <a target=\"_blank\" href=\"%s\">Bekijk evenement</a>"
 
 #: templates/eo-loop-events.php:41
 msgid "Apologies, but no results were found for the requested archive. "
