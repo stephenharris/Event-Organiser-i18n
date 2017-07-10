@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T13:54:57+00:00\n"
+"PO-Revision-Date: 2017-07-10T13:57:04+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -483,7 +483,7 @@ msgstr "Ga voor Pro!"
 #: event-organiser.php:127
 #: includes/event-organiser-install.php:121
 msgid "Read Private Events"
-msgstr "Prive evenementen lezen"
+msgstr "Privé-evenementen lezen"
 
 #: includes/event-organiser-event-functions.php:777
 #: includes/event-organiser-register.php:272
