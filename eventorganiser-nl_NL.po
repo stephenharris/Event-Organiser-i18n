@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T14:11:38+00:00\n"
+"PO-Revision-Date: 2017-07-10T14:11:42+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -872,7 +872,7 @@ msgstr "Bekijken"
 
 #: event-organiser-calendar.php:229
 msgid "Calendar options"
-msgstr "Kalender opties"
+msgstr "Kalenderopties"
 
 #: event-organiser-calendar.php:389
 msgid "Event Detail"
