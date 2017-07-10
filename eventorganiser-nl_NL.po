@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T13:59:30+00:00\n"
+"PO-Revision-Date: 2017-07-10T13:59:56+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -573,7 +573,7 @@ msgstr "Starttijd"
 
 #: event-organiser-go-pro.php:54
 msgid "Event Organiser Pro is a premium add-on bringing advanced booking management to Event Organiser."
-msgstr "Event Organiser Pro is een hoogwaardige extensie met vergevorderde reserveringsbeheer mogelijkheden als uitbreiding op Event Organizer. "
+msgstr "Event Organiser Pro is een hoogwaardige extensie met vergevorderde reserveringsbeheer mogelijkheden als uitbreiding op Event Organizer."
 
 #: includes/event-organiser-venue-functions.php:981
 msgid "City"
