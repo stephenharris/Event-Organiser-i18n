@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T14:26:40+00:00\n"
+"PO-Revision-Date: 2017-07-10T14:27:06+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1950,7 +1950,7 @@ msgstr "Zoekwoord aanpassen"
 
 #: event-organiser-edit.php:215
 msgid "date of month"
-msgstr "dag van de maand"
+msgstr "datum van de maand"
 
 #: event-organiser-settings.php:181
 msgid "mm-dd-yyyy"
