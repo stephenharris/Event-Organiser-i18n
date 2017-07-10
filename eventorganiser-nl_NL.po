@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T14:20:17+00:00\n"
+"PO-Revision-Date: 2017-07-10T14:20:21+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1626,7 +1626,7 @@ msgstr "Link tonen"
 
 #: event-organiser-settings.php:585
 msgid "Event Settings"
-msgstr "Evenement instellingen"
+msgstr "Evenementinstellingen"
 
 #: templates/event-meta-event-single.php:45
 #, php-format
