@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T14:22:53+00:00\n"
+"PO-Revision-Date: 2017-07-10T14:22:58+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1794,7 +1794,7 @@ msgstr "Populaire zoekwoorden"
 
 #: event-organiser-calendar.php:224
 msgid "View keyboard shortcuts"
-msgstr "Laat toetsenbord snelkoppelingen zien"
+msgstr "Laat toetsenbordsnelkoppelingen zien"
 
 #: includes/event-organiser-cpt.php:153
 msgid "Search Tags"
