@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T13:40:16+00:00\n"
+"PO-Revision-Date: 2017-07-10T13:41:18+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -72,7 +72,7 @@ msgstr "URL naam"
 #: event-organiser-edit.php:320
 #, fuzzy
 msgid "Google Maps now requires you register for an API key. If you wish to use maps on your site, %1$splease enter your key%2$s."
-msgstr "Google Maps vereist dat je een API-sleutel aanvraagt. Als je Google Maps wil gebruiken op je site, geef"
+msgstr "Google Maps vereist dat je een API-sleutel aanvraagt. Als je Google Maps wil gebruiken op je site, %1$sgeef je sleutel in a.u.b.%2$s."
 
 #: includes/event-organiser-cpt.php:35
 msgid "View Venue"
