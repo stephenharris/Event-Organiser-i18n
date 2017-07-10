@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T14:15:23+00:00\n"
+"PO-Revision-Date: 2017-07-10T14:15:36+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1135,7 +1135,7 @@ msgstr "Zoekwoorden"
 
 #: event-organiser-edit.php:135
 msgid "End Date"
-msgstr "Eind Datum/"
+msgstr "Einddatum"
 
 #: includes/class-eo-ical-parser.php:549
 #: includes/class-eo-ical-parser.php:574
