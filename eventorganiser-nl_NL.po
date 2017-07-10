@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T14:25:33+00:00\n"
+"PO-Revision-Date: 2017-07-10T14:26:08+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1929,7 +1929,7 @@ msgstr "Lopende evenementen"
 
 #: event-organiser-go-pro.php:81
 msgid "Add information on your venue pages with venue custom fields, or give your venues more attentioned with their own 'featured image'"
-msgstr "Voeg informatie op uw locatie pagina's d.m.v. speciale locatie velden, of trek meer aandacht d.m.v. een geselecteerde afbeelding"
+msgstr "Voeg informatie op uw locatiepagina's d.m.v. aangepaste locatievelden, of trek meer aandacht d.m.v. een geselecteerde afbeelding"
 
 #: event-organiser-settings.php:362
 msgid "Event Organiser will attempt to ensure compatability with your theme and apply additional styles."
