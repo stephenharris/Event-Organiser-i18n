@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T14:27:42+00:00\n"
+"PO-Revision-Date: 2017-07-10T14:27:53+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2022,7 +2022,7 @@ msgstr "Export"
 
 #: event-organiser-calendar.php:348
 msgid "Switch to week view"
-msgstr "Schakel naar week view"
+msgstr "Schakel naar weekweergave"
 
 #: event-organiser-calendar.php:356
 msgid "Jump to today in view"
