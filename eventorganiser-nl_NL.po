@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T14:17:02+00:00\n"
+"PO-Revision-Date: 2017-07-10T14:17:18+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1277,7 +1277,7 @@ msgstr "Event Organiser's paginatemplates zullen worden gebruikt als je thema di
 
 #: includes/event-organiser-cpt.php:534
 msgid "If weekly recurrence is selected, select which days of the week the event should be repeated. If no days are selected, the day of the start date is used"
-msgstr "Wanneer het evenement wekelijks terugkeerd, kies dan de dagen van de week waarop het evenement zich herhaald. Indien geen dag wordt gekozen, dan wordt standaard de dag van de startdatum gebruikt."
+msgstr "Wanneer het evenement wekelijks terugkeert, kies dan de dagen van de week waarop het evenement zich herhaald. Indien geen dag wordt gekozen, dan wordt standaard de dag van de startdatum gebruikt."
 
 #: includes/event-organiser-cpt.php:158
 msgid "Add New Tag"
