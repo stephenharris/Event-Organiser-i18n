@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T14:03:24+00:00\n"
+"PO-Revision-Date: 2017-07-10T14:03:34+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -604,7 +604,7 @@ msgstr "Vorige maand"
 #: classes/class-eo-calendar-widget.php:96
 #: classes/class-eo-event-list-widget.php:112
 msgid "List category slug(s), seperate by comma. Leave blank for all"
-msgstr "Toon categorie slug(s), gescheiden door komma. Leeg laten voor alle."
+msgstr "Toon categorie-slug(s), gescheiden door komma. Leeg laten voor alle."
 
 #: event-organiser-venues.php:308
 msgid "Toggle panel: Location"
