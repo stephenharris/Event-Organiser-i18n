@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T14:13:42+00:00\n"
+"PO-Revision-Date: 2017-07-10T14:14:11+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1022,7 +1022,7 @@ msgstr "Dit evenement is losgekoppeld van een terugkerende gebeurtenis."
 
 #: includes/event-organiser-cpt.php:107
 msgid "Event categories list"
-msgstr "Evenement categorie&#235;n lijst"
+msgstr "Evenementcategorieënlijst"
 
 #: includes/event-organiser-event-functions.php:799
 #: includes/event-organiser-register.php:260
