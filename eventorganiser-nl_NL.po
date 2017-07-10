@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T14:28:12+00:00\n"
+"PO-Revision-Date: 2017-07-10T14:28:20+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2049,7 +2049,7 @@ msgstr "j M, Y - G:i"
 
 #: event-organiser-add-ons.php:95
 msgid "Event Organiser offers a range of extension which add additional features to the plug-in."
-msgstr "Event Organiser bied een assortiment van extensies die extra functionaliteit bieden aan de plug-in Event Organiser"
+msgstr "Event Organiser bied een assortiment van extensies die extra functionaliteit bieden aan de plug-in."
 
 #: includes/event-organiser-cpt.php:578
 msgid "Add Event"
