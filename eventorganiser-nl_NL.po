@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T14:15:02+00:00\n"
+"PO-Revision-Date: 2017-07-10T14:15:23+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1111,7 +1111,7 @@ msgstr "Voor meer informatie"
 
 #: event-organiser-settings.php:174
 msgid "Date Format:"
-msgstr "Datum instelling:"
+msgstr "Datumformaat:"
 
 #: event-organiser-edit.php:21
 #: event-organiser-manage.php:23
