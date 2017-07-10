@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T14:23:19+00:00\n"
+"PO-Revision-Date: 2017-07-10T14:23:47+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1828,7 +1828,7 @@ msgstr "1 categorie aangemaakt"
 
 #: event-organiser-calendar.php:352
 msgid "Switch to day view"
-msgstr "Schakel naar dag view"
+msgstr "Schakel naar dagweergave"
 
 #: event-organiser-manage.php:156
 msgid "View all events"
