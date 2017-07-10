@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T14:24:33+00:00\n"
+"PO-Revision-Date: 2017-07-10T14:25:06+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1901,7 +1901,7 @@ msgstr "De onderstaande Export-knop genereert een ICS bestand van de evenementen
 #: classes/class-eo-widget-categories.php:11
 #: event-organiser-settings.php:333
 msgid "Event Categories"
-msgstr "Evenement categorie&#235;n"
+msgstr "Evenementencategorieën"
 
 #: includes/event-organiser-register.php:258
 msgid "years"
