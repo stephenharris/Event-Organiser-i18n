@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T14:05:44+00:00\n"
+"PO-Revision-Date: 2017-07-10T14:05:55+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -668,7 +668,7 @@ msgstr "Evenementpagina:"
 #: event-organiser-debug.php:14
 #: event-organiser-debug.php:57
 msgid "System Info"
-msgstr "Systeem Informatie"
+msgstr "Systeeminformatie"
 
 #: includes/event-organiser-register.php:257
 msgid "year"
