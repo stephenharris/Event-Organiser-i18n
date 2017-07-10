@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T14:10:39+00:00\n"
+"PO-Revision-Date: 2017-07-10T14:11:10+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -808,7 +808,7 @@ msgstr "Alle categorie&#235;n"
 
 #: includes/event-organiser-cpt.php:165
 msgid "Event tags list navigation"
-msgstr "Evenement zoekwoorden lijst navigatie"
+msgstr "Evenementzoekwoordennavigatie"
 
 #: event-organiser-settings.php:258
 msgid "Templates:"
