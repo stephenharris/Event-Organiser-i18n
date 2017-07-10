@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T14:22:37+00:00\n"
+"PO-Revision-Date: 2017-07-10T14:22:53+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1756,7 +1756,7 @@ msgstr "Evenement gepland voor: <strong>%1$s</strong>. <a target=\"_blank\" href
 
 #: event-organiser-manage.php:35
 msgid "Start Date/Time"
-msgstr "Start Datum/Tijd"
+msgstr "Startdatum/-tijd"
 
 #: event-organiser-settings.php:365
 msgid "Enable template handling"
