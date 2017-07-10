@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-07-10T14:21:35+00:00\n"
+"PO-Revision-Date: 2017-07-10T14:22:03+00:00\n"
 "Language: nl_NL\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1695,7 +1695,7 @@ msgstr "Google Maps vereist een geregistreerde API-sleutel. Als je Google Maps o
 
 #: event-organiser-settings.php:714
 msgid "Choose a custom permalink structure for events, venues, event categories and event tags."
-msgstr "Kies een mooie permalink voor de onderstaande pagina soorten."
+msgstr "Kies een aangepaste permalinkstructuur voor evenementen, locaties, gebeurteniscategorieën en event tags."
 
 #: event-organiser-settings.php:318
 msgid "Day archive"
