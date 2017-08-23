@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-08-23T05:25:10+00:00\n"
+"PO-Revision-Date: 2017-08-23T05:28:57+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -270,7 +270,7 @@ msgstr "ultimo"
 #: event-organiser-debug.php:64
 #, fuzzy
 msgid "This page highlights useful information for debugging. If you're reporting a bug, please include this information. The 'system info' link in under the Events admin tab is only visible to admins and only when %1$s is set to %1$s."
-msgstr "Questa pagina evidenzia informazioni utili per il debug. Se stai segnalando un bug, includi queste informazioni. Il link 'system info' sotto la scheda admin eventi è visibile solo agli amministratori e solo quando %1$s è impostato su %1$s."
+msgstr "Questa pagina evidenzia informazioni utili per il debug. Se stai segnalando un bug, includi queste informazioni. Il  link 'system info' nella scheda di amministrazione degli Eventi è visibile solo agli amministratori e solo quando %1$s è impostato su %1$s."
 
 #: includes/event-organiser-ajax.php:784
 #, fuzzy
