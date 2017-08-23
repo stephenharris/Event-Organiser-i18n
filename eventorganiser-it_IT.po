@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-08-23T05:34:07+00:00\n"
+"PO-Revision-Date: 2017-08-23T05:34:26+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -758,7 +758,6 @@ msgid "Current date/time"
 msgstr "Data/ora attuale"
 
 #: includes/class-eo-ical-parser.php:428
-#, fuzzy
 msgid "Feed contains an indefinitely recurring event. This event will recurr until %s."
 msgstr "Il feed contiene un evento indefinitamente ricorrente. Questo evento si ripeterà fino a %s."
 
@@ -772,7 +771,7 @@ msgstr "Modifica luogo"
 #: includes/event-organiser-cpt.php:49
 #, fuzzy
 msgid "Venue:"
-msgstr "Luogo:"
+msgstr "Sede:"
 
 #: event-organiser-settings.php:223
 msgid "If selected the event will be automatically trashed 24 hours after the last occurrence finishes."
