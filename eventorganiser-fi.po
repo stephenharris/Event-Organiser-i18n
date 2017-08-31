@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-08-31T14:17:26+00:00\n"
+"PO-Revision-Date: 2017-08-31T14:17:28+00:00\n"
 "Language: fi\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -63,11 +63,13 @@ msgid "Month"
 msgstr "Kuukausi"
 
 #: includes/event-organiser-register.php:65
+#, fuzzy
 msgid "Show Less"
 msgstr "Näytä vähemmän"
 
 #: includes/event-organiser-event-functions.php:818
 #: includes/event-organiser-register.php:263
+#, fuzzy
 msgid "every month on the"
 msgstr "joka kuukausi"
 
