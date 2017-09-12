@@ -17,24 +17,20 @@ msgid "Event Organiser's page templates will not be used."
 msgstr ""
 
 #: event-organiser-settings.php:652
-#, fuzzy
 msgid "Events archives:"
 msgstr "Tapahtumarkisto:"
 
 #: event-organiser-calendar.php:75
 #: includes/event-organiser-register.php:69
 #: includes/event-organiser-register.php:255
-#, fuzzy
 msgid "month"
 msgstr "kuukausi"
 
 #: includes/event-organiser-cpt.php:154
-#, fuzzy
 msgid "All Tags"
 msgstr "Kaikki avainsanat"
 
 #: event-organiser-manage.php:159
-#, fuzzy
 msgid "Events within 24 hours"
 msgstr "Tapahtumat vuorokauden sisällä"
 
@@ -43,7 +39,6 @@ msgid "Flexible Booking Options"
 msgstr ""
 
 #: event-organiser-calendar.php:279
-#, fuzzy
 msgid "Event Title"
 msgstr "Tapahtuman otsikko"
 
@@ -58,23 +53,19 @@ msgstr ""
 
 #: classes/class-eo-agenda-widget.php:45
 #: event-organiser-calendar.php:253
-#, fuzzy
 msgid "Month"
 msgstr "Kuukausi"
 
 #: includes/event-organiser-register.php:65
-#, fuzzy
 msgid "Show Less"
 msgstr "Näytä vähemmän"
 
 #: includes/event-organiser-event-functions.php:818
 #: includes/event-organiser-register.php:263
-#, fuzzy
 msgid "every month on the"
 msgstr "joka kuukausi"
 
 #: event-organiser-venues.php:465
-#, fuzzy
 msgid "Slug"
 msgstr "Polkutunnus"
 
@@ -83,7 +74,6 @@ msgid "Google Maps now requires you register for an API key. If you wish to use 
 msgstr ""
 
 #: includes/event-organiser-cpt.php:35
-#, fuzzy
 msgid "View Venue"
 msgstr "Katso tapahtumapaikka"
 
@@ -93,17 +83,16 @@ msgid "Events at %s"
 msgstr ""
 
 #: event-organiser-venues.php:244
-#, php-format,fuzzy
+#, php-format
 msgid "Search results for &#8220;%s&#8221;"
 msgstr "Hakutulokset &#8220;%s&#8221;"
 
 #: includes/event-organiser-cpt.php:586
-#, php-format,fuzzy
+#, php-format
 msgid "See the <a %s> documentation</a>"
 msgstr "Katso <a %s> ohjeistus</a>"
 
 #: includes/event-organiser-register.php:254
-#, fuzzy
 msgid "weeks"
 msgstr "viikot"
 
