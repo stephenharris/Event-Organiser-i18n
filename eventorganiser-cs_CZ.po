@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T20:22:06+00:00\n"
+"PO-Revision-Date: 2017-10-09T20:22:26+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -933,7 +933,7 @@ msgstr "Frekvence opakovaní"
 
 #: event-organiser-calendar.php:364
 msgid "Close modal"
-msgstr ""
+msgstr "Zavřít"
 
 #: includes/event-organiser-event-functions.php:851
 #, php-format
