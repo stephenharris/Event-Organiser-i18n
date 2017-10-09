@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T19:58:37+00:00\n"
+"PO-Revision-Date: 2017-10-09T19:58:39+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -202,6 +202,7 @@ msgid "Event published. <a href=\"%s\">View event</a>"
 msgstr "Událost publikována. <a href=\"%s\">Zobrazit</a>"
 
 #: event-organiser-edit.php:100
+#, fuzzy
 msgid "Enter time in 12-hour hh colon mm am or pm format"
 msgstr "Zadejte 12 hodinový formát hh dvojtečka mm am nebo pm formát"
 
