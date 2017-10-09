@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T19:54:07+00:00\n"
+"PO-Revision-Date: 2017-10-09T19:54:11+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -160,7 +160,6 @@ msgid "Venue Name"
 msgstr "Název místa"
 
 #: event-organiser-settings.php:152
-#, fuzzy
 msgid "Custom Fields"
 msgstr "Uživatelská pole"
 
@@ -169,7 +168,7 @@ msgid "Delete this event"
 msgstr "Smazat událost"
 
 #: includes/class-eo-ical-parser.php:279
-#, php-format,fuzzy
+#, php-format
 msgid "There was an error fetching the feed. Response code: %s."
 msgstr "Nastala chyba při záskávání feedu. Kód odpovědi: %s."
 
