@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T20:27:38+00:00\n"
+"PO-Revision-Date: 2017-10-09T20:27:46+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -1548,7 +1548,7 @@ msgstr "Opravdu to chcete udělat?"
 
 #: event-organiser-calendar.php:213
 msgid "Event deleted."
-msgstr ""
+msgstr "Událost smazána."
 
 #: event-organiser-calendar.php:74
 #: includes/event-organiser-register.php:68
