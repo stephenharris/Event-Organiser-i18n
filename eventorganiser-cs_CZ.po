@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T19:38:43+00:00\n"
+"PO-Revision-Date: 2017-10-09T19:39:18+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -83,7 +83,6 @@ msgid "Google Maps now requires you register for an API key. If you wish to use 
 msgstr ""
 
 #: includes/event-organiser-cpt.php:35
-#, fuzzy
 msgid "View Venue"
 msgstr "Ukázat místo"
 
@@ -95,7 +94,7 @@ msgstr "Události v %s"
 #: event-organiser-venues.php:244
 #, php-format,fuzzy
 msgid "Search results for &#8220;%s&#8221;"
-msgstr "Výsledky hledání pro “%s”"
+msgstr "Výsledky hledání pro &#8220;%s&#8221;"
 
 #: includes/event-organiser-cpt.php:586
 #, php-format,fuzzy
