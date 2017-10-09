@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T20:43:19+00:00\n"
+"PO-Revision-Date: 2017-10-09T20:45:12+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -369,7 +369,7 @@ msgstr "Upravit událost"
 
 #: event-organiser-settings.php:645
 msgid "For each of the pages, the corresponding template is used. To use your own template simply give it the same name and store in your theme folder. By default, if Event Organiser cannot find a template in your theme directory, it will use its own default template. You can disable this below. WordPress will then decide which template from your theme's folder to use."
-msgstr ""
+msgstr "Pro každou stránku je použita příslušná šablona. Chcete-li použít svou vlastní šablonu, jednoduše ji pojmenujte stejně a uložte do složky s motivy. Ve výchozím nastavení, pokud Event Organizer nenajde šablonu v adresáři motivu, bude používat vlastní výchozí šablonu. Toto můžete zakázat níže. WordPress pak rozhodne, kterou šablonu ze složky vašeho tématu použije."
 
 #: includes/event-organiser-cpt.php:554
 msgid "This is the list of all saved events. Note that <strong> recurring events appear as a single row </strong> in the table and the start and end date refers to the first occurrence of that event."
