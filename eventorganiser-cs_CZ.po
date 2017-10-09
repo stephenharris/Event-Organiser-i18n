@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T20:07:17+00:00\n"
+"PO-Revision-Date: 2017-10-09T20:07:19+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -473,7 +473,6 @@ msgid "Edit Others' Events"
 msgstr "Upravit ostatní události"
 
 #: includes/event-organiser-cpt.php:102
-#, fuzzy
 msgid "Add New Category"
 msgstr "Přidat novou kategorii"
 
