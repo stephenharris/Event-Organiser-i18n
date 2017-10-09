@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T19:55:00+00:00\n"
+"PO-Revision-Date: 2017-10-09T19:55:05+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -193,7 +193,6 @@ msgid "Show:"
 msgstr "Zobrazit:"
 
 #: event-organiser-manage.php:162
-#, fuzzy
 msgid "Events within 1 month"
 msgstr "Události v následujícím měsíci"
 
