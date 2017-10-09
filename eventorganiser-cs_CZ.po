@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T20:28:45+00:00\n"
+"PO-Revision-Date: 2017-10-09T20:29:14+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -1616,7 +1616,7 @@ msgstr "'Zobrazit' vás přenese na stránku místa."
 
 #: includes/event-organiser-ajax.php:444
 msgid "Edit Event: %s"
-msgstr ""
+msgstr "Upravit událost: %s"
 
 #: event-organiser-calendar.php:344
 msgid "Switch to month view"
