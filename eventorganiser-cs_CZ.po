@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T20:10:51+00:00\n"
+"PO-Revision-Date: 2017-10-09T20:10:55+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -596,7 +596,7 @@ msgstr "Formát data/času události"
 #: classes/class-eo-venue-list-table.php:82
 #, php-format,fuzzy
 msgid "Delete &#8220;%s&#8221;"
-msgstr "Smazat"
+msgstr "Smazat &#8220;%s&#8221;"
 
 #: classes/class-eo-calendar-widget.php:296
 msgid "Previous month"
