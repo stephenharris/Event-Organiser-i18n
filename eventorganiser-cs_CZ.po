@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T20:37:46+00:00\n"
+"PO-Revision-Date: 2017-10-09T20:38:07+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -1962,7 +1962,7 @@ msgstr "mm-dd-yyyy"
 #. / TRANSLATORS: [this plugin] has only been tested up to [required plugin] [required plugin version]
 #: event-organiser-debug.php:424
 msgid "%1$s has only been tested up to %1$s %1$s"
-msgstr ""
+msgstr "%1$s bylo pouze testováno do %1$s %1$s"
 
 #: includes/event-organiser-register.php:578
 #, php-format
