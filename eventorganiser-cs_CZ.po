@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T20:00:51+00:00\n"
+"PO-Revision-Date: 2017-10-09T20:01:17+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -357,7 +357,7 @@ msgstr "Zobrazit minulé události v kalendáři, seznamu událostí a archivu (
 #. / TRANSLATORS: This is the description that of the plug-in that appears in the "Plugins" page.
 #: includes/i18n.php:8
 msgid "Creates a custom post type 'events' with features such as recurring events, venues, Google Maps, calendar views and events and venue pages"
-msgstr ""
+msgstr "Vytvoří vlastní událost typu \"události\" s funkcemi, jako jsou opakující se události, místa, mapy Google, zobrazení kalendáře a události a místo konání"
 
 #: event-organiser-settings.php:269
 #, fuzzy
