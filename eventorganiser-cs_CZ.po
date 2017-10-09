@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T19:59:09+00:00\n"
+"PO-Revision-Date: 2017-10-09T19:59:20+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -284,7 +284,6 @@ msgid "Event not found"
 msgstr "Událost nenalezena"
 
 #: includes/event-organiser-cpt.php:522
-#, fuzzy
 msgid "The end date is the date the event finishes. If the event is a recurring event, this is the end date of the first occurrence."
 msgstr "Datum konce je datum, kdy událost končí. Pokud se jedná o opakující se událost, je toto konec prvního výskytu."
 
