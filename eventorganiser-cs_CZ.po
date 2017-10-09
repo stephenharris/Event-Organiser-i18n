@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T19:59:53+00:00\n"
+"PO-Revision-Date: 2017-10-09T20:00:20+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -296,7 +296,6 @@ msgid "Give your users the ability to search and filter through your events with
 msgstr "Dát vašim uživatelům možnost vyhledávat a filtrovat události s pomocí shortcodu pro vyhledávání. Event Organiser Pro také přidává tlačítko textového editoru pro zlehčení vkládání a konfigurace shortcodů."
 
 #: event-organiser-manage.php:160
-#, fuzzy
 msgid "Events within 1 week"
 msgstr "Události v následujícím týdnu"
 
