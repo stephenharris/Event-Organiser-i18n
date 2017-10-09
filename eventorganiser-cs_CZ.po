@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T19:50:50+00:00\n"
+"PO-Revision-Date: 2017-10-09T19:51:04+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -441,7 +441,6 @@ msgstr "Revize"
 
 #: event-organiser-calendar.php:72
 #: includes/event-organiser-register.php:66
-#, fuzzy
 msgid "today"
 msgstr "dnes"
 
