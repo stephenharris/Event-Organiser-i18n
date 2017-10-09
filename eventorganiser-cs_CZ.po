@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T19:40:32+00:00\n"
+"PO-Revision-Date: 2017-10-09T19:40:36+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -58,18 +58,15 @@ msgstr "Událost neobsahuje datum."
 
 #: classes/class-eo-agenda-widget.php:45
 #: event-organiser-calendar.php:253
-#, fuzzy
 msgid "Month"
 msgstr "Měsíc"
 
 #: includes/event-organiser-register.php:65
-#, fuzzy
 msgid "Show Less"
 msgstr "Ukázat méně"
 
 #: includes/event-organiser-event-functions.php:818
 #: includes/event-organiser-register.php:263
-#, fuzzy
 msgid "every month on the"
 msgstr "každý měsíc v"
 
