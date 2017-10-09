@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T20:09:59+00:00\n"
+"PO-Revision-Date: 2017-10-09T20:10:13+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -515,7 +515,7 @@ msgstr "Seznam nebo výběr míst událostí."
 #: event-organiser-go-pro.php:55
 #, fuzzy
 msgid "But that's not all &hellip;"
-msgstr "Ale to není vše..."
+msgstr "Ale to není vše &hellip;"
 
 #: includes/event-organiser-cpt.php:44
 msgid "Event venues list"
@@ -539,7 +539,6 @@ msgstr "PSČ"
 
 #: classes/class-eo-event-list-widget.php:52
 #: includes/event-organiser-cpt.php:230
-#, fuzzy
 msgid "All events"
 msgstr "Všechny události"
 
