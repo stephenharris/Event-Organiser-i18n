@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T20:25:29+00:00\n"
+"PO-Revision-Date: 2017-10-09T20:25:55+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -1440,7 +1440,7 @@ msgstr "Pokud je vybráno 'ne', výskyt události je minulý pouze v případě,
 
 #: event-organiser-calendar.php:332
 msgid "The following keyboard shortcuts are available"
-msgstr ""
+msgstr "K dispozici jsou následující klávesové zkratky"
 
 #: event-organiser-manage.php:19
 #: includes/event-organiser-cpt.php:225
