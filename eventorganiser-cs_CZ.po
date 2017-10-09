@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T20:31:17+00:00\n"
+"PO-Revision-Date: 2017-10-09T20:31:51+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -1688,8 +1688,9 @@ msgid "New Tag Name"
 msgstr "Název nového štítku"
 
 #: templates/single-event.php:60
+#, fuzzy
 msgid "This event was posted by <a href=\"%3$s\">%2$s</a>."
-msgstr ""
+msgstr "Tato událost byla vložena"
 
 #: includes/event-organiser-register.php:590
 msgid "Google Maps now requires you register for an API key. If you wish to use maps on your site, %splease enter your key%s."
