@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T20:15:05+00:00\n"
+"PO-Revision-Date: 2017-10-09T20:15:07+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -767,7 +767,7 @@ msgstr "Spravovat Místa"
 #: classes/class-eo-event-list-widget.php:117
 #: includes/event-organiser-cpt.php:49
 msgid "Venue:"
-msgstr ""
+msgstr "Ulice"
 
 #: event-organiser-settings.php:223
 msgid "If selected the event will be automatically trashed 24 hours after the last occurrence finishes."
