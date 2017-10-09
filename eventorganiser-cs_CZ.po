@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T20:14:52+00:00\n"
+"PO-Revision-Date: 2017-10-09T20:15:00+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
@@ -756,7 +756,7 @@ msgstr "Aktuální datum/čas"
 #: includes/class-eo-ical-parser.php:428
 #, fuzzy
 msgid "Feed contains an indefinitely recurring event. This event will recurr until %s."
-msgstr "Zdroj obsahuje neomezeně opakující se událost. Tato událost se bude opakovat až do"
+msgstr "Zdroj obsahuje neomezeně opakující se událost. Tato událost se bude opakovat až do %s"
 
 #: event-organiser-settings.php:52
 #: event-organiser.php:128
