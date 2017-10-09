@@ -8,12 +8,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-09T19:44:15+00:00\n"
+"PO-Revision-Date: 2017-10-09T19:44:53+00:00\n"
 "Language: cs_CZ\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
 
 #: event-organiser-settings.php:370
-#, fuzzy
 msgid "Event Organiser's page templates will not be used."
 msgstr "Event Organizer šablony stránek nebudou použity."
 
@@ -164,7 +163,6 @@ msgid "Submit for Review"
 msgstr "Poslat k revizi"
 
 #: event-organiser-edit.php:285
-#, fuzzy
 msgid "Venue Name"
 msgstr "Název místa"
 
