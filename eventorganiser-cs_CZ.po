@@ -1693,7 +1693,7 @@ msgstr "Tato událost byla vložena <a href=\"%3$s\">%2$s</a>."
 
 #: includes/event-organiser-register.php:590
 msgid "Google Maps now requires you register for an API key. If you wish to use maps on your site, %splease enter your key%s."
-msgstr "Mapy Google nyní vyžadují registraci klíče API. Pokud chcete používat mapy na vašem webu, %sprosím zadejte váš klíč% s."
+msgstr "Mapy Google nyní vyžadují registraci klíče API. Pokud chcete používat mapy na vašem webu, %sprosím zadejte váš klíč%s."
 
 #: event-organiser-settings.php:714
 msgid "Choose a custom permalink structure for events, venues, event categories and event tags."
