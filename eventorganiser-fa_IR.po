@@ -8,13 +8,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-28T05:46:35+00:00\n"
+"PO-Revision-Date: 2017-10-28T05:46:39+00:00\n"
 "Language: fa_IR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
 #: event-organiser-settings.php:370
 msgid "Event Organiser's page templates will not be used."
-msgstr "aa"
+msgstr "Event Organiser's page templates will not be used."
 
 #: event-organiser-settings.php:652
 #, fuzzy
