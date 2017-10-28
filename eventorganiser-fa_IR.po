@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-10-28T05:46:51+00:00\n"
+"PO-Revision-Date: 2017-10-28T05:46:55+00:00\n"
 "Language: fa_IR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -50,7 +50,7 @@ msgstr "Add New"
 
 #: includes/event.php:870
 msgid "Event does not contain any dates."
-msgstr ""
+msgstr "Event does not contain any dates."
 
 #: classes/class-eo-agenda-widget.php:45
 #: event-organiser-calendar.php:253
