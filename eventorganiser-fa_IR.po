@@ -8,15 +8,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2016-11-27T01:17:02+00:00\n"
+"PO-Revision-Date: 2017-10-28T05:47:09+00:00\n"
 "Language: fa_IR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
 #: event-organiser-settings.php:370
 msgid "Event Organiser's page templates will not be used."
-msgstr ""
+msgstr "Event Organiser's page templates will not be used."
 
 #: event-organiser-settings.php:652
+#, fuzzy
 msgid "Events archives:"
 msgstr "بایگانی رویدادها:"
 
@@ -36,7 +37,7 @@ msgstr "رویدادها در 24 ساعت"
 
 #: event-organiser-go-pro.php:70
 msgid "Flexible Booking Options"
-msgstr ""
+msgstr "Flexible Booking Options"
 
 #: event-organiser-calendar.php:279
 msgid "Event Title"
@@ -45,15 +46,11 @@ msgstr "عنوان رویداد"
 #: includes/event-organiser-cpt.php:226
 msgctxt "post"
 msgid "Add New"
-msgstr ""
-
-#: event-organiser-edit.php:320
-msgid "Google Maps now requires you register for an API key. If you wish to use maps on your site, %1$splease enter your key%1$s."
-msgstr ""
+msgstr "Add New"
 
 #: includes/event.php:870
 msgid "Event does not contain any dates."
-msgstr ""
+msgstr "Event does not contain any dates."
 
 #: classes/class-eo-agenda-widget.php:45
 #: event-organiser-calendar.php:253
@@ -71,7 +68,11 @@ msgstr "هر ماه در"
 
 #: event-organiser-venues.php:465
 msgid "Slug"
-msgstr ""
+msgstr "Slug"
+
+#: event-organiser-edit.php:320
+msgid "Google Maps now requires you register for an API key. If you wish to use maps on your site, %1$splease enter your key%2$s."
+msgstr "Google Maps now requires you register for an API key. If you wish to use maps on your site, %1$splease enter your key%2$s."
 
 #: includes/event-organiser-cpt.php:35
 msgid "View Venue"
@@ -80,17 +81,17 @@ msgstr "نمایش مکان"
 #: includes/class-eo-theme-compatability.php:161
 #, php-format
 msgid "Events at %s"
-msgstr ""
+msgstr "Events at %s"
 
 #: event-organiser-venues.php:244
 #, php-format
 msgid "Search results for &#8220;%s&#8221;"
-msgstr ""
+msgstr "Search results for &#8220;%s&#8221;"
 
 #: includes/event-organiser-cpt.php:586
 #, php-format
 msgid "See the <a %s> documentation</a>"
-msgstr ""
+msgstr "See the <a %s> documentation</a>"
 
 #: includes/event-organiser-register.php:254
 msgid "weeks"
@@ -103,7 +104,7 @@ msgstr "رویداد بروز شد. <a href=\"%s\">مشاهده صفحه روی�
 
 #: includes/event.php:651
 msgid "Schedule end date is before is before the start date."
-msgstr ""
+msgstr "Schedule end date is before is before the start date."
 
 #: event-organiser-calendar.php:340
 msgid "Navigate to previous period"
@@ -403,6 +404,14 @@ msgstr "امروز"
 msgid "Add or remove venues"
 msgstr "حذف و اضافه مکان"
 
+#. //docs.wp-event-organiser.com/theme-integration for more information
+#. *
+#. * WordPress will automatically prioritise the template in your theme directory.
+#. ***************** NOTICE: *****************
+#. * @package Event Organiser (plug-in)
+#. * @since 1.0.0
+#. 
+#. Call the template header
 #: templates/taxonomy-event-venue.php:30
 #, php-format
 msgid "Events at: %s"
@@ -706,6 +715,14 @@ msgstr "پیوند ثابت"
 msgid "End Date/Time:"
 msgstr ""
 
+#. //docs.wp-event-organiser.com/theme-integration for more information
+#. *
+#. * WordPress will automatically prioritise the template in your theme directory.
+#. ***************** NOTICE: *****************
+#. * @package Event Organiser (plug-in)
+#. * @since 1.0.0
+#. 
+#. Call the template header
 #: includes/class-eo-theme-compatability.php:174
 #: templates/taxonomy-event-category.php:27
 #, php-format
@@ -1543,6 +1560,18 @@ msgstr "دقیقه"
 msgid "Choose from the most used tags"
 msgstr "از میان برچسبهایی که بیشتر استفاده شده اند ، انتخاب کنید"
 
+#. //codex.wp-event-organiser.com
+#. *
+#. ***************** NOTICE: *****************
+#. *  Do not make changes to this file. Any changes made to this file
+#. * will be overwritten if the plug-in is updated.
+#. * To overwrite this template with your own
+#.  make a copy of it (with the same name)
+#. * in your theme directory. See http://docs.wp-event-organiser.com/theme-integration for more information
+#. * WordPress will automatically prioritise the template in your theme directory.
+#. * @package Event Organiser (plug-in)
+#. * @since 1.7
+#. 
 #: event-organiser-calendar.php:387
 #: event-organiser-edit.php:14
 #: templates/event-meta-event-single.php:32
@@ -1998,12 +2027,21 @@ msgstr "ثبت برای پیش‌نمایش"
 msgid "Jump to today in view"
 msgstr ""
 
+#. //docs.wp-event-organiser.com/theme-integration for more information
+#. *
+#. * WordPress will automatically prioritise the template in your theme directory.
+#. ***************** NOTICE: *****************
+#. * @package Event Organiser (plug-in)
+#. * @since 1.2.0
+#. 
+#. Call the template header
 #: includes/class-eo-theme-compatability.php:184
 #: templates/taxonomy-event-tag.php:27
 #, php-format
 msgid "Event Tag: %s"
 msgstr ""
 
+#. //php.net/date
 #: includes/event-organiser-cpt.php:336
 msgid "M j, Y @ G:i"
 msgstr ""
