@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-01-19T09:05:02+00:00\n"
+"PO-Revision-Date: 2018-01-19T09:08:55+00:00\n"
 "Language: nb_NO\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -75,6 +75,7 @@ msgid "every month on the"
 msgstr "hver måned den"
 
 #: event-organiser-venues.php:465
+#, fuzzy
 msgid "Slug"
 msgstr "Permalenke"
 
@@ -965,6 +966,7 @@ msgid "Venue(s) <strong>were not </strong> deleted"
 msgstr "Sted(er) <strong>ble ikke </strong> slettet"
 
 #: event-organiser-edit.php:80
+#, fuzzy
 msgid "This is a recurring event. Check to edit this event and its recurrences"
 msgstr "Huk av for å redigere dette arrangementer og dets gjentakelser"
 
