@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-01-19T09:10:44+00:00\n"
+"PO-Revision-Date: 2018-01-19T09:11:20+00:00\n"
 "Language: nb_NO\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1883,7 +1883,7 @@ msgstr "Arrangementsagenda"
 #: templates/event-meta-event-single.php:41
 #, php-format,fuzzy
 msgid "This event is running from %1$s until %2$s. It is next occurring on %3$s"
-msgstr "Dette arrangementet løper fra  %1$s til %2$s."
+msgstr "Dette arrangementet løper fra  %1$s til %2$s. Neste arrangement er"
 
 #: classes/class-eo-event-list-widget.php:144
 msgid "Order by"
