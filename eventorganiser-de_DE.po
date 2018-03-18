@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-03-18T11:48:09+00:00\n"
+"PO-Revision-Date: 2018-03-18T11:48:15+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1503,7 +1503,7 @@ msgstr "Hole Dir das 'Event Organiser Pro'-Add-On"
 
 #: event-organiser-settings.php:243
 msgid "Google API key:"
-msgstr ""
+msgstr "Google API key:"
 
 #: event-organiser-venues.php:195
 msgid "Venue(s) <strong>deleted</strong>"
