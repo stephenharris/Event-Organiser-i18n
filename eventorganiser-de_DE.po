@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-03-18T11:49:45+00:00\n"
+"PO-Revision-Date: 2018-03-18T11:49:48+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -326,7 +326,7 @@ msgstr "Ende Datum / Zeit"
 
 #: event-organiser-settings.php:249
 msgid "To use Google Maps you need to register an API key with Google. You can register for a free API key by %sfollowing these instructions%s."
-msgstr "Um Google Maps musst du einen API Key registrieren. Du kannst einen kostenlosen API Key registrieren, indem du dieser %sAnleitung%s folgst."
+msgstr "Um Google Maps musst du einen API Schlüssel registrieren. Du kannst einen kostenlosen API Key registrieren, indem du dieser %sAnleitung%s folgst."
 
 #: includes/event.php:1080
 msgid "Occurrence not deleted. Occurrence not found."
