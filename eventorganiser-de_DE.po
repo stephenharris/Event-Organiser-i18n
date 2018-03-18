@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-03-18T11:48:15+00:00\n"
+"PO-Revision-Date: 2018-03-18T11:48:21+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1539,7 +1539,7 @@ msgstr "Bist du dir sicher, dass du fortfahren möchtest?"
 
 #: event-organiser-calendar.php:213
 msgid "Event deleted."
-msgstr ""
+msgstr "Event gelöscht."
 
 #: event-organiser-calendar.php:74
 #: includes/event-organiser-register.php:68
