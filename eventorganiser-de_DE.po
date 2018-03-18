@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-03-18T11:59:13+00:00\n"
+"PO-Revision-Date: 2018-03-18T12:00:04+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -266,6 +266,10 @@ msgstr "letzten"
 #: event-organiser-debug.php:64
 msgid "This page highlights useful information for debugging. If you're reporting a bug, please include this information. The 'system info' link in under the Events admin tab is only visible to admins and only when %1$s is set to %1$s."
 msgstr ""
+"Diese Seite enthält nützliche Informationen zum Debuggen. Wenn Sie einen Fehler melden, geben Sie diese Informationen an. Der\n"
+" Link \"Systeminfo\" auf der Registerkarte \"Ereignisse\" ist nur für \n"
+"Administratoren sichtbar und nur dann, wenn %1$s auf %1$s festgelegt\n"
+" ist."
 
 #: includes/event-organiser-ajax.php:784
 msgid "Event not found"
@@ -825,7 +829,6 @@ msgid "You do not have permission to delete this venue"
 msgstr "Du hast keine Rechte diesen Veranstaltungsort zu löschen."
 
 #: includes/event-organiser-register.php:558
-#, fuzzy
 msgid "<h4>The Default Templates Have Changed</h4>Don't panic! If you've set up your own templates in your theme you won't notice any change. </br> If you haven't and want the old templates back, <a href='http://wp-event-organiser.com/blog/new-default-templates-in-1-7'>see this post</a>."
 msgstr ""
 "<h4>Die Standardvorlagen wurden geändert </ h4>Keine Panik! Wenn Sie in Ihrem Design eigene Vorlagen eingerichtet haben, werden Sie keine Änderungen bemerken. </br>Wenn Sie die alten Vorlagen nicht haben und zurück wollen,  sehen Sie sich  <a \n"
