@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-03-18T11:58:15+00:00\n"
+"PO-Revision-Date: 2018-03-18T11:58:46+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -828,9 +828,8 @@ msgstr "Du hast keine Rechte diesen Veranstaltungsort zu löschen."
 #, fuzzy
 msgid "<h4>The Default Templates Have Changed</h4>Don't panic! If you've set up your own templates in your theme you won't notice any change. </br> If you haven't and want the old templates back, <a href='http://wp-event-organiser.com/blog/new-default-templates-in-1-7'>see this post</a>."
 msgstr ""
-"<h4>Die Standardvorlagen wurden geändert </ h4>Keine Panik! Wenn Sie in Ihrem Design eigene Vorlagen eingerichtet haben, werden Sie keine Änderungen bemerken. </br>Wenn Sie die alten Vorlagen nicht haben und zurück wollen, <a \n"
-"href='http://wp-event-organizer.com/blog/new-default-templates-in-1-7'>\n"
-" sehen Sie dies posten </a>."
+"<h4>Die Standardvorlagen wurden geändert </ h4>Keine Panik! Wenn Sie in Ihrem Design eigene Vorlagen eingerichtet haben, werden Sie keine Änderungen bemerken. </br>Wenn Sie die alten Vorlagen nicht haben und zurück wollen,  sehen Sie sich  <a \n"
+"href='http://wp-event-organizer.com/blog/new-default-templates-in-1-7'> diesen Post an</a>."
 
 #: event-organiser-manage.php:161
 #, php-format
