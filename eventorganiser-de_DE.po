@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-03-18T11:55:32+00:00\n"
+"PO-Revision-Date: 2018-03-18T11:56:07+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1682,8 +1682,9 @@ msgid "This event was posted by <a href=\"%3$s\">%2$s</a>."
 msgstr "Dieses Event wurde von <a href=\"%3$s\">%2$s</a> gepostet."
 
 #: includes/event-organiser-register.php:590
+#, fuzzy
 msgid "Google Maps now requires you register for an API key. If you wish to use maps on your site, %splease enter your key%s."
-msgstr ""
+msgstr "Google Maps erfordert jetzt, dass Sie sich für einen API-Schlüssel registrieren. Wenn Sie Karten auf Ihrer Website verwenden möchten, geben Sie% splease Ihren Schlüssel% s ein."
 
 #: event-organiser-settings.php:714
 msgid "Choose a custom permalink structure for events, venues, event categories and event tags."
