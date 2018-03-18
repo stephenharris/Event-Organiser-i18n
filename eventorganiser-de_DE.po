@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-03-18T11:47:49+00:00\n"
+"PO-Revision-Date: 2018-03-18T11:48:00+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -601,7 +601,7 @@ msgstr "Titelform der Unterrichtskategorien auflisten, durch Komma getrennt. Lee
 
 #: event-organiser-venues.php:308
 msgid "Toggle panel: Location"
-msgstr ""
+msgstr "Umschaltfeld: Standort"
 
 #: includes/class-eo-admin-notice.php:125
 msgid "Dismiss this notice"
