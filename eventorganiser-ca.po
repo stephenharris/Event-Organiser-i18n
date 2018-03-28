@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-03-28T22:58:30+00:00\n"
+"PO-Revision-Date: 2018-03-28T22:59:10+00:00\n"
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1711,7 +1711,7 @@ msgstr "Etiquetes d'esdeveniment"
 
 #: includes/event-organiser-cpt.php:242
 msgid "Uploaded to this event"
-msgstr ""
+msgstr "Actualizar aquest event"
 
 #: includes/class-eo-ical-parser.php:208
 msgid "Feed not found"
