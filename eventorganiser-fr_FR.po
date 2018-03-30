@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-03-30T10:17:34+00:00\n"
+"PO-Revision-Date: 2018-03-30T10:17:38+00:00\n"
 "Language: fr_FR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -1882,7 +1882,7 @@ msgid "Events Agenda"
 msgstr "Agenda des événements"
 
 #: templates/event-meta-event-single.php:41
-#, php-format
+#, php-format,fuzzy
 msgid "This event is running from %1$s until %2$s. It is next occurring on %3$s"
 msgstr "Cet événement se déroule du  %1$s jusqu'au %2$s. Sa prochaine occurrence est le %3$s"
 
