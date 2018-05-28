@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-05-28T09:01:41+00:00\n"
+"PO-Revision-Date: 2018-05-28T09:02:07+00:00\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1502,7 +1502,7 @@ msgstr "Ocorrências de grupo"
 
 #: event-organiser-go-pro.php:23
 msgid "Get Event Organiser Pro Add-On"
-msgstr ""
+msgstr "Obter Event Orgamizer Pro Add-On"
 
 #: event-organiser-settings.php:243
 msgid "Google API key:"
