@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-05-28T08:55:00+00:00\n"
+"PO-Revision-Date: 2018-05-28T08:55:11+00:00\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1161,7 +1161,7 @@ msgstr "Eventos:"
 
 #: event-organiser-go-pro.php:75
 msgid "Additional shortcodes & improved UI"
-msgstr "Atalhos adicionais e UI"
+msgstr "Atalhos adicionais e UI melhorado"
 
 #: event-organiser-edit.php:492
 msgid "Event dates were not saved."
