@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-05-28T08:59:54+00:00\n"
+"PO-Revision-Date: 2018-05-28T09:00:24+00:00\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1372,7 +1372,7 @@ msgstr "Para mais informações ver documentação <a href='%s'>em editar model
 
 #: event-organiser-edit.php:100
 msgid "Enter time in 24-hour hh colon mm format"
-msgstr ""
+msgstr "Introduzir hora em formato 24-horas hh colon mm"
 
 #: event-organiser-settings.php:205
 msgid "Are current events past?"
