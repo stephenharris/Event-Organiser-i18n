@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-05-28T08:57:23+00:00\n"
+"PO-Revision-Date: 2018-05-28T08:58:00+00:00\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1270,7 +1270,7 @@ msgstr "Ligar directamente ao evento nos dias com apenas um evento"
 
 #: event-organiser-settings.php:366
 msgid "Event Organiser's page templates will be used if your theme does not provide appropriate templates."
-msgstr ""
+msgstr "Os modelos de página do Event Organiser serão usados ​​se o seu tema não fornecer modelos apropriados."
 
 #: includes/event-organiser-cpt.php:534
 msgid "If weekly recurrence is selected, select which days of the week the event should be repeated. If no days are selected, the day of the start date is used"
