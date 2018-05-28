@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-05-28T08:51:57+00:00\n"
+"PO-Revision-Date: 2018-05-28T08:52:04+00:00\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -949,7 +949,7 @@ msgstr "Local do evento"
 
 #: classes/class-eo-calendar-widget.php:70
 msgid "Show long events"
-msgstr ""
+msgstr "Mostrar eventos longos"
 
 #: event-organiser-venues.php:154
 msgid "Venue(s) <strong>were not </strong> deleted"
