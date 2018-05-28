@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-05-28T08:19:13+00:00\n"
+"PO-Revision-Date: 2018-05-28T08:19:20+00:00\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -510,7 +510,7 @@ msgstr "Lista ou menu suspenso para os locais de eventos"
 
 #: event-organiser-go-pro.php:55
 msgid "But that's not all &hellip;"
-msgstr "Mas não é tudo"
+msgstr "Mas não é tudo &hellip;"
 
 #: includes/event-organiser-cpt.php:44
 msgid "Event venues list"
