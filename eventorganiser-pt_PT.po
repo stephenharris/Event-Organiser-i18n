@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-05-28T08:24:23+00:00\n"
+"PO-Revision-Date: 2018-05-28T08:24:31+00:00\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -547,7 +547,7 @@ msgid "Enable events ICAL feed:"
 msgstr "Permitir eventos por alimentação ICAL: "
 
 #: includes/event-organiser-ajax.php:821
-#, php-format,fuzzy
+#, php-format
 msgid "Event not created: %s"
 msgstr "O evento não foi criado: %s"
 
@@ -750,7 +750,6 @@ msgid "Current date/time"
 msgstr "Data/Tempo corrente"
 
 #: includes/class-eo-ical-parser.php:428
-#, fuzzy
 msgid "Feed contains an indefinitely recurring event. This event will recurr until %s."
 msgstr "Feed contém um evento recorrente indefinidamente. Este evento irá recorrer até %s."
 
