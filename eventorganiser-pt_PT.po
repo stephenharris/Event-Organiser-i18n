@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-05-28T09:07:24+00:00\n"
+"PO-Revision-Date: 2018-05-28T09:07:29+00:00\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1687,7 +1687,6 @@ msgid "This event was posted by <a href=\"%3$s\">%2$s</a>."
 msgstr "O evento foi publicado em <a href=\"%3$s\">%2$s</a>."
 
 #: includes/event-organiser-register.php:590
-#, fuzzy
 msgid "Google Maps now requires you register for an API key. If you wish to use maps on your site, %splease enter your key%s."
 msgstr "O Google Maps agora exige que você se inscreva em uma chave de API. Se você deseja usar mapas em seu site,%s please insira sua chave %s."
 
