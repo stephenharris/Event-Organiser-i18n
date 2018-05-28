@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-05-28T08:52:48+00:00\n"
+"PO-Revision-Date: 2018-05-28T08:53:02+00:00\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1049,7 +1049,7 @@ msgstr "Locais"
 
 #: event-organiser-go-pro.php:95
 msgid "Go to Event Organiser settings"
-msgstr ""
+msgstr "Ir para Event Organiser settings"
 
 #: event-organiser-manage.php:164
 msgid "Events within 1 year"
