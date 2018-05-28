@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-05-28T08:21:45+00:00\n"
+"PO-Revision-Date: 2018-05-28T08:21:55+00:00\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -651,7 +651,7 @@ msgstr "Especifique a regularidade da repetição do evento (defeito 1)"
 
 #: event-organiser-calendar.php:360
 msgid "Open modal of selected event"
-msgstr ""
+msgstr "Abrir"
 
 #: includes/event-organiser-cpt.php:237
 msgid "Filter events list"
