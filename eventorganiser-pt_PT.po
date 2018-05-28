@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-05-28T08:59:25+00:00\n"
+"PO-Revision-Date: 2018-05-28T08:59:48+00:00\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1368,7 +1368,7 @@ msgstr "dia da semana"
 #: event-organiser-settings.php:658
 #, php-format,fuzzy
 msgid "For more information see documentation <a href='%s'>on editing the templates</a>"
-msgstr "Para mais informações ver documentação"
+msgstr "Para mais informações ver documentação <a href='%s'>em editar modelos</a>"
 
 #: event-organiser-edit.php:100
 msgid "Enter time in 24-hour hh colon mm format"
