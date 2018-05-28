@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-05-28T08:27:26+00:00\n"
+"PO-Revision-Date: 2018-05-28T08:29:35+00:00\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -829,7 +829,7 @@ msgstr "Não tens permissão para apagar este local"
 
 #: includes/event-organiser-register.php:558
 msgid "<h4>The Default Templates Have Changed</h4>Don't panic! If you've set up your own templates in your theme you won't notice any change. </br> If you haven't and want the old templates back, <a href='http://wp-event-organiser.com/blog/new-default-templates-in-1-7'>see this post</a>."
-msgstr ""
+msgstr "<h4>O modelo pre-definido mudou</h4>Não entre em pânico! Se definiu o seu próprio modelo no seu tema não irá notar qualquer alteração.</br> Se não o fez e quiser voltar atrás, <a href='http://wp-event-organiser.com/blog/new-default-templates-in-1-7'>veja este post</a>."
 
 #: event-organiser-manage.php:161
 #, php-format
