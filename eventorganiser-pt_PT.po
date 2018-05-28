@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-05-28T08:30:32+00:00\n"
+"PO-Revision-Date: 2018-05-28T08:30:40+00:00\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -164,7 +164,7 @@ msgstr "Campos personalizados"
 
 #: includes/event-organiser-ajax.php:472
 msgid "Delete this event"
-msgstr ""
+msgstr "Apagar  este evento"
 
 #: includes/class-eo-ical-parser.php:279
 #, php-format
