@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-05-28T08:51:36+00:00\n"
+"PO-Revision-Date: 2018-05-28T08:51:50+00:00\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -924,7 +924,7 @@ msgstr "Escolha a data final da recorrência. Nenhuma ocorrência é adicionada 
 
 #: event-organiser-edit.php:182
 msgid "Recurrence frequency"
-msgstr ""
+msgstr "Frequência recorrente"
 
 #: event-organiser-calendar.php:364
 msgid "Close modal"
