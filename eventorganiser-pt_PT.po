@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-05-28T08:15:14+00:00\n"
+"PO-Revision-Date: 2018-05-28T08:17:03+00:00\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -71,7 +71,7 @@ msgstr "Slug"
 
 #: event-organiser-edit.php:320
 msgid "Google Maps now requires you register for an API key. If you wish to use maps on your site, %1$splease enter your key%2$s."
-msgstr ""
+msgstr "O Google Maps agora exige que você obtenha uma chave API. Se desejar usar mapas no seu site,%1$splease insira a sua chave%2$s."
 
 #: includes/event-organiser-cpt.php:35
 msgid "View Venue"
