@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-05-28T09:15:20+00:00\n"
+"PO-Revision-Date: 2018-05-28T09:15:38+00:00\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2054,7 +2054,7 @@ msgstr "Adicionar evento"
 
 #: event-organiser-go-pro.php:80
 msgid "Venue custom fields & thumbnails"
-msgstr "Campos personalizados e"
+msgstr "Campos personalizados e thumbnails  do local"
 
 #: event-organiser-calendar.php:181
 msgid "You do not have sufficient permissions to edit this event. "
