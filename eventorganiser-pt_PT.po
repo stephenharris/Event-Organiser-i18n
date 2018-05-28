@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-05-28T08:39:10+00:00\n"
+"PO-Revision-Date: 2018-05-28T08:39:19+00:00\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -291,7 +291,7 @@ msgstr "Não tens permissões suficientes para apagar este evento"
 #: event-organiser-go-pro.php:76
 #, fuzzy
 msgid "Give your users the ability to search and filter through your events with the event search shortcode. Event Organiser Pro also adds a text editor button to make inserting and configuring your shortcodes that bit easier. "
-msgstr "Ofereça aos seus usuários a capacidade de pesquisar e filtrar seus eventos com o atalho da pesquisa de eventos. O Event Organizer Pro também adiciona um botão do editor de texto para facilitar a inserção e a configuração de seus códigos de acesso."
+msgstr ""
 
 #: event-organiser-manage.php:160
 msgid "Events within 1 week"
