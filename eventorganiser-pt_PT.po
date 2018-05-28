@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-05-28T08:21:39+00:00\n"
+"PO-Revision-Date: 2018-05-28T08:21:45+00:00\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -635,7 +635,7 @@ msgstr "Tempo do final"
 
 #: event-organiser-settings.php:297
 msgid "Events page"
-msgstr ""
+msgstr "Páginas de eventos:"
 
 #: templates/eo-events-nav.php:6
 msgid " <span class=\"meta-nav\">&larr;</span> Newer events"
