@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-05-28T08:57:01+00:00\n"
+"PO-Revision-Date: 2018-05-28T08:57:23+00:00\n"
 "Language: pt_PT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1266,7 +1266,7 @@ msgstr "Início"
 
 #: classes/class-eo-calendar-widget.php:81
 msgid "Link directly to event for days with only one event"
-msgstr ""
+msgstr "Ligar directamente ao evento nos dias com apenas um evento"
 
 #: event-organiser-settings.php:366
 msgid "Event Organiser's page templates will be used if your theme does not provide appropriate templates."
