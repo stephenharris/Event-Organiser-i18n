@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-08-26T22:16:24+00:00\n"
+"PO-Revision-Date: 2018-08-26T22:16:32+00:00\n"
 "Language: cy\n"
 "Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n == 3) ? 3 : ((n == 6) ? 4 : 5))));\n"
 
@@ -1767,7 +1767,7 @@ msgstr ""
 #: templates/shortcode-event-list.php:48
 #: templates/widget-event-list.php:44
 msgid "on"
-msgstr ""
+msgstr "ar"
 
 #: includes/class-event-organiser-im-export.php:268
 msgid "1 event was successfully imported"
