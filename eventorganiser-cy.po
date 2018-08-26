@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-08-26T22:12:26+00:00\n"
+"PO-Revision-Date: 2018-08-26T22:12:31+00:00\n"
 "Language: cy\n"
 "Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n == 3) ? 3 : ((n == 6) ? 4 : 5))));\n"
 
@@ -378,7 +378,7 @@ msgstr ""
 #: includes/event-organiser-event-functions.php:777
 #: includes/event-organiser-register.php:273
 msgid "fourth"
-msgstr ""
+msgstr "pedwerydd"
 
 #: event-organiser-settings.php:154
 msgid "Revisions"
