@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-09-29T07:24:16+00:00\n"
+"PO-Revision-Date: 2018-09-29T07:24:22+00:00\n"
 "Language: th\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -63,6 +63,7 @@ msgid "Month"
 msgstr "เดือน"
 
 #: includes/event-organiser-register.php:65
+#, fuzzy
 msgid "Show Less"
 msgstr "แสดงแบบย่อ"
 
@@ -99,6 +100,7 @@ msgid "See the <a %s> documentation</a>"
 msgstr ""
 
 #: includes/event-organiser-register.php:254
+#, fuzzy
 msgid "weeks"
 msgstr "สัปดาห์"
 
