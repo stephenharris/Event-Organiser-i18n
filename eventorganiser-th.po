@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2018-09-29T07:24:06+00:00\n"
+"PO-Revision-Date: 2018-09-29T07:24:09+00:00\n"
 "Language: th\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
@@ -24,10 +24,12 @@ msgstr "คลังกิจกรรม"
 #: event-organiser-calendar.php:75
 #: includes/event-organiser-register.php:69
 #: includes/event-organiser-register.php:255
+#, fuzzy
 msgid "month"
 msgstr "เดือน"
 
 #: includes/event-organiser-cpt.php:154
+#, fuzzy
 msgid "All Tags"
 msgstr "ป้ายกำกับทั้งหมด"
 
