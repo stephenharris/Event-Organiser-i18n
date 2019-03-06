@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:01:01+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:01:07+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -452,10 +452,12 @@ msgid "This is the list of all saved events. Note that <strong> recurring events
 msgstr "Das ist die Liste aller Termine. Beachten Sie, dass <strong>wiederkehrende Termine</strong> in der Tabelle einzeilig angezeigt werden und sich das Start- und Enddatum  auf das erste Terminereignis beziehen."
 
 #: event-organiser-settings.php:361
+#, fuzzy
 msgid "Enable theme compatability mode (default)"
 msgstr "Aktiviere Theme-Kompatibilitätsmodus (Standard)"
 
 #: includes/event-organiser-register.php:246
+#, fuzzy
 msgid "Hide dates"
 msgstr "Datum verstecken"
 
