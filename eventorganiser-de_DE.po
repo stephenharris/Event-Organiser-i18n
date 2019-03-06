@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:10:34+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:10:43+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2269,6 +2269,7 @@ msgid "Order by"
 msgstr "Sortieren nach"
 
 #: classes/class-eo-event-list-widget.php:106
+#, fuzzy
 msgid "Number of events"
 msgstr "Anzahl der Termine"
 
@@ -2459,10 +2460,11 @@ msgid "Add Event"
 msgstr "Termin hinzufügen"
 
 #: event-organiser-go-pro.php:80
+#, fuzzy
 msgid "Venue custom fields & thumbnails"
 msgstr ""
 "Benutzerdefinierte Felder und Thumbnails\n"
-"\\t\\t\\tder Veranstaltungsorte"
+"tttder Veranstaltungsorte"
 
 #: event-organiser-calendar.php:181
 #, fuzzy
