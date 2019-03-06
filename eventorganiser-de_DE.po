@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:04:06+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:04:10+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1005,11 +1005,12 @@ msgstr ""
 "href='http://wp-event-organiser.com/blog/new-default-templates-in-1-7'> diesen Post an</a>."
 
 #: event-organiser-manage.php:161
-#, php-format
+#, php-format,fuzzy
 msgid "Events within %d weeks"
 msgstr "Termine innerhalb %d Wochen"
 
 #: includes/event-organiser-cpt.php:157
+#, fuzzy
 msgid "Update Tag"
 msgstr "Terminschlagwort aktualisieren"
 
