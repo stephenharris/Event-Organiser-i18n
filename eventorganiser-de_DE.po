@@ -601,7 +601,6 @@ msgid "A list or dropdown of event venues"
 msgstr "Eine Liste oder Dropdown von Veranstaltungsorten"
 
 #: event-organiser-go-pro.php:55
-#, fuzzy
 msgid "But that's not all &hellip;"
 msgstr "Aber das ist noch nicht alles ..."
 
