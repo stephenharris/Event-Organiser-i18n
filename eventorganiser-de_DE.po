@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:07:29+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:07:33+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1693,6 +1693,7 @@ msgid "You can create an event on this Calendar, by clicking on day or dragging 
 msgstr "Sie können einen Termin in diesem Kalender erstellen, indem Sie auf einen Tag klicken oder die Maus über mehrere Tage ziehen (in der Monatsansicht) oder mehrmals klicken (in Wochen-und Tagesansicht). Sie können dem Termin einen Titel geben, den Unterrichtsort zuordnen und eine Beschreibung eingeben. Der Termin kann sofort veröffentlicht oder als Entwurf gespeichert werden. In jedem Fall wird der Termin erstellt, und Sie werden auf die Bearbeiten-Seite weitergeleitet."
 
 #: includes/event-organiser-cpt.php:164
+#, fuzzy
 msgid "Separate tags with commas"
 msgstr "Terminschlagworte mit Kommata trennen"
 
