@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:09:24+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:09:27+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2100,15 +2100,17 @@ msgid "File size: %s. File type: %s"
 msgstr "Dateigröße: %s. Dateityp: %s"
 
 #: includes/event-organiser-cpt.php:334
-#, php-format
+#, php-format,fuzzy
 msgid "Event scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview event</a>"
 msgstr "Termin geplant für: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Termin-Vorschau</a>"
 
 #: event-organiser-manage.php:35
+#, fuzzy
 msgid "Start Date/Time"
 msgstr "Start Datum / Zeit"
 
 #: event-organiser-settings.php:365
+#, fuzzy
 msgid "Enable template handling"
 msgstr "Aktiviere Template Behandlung"
 
