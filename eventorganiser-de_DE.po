@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T09:59:02+00:00\n"
+"PO-Revision-Date: 2019-03-06T09:59:03+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2099,6 +2099,7 @@ msgstr "Sie verfügen nicht über ausreichende Berechtigungen, um diesen Termin 
 
 #: classes/class-eo-venue-list-table.php:83
 #: classes/class-eo-venue-list-table.php:143
+#, fuzzy
 msgid "Delete"
 msgstr "Löschen"
 
