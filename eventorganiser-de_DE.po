@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:01:51+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:01:52+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -571,6 +571,7 @@ msgstr "Jetzt Pro-Version!"
 #: event-organiser-settings.php:51
 #: event-organiser.php:127
 #: includes/event-organiser-install.php:121
+#, fuzzy
 msgid "Read Private Events"
 msgstr "Private Termine lesen"
 
