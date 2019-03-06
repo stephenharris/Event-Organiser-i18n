@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:05:35+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:05:37+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1308,11 +1308,12 @@ msgid "The start date is the date the event starts. If the event is a recurring 
 msgstr "Das Startdatum ist das Datum an dem der Termin beginnt. Wenn der Termin wiederkehrend ist, ist es das Startdatum des ersten Terminereignisses."
 
 #: includes/event-organiser-cpt.php:339
-#, php-format
+#, php-format,fuzzy
 msgid "Event draft updated. <a target=\"_blank\" href=\"%s\">Preview event</a>"
 msgstr "Termin-Entwurf aktualisiert. <a target=\"_blank\" href=\"%s\">Event Vorschau</a>"
 
 #: templates/eo-loop-events.php:41
+#, fuzzy
 msgid "Apologies, but no results were found for the requested archive. "
 msgstr "Leider wurden keine Ergebnisse für das angefragte Archiv gefunden."
 
