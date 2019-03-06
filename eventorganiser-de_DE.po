@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:04:48+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:04:50+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1149,10 +1149,12 @@ msgid "Show long events"
 msgstr "Zeige lange Termine"
 
 #: event-organiser-venues.php:154
+#, fuzzy
 msgid "Venue(s) <strong>were not </strong> deleted"
 msgstr "Veranstaltungsort(e) <strong>wurde(n) nicht</strong> gelöscht"
 
 #: event-organiser-edit.php:80
+#, fuzzy
 msgid "This is a recurring event. Check to edit this event and its recurrences"
 msgstr "Anwählen, um den Termin und all seine Vorkommen zu bearbeiten"
 
