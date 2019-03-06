@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:07:40+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:07:41+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1724,6 +1724,7 @@ msgid "Show More"
 msgstr "Mehr anzeigen"
 
 #: event-organiser-settings.php:214
+#, fuzzy
 msgid "If 'no' is selected, an occurrence of an event is only past when it has finished. Otherwise, an occurrence is considered 'past' as soon as it starts."
 msgstr "Ist 'Nein' gewählt, so ist ein Termin nur vorbei, wenn er vollständig abgelaufen ist. Andernfalls wird ein Termin als bereits vergangen gewertet, sobald er begonnen hat."
 
