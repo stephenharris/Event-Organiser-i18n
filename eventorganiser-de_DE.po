@@ -1328,6 +1328,7 @@ msgid "This alters the default format for inputting dates."
 msgstr "Dies ändert die Standardformatierung für die Datumseingabe."
 
 #: includes/event-organiser-cpt.php:585
+#, fuzzy
 msgid "For more information"
 msgstr "Für weitere Informationen"
 
