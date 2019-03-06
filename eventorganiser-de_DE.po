@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:10:26+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:10:29+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2282,11 +2282,13 @@ msgid "There is no excerpt because this is a protected post."
 msgstr "Es gibt keine Kurzfassung, da dies ein geschützter Artikel ist."
 
 #: includes/class-event-organiser-im-export.php:94
+#, fuzzy
 msgid "The export button below generates an ICS file of your events that can be imported in to other calendar applications such as Google Calendar."
 msgstr "Der Export-Button (unten) erzeugt eine ICS-Datei Ihrer Termine, die in andere Anwendungen wie Google-Kalender importiert werden kann."
 
 #: classes/class-eo-widget-categories.php:11
 #: event-organiser-settings.php:333
+#, fuzzy
 msgid "Event Categories"
 msgstr "Terminkategorien"
 
