@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:04:50+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:04:52+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1159,10 +1159,12 @@ msgid "This is a recurring event. Check to edit this event and its recurrences"
 msgstr "Anwählen, um den Termin und all seine Vorkommen zu bearbeiten"
 
 #: classes/class-eo-widget-venues.php:55
+#, fuzzy
 msgid "Select Venue"
 msgstr "Veranstaltungsort wählen"
 
 #: event-organiser-edit.php:166
+#, fuzzy
 msgid "monthly"
 msgstr "monatlich"
 
