@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:08:02+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:08:09+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1729,19 +1729,23 @@ msgid "If 'no' is selected, an occurrence of an event is only past when it has f
 msgstr "Ist 'Nein' gewählt, so ist ein Termin nur vorbei, wenn er vollständig abgelaufen ist. Andernfalls wird ein Termin als bereits vergangen gewertet, sobald er begonnen hat."
 
 #: event-organiser-calendar.php:332
+#, fuzzy
 msgid "The following keyboard shortcuts are available"
 msgstr "Folgende Tastatur-Shortcuts sind verfügbar"
 
 #: event-organiser-manage.php:19
 #: includes/event-organiser-cpt.php:225
+#, fuzzy
 msgid "Event"
 msgstr "Termin"
 
 #: event-organiser-venues.php:194
+#, fuzzy
 msgid "Venue <strong>updated</strong>"
 msgstr "Veranstaltungsort <strong>aktualisiert</strong>"
 
 #: includes/event-organiser-event-functions.php:849
+#, fuzzy
 msgid "every year"
 msgstr "jedes Jahr"
 
