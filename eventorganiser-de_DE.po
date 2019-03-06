@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:07:54+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:07:56+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1773,12 +1773,14 @@ msgid "Repeat this event until:"
 msgstr "Wiederkehrende Termine"
 
 #: event-organiser-settings.php:217
+#, fuzzy
 msgid "Delete expired events:"
 msgstr "Abgelaufene Termine löschen:"
 
 #: event-organiser-edit.php:225
 #: includes/event-organiser-event-functions.php:856
 #: includes/event-organiser-register.php:268
+#, fuzzy
 msgid "until"
 msgstr "bis"
 
