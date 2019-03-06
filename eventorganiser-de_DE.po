@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:03:36+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:03:37+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -894,6 +894,7 @@ msgid "This page shows all (occurrances of) events. You can view the summary of 
 msgstr "Diese Seite zeigt alle Terminereignisse an. Sie können die Zusammenfassung eines Termins sehen, wenn Sie auf den Termin klicken. Wenn Sie die erforderlichen Berechtigungen haben, sehen Sie einen Link zum Bearbeiten des Termins."
 
 #: event-organiser-settings.php:202
+#, fuzzy
 msgid "If selected only one occurrence of an event will be displayed on event lists and archives (this can be over-ridden by shortcode attributes and widget options."
 msgstr "Bei Auswahl wird von wiederkehrenden Terminen nur ein Termin auf Event-Listen und -Archiven angezeigt (dies kann überschrieben werden durch Shortcode-Attribute und Widget-Optionen)."
 
