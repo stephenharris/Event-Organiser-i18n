@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:02:32+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:02:34+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -742,10 +742,12 @@ msgid "Events Calendar"
 msgstr "Terminkalender"
 
 #: includes/class-event-organiser-im-export.php:97
+#, fuzzy
 msgid "Download Export File"
 msgstr "Exportdatei downloaden"
 
 #: event-organiser-settings.php:316
+#, fuzzy
 msgid "Year archive"
 msgstr "Jahresarchiv"
 
