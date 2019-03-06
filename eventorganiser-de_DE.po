@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T09:58:21+00:00\n"
+"PO-Revision-Date: 2019-03-06T09:58:22+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -218,6 +218,7 @@ msgid "Include 'Add To Google' link"
 msgstr "'Add To Google'-Link anzeigen"
 
 #: includes/event-organiser-cpt.php:40
+#, fuzzy
 msgid "No venues found"
 msgstr "Keine Veranstaltungsorte gefunden"
 
