@@ -2183,6 +2183,7 @@ msgid "1 event was successfully imported"
 msgstr "Ein Termin wurde erfolgreich importiert"
 
 #: event-organiser-settings.php:31
+#, fuzzy
 msgid "Permalinks"
 msgstr "Permalinks"
 
