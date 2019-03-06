@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:07:13+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:07:15+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1641,11 +1641,12 @@ msgid "Invalid file uploaded. The file must be a ics calendar file of type 'text
 msgstr "Ungültige Datei hochgeladen. Die Datei muss eine ICS-Kalender-Datei vom Typ \"text/calendar\" und nicht größer als 2MB sein."
 
 #: event-organiser-edit.php:219
+#, fuzzy
 msgid "day of week"
 msgstr "Tag der Woche"
 
 #: event-organiser-settings.php:658
-#, php-format
+#, php-format,fuzzy
 msgid "For more information see documentation <a href='%s'>on editing the templates</a>"
 msgstr "Für weitere Informationen siehe Dokumentation <a href='%s'>über das Editieren der Templates</a>"
 
