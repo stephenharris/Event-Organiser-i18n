@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:02:27+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:02:28+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -715,11 +715,13 @@ msgid "Delete &#8220;%s&#8221;"
 msgstr "Lösche &#8220;%s&#8221;"
 
 #: classes/class-eo-calendar-widget.php:296
+#, fuzzy
 msgid "Previous month"
 msgstr "Voriger Monat"
 
 #: classes/class-eo-calendar-widget.php:96
 #: classes/class-eo-event-list-widget.php:112
+#, fuzzy
 msgid "List category slug(s), seperate by comma. Leave blank for all"
 msgstr "Titelform der Unterrichtskategorien auflisten, durch Komma getrennt. Leer lassen für alle."
 
