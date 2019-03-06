@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:09:22+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:09:24+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2113,12 +2113,14 @@ msgid "Enable template handling"
 msgstr "Aktiviere Template Behandlung"
 
 #: includes/event-organiser-venue-functions.php:984
+#, fuzzy
 msgid "Country"
 msgstr "Land"
 
 #: event-organiser-settings.php:46
 #: event-organiser.php:122
 #: includes/event-organiser-install.php:116
+#, fuzzy
 msgid "Edit Events"
 msgstr "Termine bearbeiten"
 
