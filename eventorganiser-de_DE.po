@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:08:28+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:08:29+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1912,6 +1912,7 @@ msgid "Role"
 msgstr "Rolle"
 
 #: includes/event-organiser-utility-functions.php:1396
+#, fuzzy
 msgid "Help"
 msgstr "Hilfe"
 
