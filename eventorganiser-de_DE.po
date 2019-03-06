@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:00:58+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:00:59+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -442,6 +442,7 @@ msgid "Edit Event"
 msgstr "Termin bearbeiten"
 
 #: event-organiser-settings.php:645
+#, fuzzy
 msgid "For each of the pages, the corresponding template is used. To use your own template simply give it the same name and store in your theme folder. By default, if Event Organiser cannot find a template in your theme directory, it will use its own default template. You can disable this below. WordPress will then decide which template from your theme's folder to use."
 msgstr "Für jede der Seiten wird das entsprechende Template herangezogen. Um ein eigenes Template zu nutzen, benenne die Templates genau so und lege sie in deinem Theme-Ordner ab. Wird im Theme-Ordner nichts gefunden, dann wird auf die Standard-Templates zurückgegriffen. Dieses Verhalten kannst du unten ausschalten. Wordpress wird dann auf Templates aus deinem Theme-Ordner zurückgreifen."
 
