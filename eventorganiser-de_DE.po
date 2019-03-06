@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:09:32+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:09:35+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2070,6 +2070,7 @@ msgid "Feed not found"
 msgstr "Kein Feed gefunden"
 
 #: event-organiser-debug.php:72
+#, fuzzy
 msgid "Most bugs arise from theme or plug-in conflicts. You can check this by disabling all other plug-ins and switching to TwentyTweleve. To help speed things along, if you report a bug please indicate if you have done so. Once the plug-in or theme has been identified it is often easy to resolve the issue. Below any <strong>known</strong> plug-in and theme conflicts are highlighted in red."
 msgstr "Die meisten Fehler entstehen durch Theme- oder Plugin-Konflikte. Dies lässt sich überprüfen, indem man alle anderen Plugins deaktiviert und das Standard-Theme verwendet (TwentyTweleve). Um die Fehlerhebung zu beschleunigen, sollten Sie diesen Schritt durchführen und darauf hinweisen. Ist das Plugin oder Theme identifiziert, ist es in der Regel recht einfach das Problem zu beheben. Im Folgenden sind <strong>bekannte</strong> Konflikte in rot hervorgehoben."
 
