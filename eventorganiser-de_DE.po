@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:04:40+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:04:42+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1114,10 +1114,12 @@ msgid "Choose the recurrence end date. No further occurrences are added after th
 msgstr "Wählen Sie das Enddatum der Wiederholung. Es werden keine weiteren Wiederholungen nach diesem Datum hinzugefügt, aber eine Wiederholung, die vorher startet, kann nach diesem Zeitpunkt enden."
 
 #: event-organiser-edit.php:182
+#, fuzzy
 msgid "Recurrence frequency"
 msgstr "Wiederholung"
 
 #: event-organiser-calendar.php:364
+#, fuzzy
 msgid "Close modal"
 msgstr "Modal schließen"
 
