@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:07:23+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:07:25+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1661,16 +1661,19 @@ msgid "Are current events past?"
 msgstr "Sind aktuell laufende Termine als bereits vergangen gewertet werden?"
 
 #: includes/event-organiser-cpt.php:95
+#, fuzzy
 msgctxt "taxonomy singular name"
 msgid "Category"
 msgstr "Kategorie"
 
 #: includes/event-organiser-event-functions.php:797
 #: includes/event-organiser-register.php:259
+#, fuzzy
 msgid "every day"
 msgstr "jeden Tag"
 
 #: includes/event-organiser-cpt.php:542
+#, fuzzy
 msgid "Use the venues input field to search for existing venues"
 msgstr "Benutzen Sie das Eingabefeld für Unterrichtsorte um nach vorhandenen Unterrichtsorten zu suchen"
 
