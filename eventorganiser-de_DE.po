@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:08:15+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:08:17+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1841,14 +1841,17 @@ msgid "Event categories list navigation"
 msgstr "Termin Kategorien Listennavigation"
 
 #: event-organiser-settings.php:586
+#, fuzzy
 msgid "Event Settings: %s"
 msgstr "Termin Einstellungen: %s"
 
 #: includes/event-organiser-cpt.php:518
+#, fuzzy
 msgid "Creating events"
 msgstr "Termine erstellen"
 
 #: event-organiser-settings.php:668
+#, fuzzy
 msgid "Event management permissions"
 msgstr "Terimverwaltungsfreigaben"
 
