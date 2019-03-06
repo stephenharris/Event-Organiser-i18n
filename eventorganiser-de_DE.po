@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:08:23+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:08:25+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1878,6 +1878,7 @@ msgid "Minute"
 msgstr "Minute"
 
 #: includes/event-organiser-cpt.php:161
+#, fuzzy
 msgid "Choose from the most used tags"
 msgstr "Aus den meist verwendeten Terminschlagworten auswählen"
 
@@ -1896,6 +1897,7 @@ msgstr "Aus den meist verwendeten Terminschlagworten auswählen"
 #: event-organiser-calendar.php:387
 #: event-organiser-edit.php:14
 #: templates/event-meta-event-single.php:32
+#, fuzzy
 msgid "Event Details"
 msgstr "Termin Details"
 
