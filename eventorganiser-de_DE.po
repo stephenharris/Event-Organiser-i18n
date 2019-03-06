@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:06:03+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:06:06+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1420,16 +1420,18 @@ msgid "Next month"
 msgstr "Nächster Monat"
 
 #: includes/event-organiser-cpt.php:103
+#, fuzzy
 msgid "New Category Name"
 msgstr "Neuer Terminkategorienname"
 
 #: event-organiser-calendar.php:21
 #: event-organiser-calendar.php:22
+#, fuzzy
 msgid "Calendar View"
 msgstr "Kalenderansicht"
 
 #: includes/class-event-organiser-im-export.php:61
-#, php-format
+#, php-format,fuzzy
 msgid "File Error encountered: %d"
 msgstr "Dateifehler aufgetreten: %d"
 
