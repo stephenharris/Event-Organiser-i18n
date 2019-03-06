@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:00:11+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:00:14+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -334,6 +334,7 @@ msgid "The end date is the date the event finishes. If the event is a recurring 
 msgstr "Das Enddatum ist das Datum, an dem der Termin endet. Wenn der Termin wiederkehrend ist, ist es das Enddatum des ersten Terminereignisses."
 
 #: includes/event-organiser-ajax.php:347
+#, fuzzy
 msgid "Private"
 msgstr "Privat"
 
