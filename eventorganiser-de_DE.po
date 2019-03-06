@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:10:46+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:10:48+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2426,6 +2426,7 @@ msgid "Export"
 msgstr "Export"
 
 #: event-organiser-calendar.php:348
+#, fuzzy
 msgid "Switch to week view"
 msgstr "Wechsle in die Wochenansicht"
 
@@ -2443,6 +2444,7 @@ msgstr "Springe zum heutigen Tag"
 #. Call the template header
 #: includes/class-eo-theme-compatability.php:184
 #: templates/taxonomy-event-tag.php:27
+#, fuzzy
 msgid "Event Tag: %s"
 msgstr "Termin Tag: %s"
 
