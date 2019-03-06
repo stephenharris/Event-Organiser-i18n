@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:05:25+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:05:35+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1293,14 +1293,17 @@ msgstr "alle %d Jahre am"
 #: event-organiser-debug.php:181
 #: event-organiser-debug.php:185
 #: event-organiser-settings.php:211
+#, fuzzy
 msgid "No"
 msgstr "Nein"
 
 #: includes/event-organiser-cpt.php:38
+#, fuzzy
 msgid "Add New Venue"
 msgstr "Neuen Veranstaltungsort hinzufügen"
 
 #: includes/event-organiser-cpt.php:521
+#, fuzzy
 msgid "The start date is the date the event starts. If the event is a recurring event, this is the start date of the first occurrence."
 msgstr "Das Startdatum ist das Datum an dem der Termin beginnt. Wenn der Termin wiederkehrend ist, ist es das Startdatum des ersten Terminereignisses."
 
