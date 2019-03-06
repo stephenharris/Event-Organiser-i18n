@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:07:35+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:07:36+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1709,6 +1709,7 @@ msgid "%1$s requires %1$s version %1$s or higher"
 msgstr "%1$s benötigt %1$s Version %1$s oder höher"
 
 #: event-organiser-settings.php:716
+#, fuzzy
 msgid "You may also need to go to WordPress Settings > Permalinks and click 'Save Changes' before any changes will take effect."
 msgstr "Möglicherweise müssen Sie dahin gehen: WordPress Einstellungen > Permalinks und 'Save Changes' drücken, bevor irgendwelche Änderungen wirksam werden."
 
