@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:01:48+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:01:50+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -585,10 +585,12 @@ msgstr "Zukünftige & laufende Termine"
 
 #: includes/event-organiser-event-functions.php:777
 #: includes/event-organiser-register.php:271
+#, fuzzy
 msgid "second"
 msgstr "zweiten"
 
 #: includes/event-organiser-cpt.php:45
+#, fuzzy
 msgid "No Venue"
 msgstr "Keine Veranstaltungsort"
 
