@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:01:07+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:01:09+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -462,11 +462,13 @@ msgid "Hide dates"
 msgstr "Datum verstecken"
 
 #: includes/event-organiser-cpt.php:543
+#, fuzzy
 msgid "Only pre-existing venues can be selected. To add a venue, go to the venues page."
 msgstr "Nur bereits bestehende Unterrichtsorte können ausgewählt werden. Um einen Ort hinzuzufügen, gehen Sie zur Seite \"Unterrichtsorte\"."
 
 #: includes/event-organiser-event-functions.php:777
 #: includes/event-organiser-register.php:273
+#, fuzzy
 msgid "fourth"
 msgstr "vierten"
 
