@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:00:39+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:00:55+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -431,6 +431,7 @@ msgid "Creates a custom post type 'events' with features such as recurring event
 msgstr "Erstellt einen individuellen Termin mit Features wie wiederholende Termine, Veranstaltungsorte, Google-Maps-Karte, Kalenderansichten und -termine und Seiten für Veranstaltungsorte"
 
 #: event-organiser-settings.php:269
+#, fuzzy
 msgid "Check this option to prevent any stylesheets from Event Organiser being loaded on the front-end"
 msgstr "Setze den Haken, damit 'Event Organiser' keine CSS-Stylesheets mehr in das Frontend lädt."
 
