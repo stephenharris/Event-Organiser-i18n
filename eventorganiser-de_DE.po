@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:00:29+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:00:30+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -399,6 +399,7 @@ msgid "To use Google Maps you need to register an API key with Google. You can r
 msgstr "Um Google Maps musst du einen API-Schlüssel registrieren. Du kannst einen kostenlosen API Key registrieren, indem du dieser %sAnleitung%s folgst."
 
 #: includes/event.php:1080
+#, fuzzy
 msgid "Occurrence not deleted. Occurrence not found."
 msgstr "Ereignis nicht gelöscht bzw. nicht gefunden."
 
