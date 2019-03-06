@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:09:00+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:09:01+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2040,6 +2040,7 @@ msgid "Google Maps now requires you register for an API key. If you wish to use 
 msgstr "Google Maps erfordert jetzt, dass Sie sich für einen API-Schlüssel registrieren. Wenn Sie Karten auf Ihrer Website verwenden möchten, geben Sie bitte %sIhren Schlüssel% s ein."
 
 #: event-organiser-settings.php:714
+#, fuzzy
 msgid "Choose a custom permalink structure for events, venues, event categories and event tags."
 msgstr "Wählen Sie eine benutzerdefinierte Permalink-Struktur für Termine, Veranstaltungsorte, Terminkategorien und Terminschlagworte."
 
