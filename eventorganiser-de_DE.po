@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:05:45+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:05:47+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1350,12 +1350,14 @@ msgid "Sell tickets for specific dates or sell tickets for all dates of an event
 msgstr "Verkaufe Tickets an einem bestimmten Zeitpunkt oder verkaufe Tickets für alle Daten eines Termins - z.B. Plätze in einem Lehrgang. Du kannst mehrere Tickets anbieten und das Buchungsformular Deinen  Anforderungen anpassen."
 
 #: event-organiser-settings.php:41
+#, fuzzy
 msgid "Event Organiser"
 msgstr "Event Organiser"
 
 #: includes/event-organiser-cpt.php:162
 #: includes/event-organiser-event-functions.php:1557
 #: templates/event-meta-event-single.php:66
+#, fuzzy
 msgid "Tags"
 msgstr "Terminschlagworte"
 
