@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:02:19+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:02:23+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -679,10 +679,12 @@ msgid "Google Maps"
 msgstr "Google Maps"
 
 #: event-organiser-edit.php:116
+#, fuzzy
 msgid "Start Time"
 msgstr "Start Zeit"
 
 #: event-organiser-go-pro.php:54
+#, fuzzy
 msgid "Event Organiser Pro is a premium add-on bringing advanced booking management to Event Organiser."
 msgstr "'Event Organiser Pro' ist ein Premium-Add-On, das den Event Organiser um fortgeschrittene Buchungs-Management-Funktionen erweitert."
 
