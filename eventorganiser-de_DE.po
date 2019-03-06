@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:10:18+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:10:20+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2315,10 +2315,12 @@ msgid "Running events"
 msgstr "Laufende Termine"
 
 #: event-organiser-go-pro.php:81
+#, fuzzy
 msgid "Add information on your venue pages with venue custom fields, or give your venues more attentioned with their own 'featured image'"
 msgstr "Füge weitere Informationen zu Deinen Veranstaltungsort-Seiten mit benutzerdefinierten Feldern hinzu oder verleihe ihnen mehr Publikumsbeachtung durch eigene Feature-Bilder."
 
 #: event-organiser-settings.php:362
+#, fuzzy
 msgid "Event Organiser will attempt to ensure compatability with your theme and apply additional styles."
 msgstr "Event Organiser versucht die Kompatibilität mit dem installierten Theme zu gewährleisten und fügt zusätzliche Styles hinzu."
 
