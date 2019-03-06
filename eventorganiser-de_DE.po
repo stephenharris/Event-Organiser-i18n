@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T09:59:55+00:00\n"
+"PO-Revision-Date: 2019-03-06T09:59:56+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -289,7 +289,7 @@ msgid "Venue Location"
 msgstr "Veranstaltungsort-Location"
 
 #: includes/event-organiser-cpt.php:326
-#, php-format
+#, php-format,fuzzy
 msgid "Event restored to revision from %s"
 msgstr "Termin wiederhergestellt zu Revision aus %s"
 
