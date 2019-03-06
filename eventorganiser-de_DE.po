@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:01:16+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:01:17+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -512,7 +512,7 @@ msgid "Edit takes you to the editing screen for that venue. You can also reach t
 msgstr "Um den Veranstaltungsort zu bearbeiten, klicken sie 'Bearbeiten' oder den Titel des Ortes."
 
 #: includes/event-organiser-cpt.php:330
-#, php-format
+#, php-format,fuzzy
 msgid "Event submitted. <a target=\"_blank\" href=\"%s\">Preview event</a>"
 msgstr "Termin abgesendet. <a target=\"_blank\" href=\"%s\">Termin-Vorschau</a>"
 
