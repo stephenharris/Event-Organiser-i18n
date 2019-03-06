@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:09:46+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:09:49+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2225,6 +2225,7 @@ msgid "Publish Events"
 msgstr "Termine veröffentlichen"
 
 #: includes/event-organiser-cpt.php:560
+#, fuzzy
 msgid "Hovering over a row in the venues list will display action links that allow you to manage that venue. You can perform the following actions:"
 msgstr "Bewegen Sie die Maus über eine Zeile in der Liste, und sie sehen Links, mit denen Sie die Veranstaltungsorte verwalten können. Sie können folgende Aktionen durchführen:"
 
