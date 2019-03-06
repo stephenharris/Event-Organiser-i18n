@@ -1754,6 +1754,7 @@ msgid "To repeat an event according to some regular pattern, use the recurrence 
 msgstr "Wenn Sie einen Termin nach einem regelmäßigen Muster wiederholen lassen möchten, verwenden Sie das Dropdown-Menü \"Wiederholung\". Weitere Optionen erscheinen dann."
 
 #: event-organiser-settings.php:263
+#, fuzzy
 msgid "Disable CSS:"
 msgstr "CSS deaktivieren"
 
