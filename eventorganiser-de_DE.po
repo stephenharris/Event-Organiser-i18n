@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T09:59:48+00:00\n"
+"PO-Revision-Date: 2019-03-06T09:59:49+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -258,6 +258,7 @@ msgid "You do not have sufficient permissions to import events."
 msgstr "Sie haben keine Rechte, um Termine zu importieren."
 
 #: includes/class-event-organiser-im-export.php:91
+#, fuzzy
 msgid "Export Events"
 msgstr "Termine exportieren"
 
