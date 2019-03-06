@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:05:37+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:05:39+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1318,10 +1318,12 @@ msgid "Apologies, but no results were found for the requested archive. "
 msgstr "Leider wurden keine Ergebnisse für das angefragte Archiv gefunden."
 
 #: includes/event-organiser-cpt.php:33
+#, fuzzy
 msgid "Search Venues"
 msgstr "Veranstaltungsort durchsuchen"
 
 #: event-organiser-settings.php:184
+#, fuzzy
 msgid "This alters the default format for inputting dates."
 msgstr "Dies ändert die Standardformatierung für die Datumseingabe."
 
