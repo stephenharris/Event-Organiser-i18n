@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:08:57+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:08:58+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2020,10 +2020,12 @@ msgid "every year on the"
 msgstr "jeden Monat am"
 
 #: event-organiser-calendar.php:311
+#, fuzzy
 msgid "Save Draft"
 msgstr "Entwurf speichern"
 
 #: includes/event-organiser-cpt.php:159
+#, fuzzy
 msgid "New Tag Name"
 msgstr "Neuer Terminschlagwortname"
 
