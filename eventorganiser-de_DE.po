@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:08:29+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:08:31+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1930,10 +1930,12 @@ msgid "Events"
 msgstr "Termine"
 
 #: includes/event-organiser-cpt.php:563
+#, fuzzy
 msgid "Delete will permanently remove the venue"
 msgstr "'Löschen' wird diesen Veranstaltungsort dauerhaft entfernen."
 
 #: includes/event-organiser-cpt.php:564
+#, fuzzy
 msgid "View will take you to the venue's page"
 msgstr "'Ansehen' bringt Sie zur Seite des Veranstaltungsortes."
 
