@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:06:50+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:06:51+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1601,10 +1601,12 @@ msgid "Schedule not recognised."
 msgstr "Zeitplan wurde nicht erkannt"
 
 #: templates/eo-loop-events.php:37
+#, fuzzy
 msgid "Nothing Found"
 msgstr "Nichts gefunden"
 
 #: includes/event-organiser-cpt.php:324
+#, fuzzy
 msgid "Event updated."
 msgstr "Termin aktualisiert."
 
