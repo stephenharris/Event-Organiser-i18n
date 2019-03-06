@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:02:58+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:03:00+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -757,10 +757,12 @@ msgid "Invalid datetime \"%s\". Date expected in YYYYMMDDTHHiissZ or YYYYMMDDTHH
 msgstr "Falsche Angabe für  datetime \"%s\". Datum muss entweder im YYYYMMDDTHHiissZ- oder  YYYYMMDDTHHiiss-Format vorliegen."
 
 #: event-organiser-edit.php:139
+#, fuzzy
 msgid "End Time"
 msgstr "Ende Zeit"
 
 #: event-organiser-settings.php:297
+#, fuzzy
 msgid "Events page"
 msgstr "Termine-Seite"
 
