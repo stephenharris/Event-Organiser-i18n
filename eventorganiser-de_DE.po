@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:05:21+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:05:23+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1264,10 +1264,12 @@ msgid "Venues"
 msgstr "Veranstaltungsorte"
 
 #: event-organiser-go-pro.php:95
+#, fuzzy
 msgid "Go to Event Organiser settings"
 msgstr "Gehe zu 'Event Organiser'- Einstellungen"
 
 #: event-organiser-manage.php:164
+#, fuzzy
 msgid "Events within 1 year"
 msgstr "Termine innerhalb eines Jahres"
 
