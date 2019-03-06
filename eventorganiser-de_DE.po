@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:00:30+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:00:34+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -404,10 +404,12 @@ msgid "Occurrence not deleted. Occurrence not found."
 msgstr "Ereignis nicht gelöscht bzw. nicht gefunden."
 
 #: includes/event-organiser-ajax.php:345
+#, fuzzy
 msgid "Protected"
 msgstr "Geschützt"
 
 #: includes/event-organiser-register.php:577
+#, fuzzy
 msgid "It is strongly recommended you select a city instead, even if you don't observe Daylight Savings Time."
 msgstr "Es wird dringend empfohlen stattdessen eine Stadt auszuwählen, auch wenn keine Zeitumstellungen zu erwarten sind."
 
