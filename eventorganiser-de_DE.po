@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:07:57+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:08:00+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1759,6 +1759,7 @@ msgstr "CSS deaktivieren"
 
 #: classes/class-eo-widget-categories.php:128
 #: classes/class-eo-widget-venues.php:129
+#, fuzzy
 msgid "Display as dropdown"
 msgstr "Als Dopdown anzeigen"
 
