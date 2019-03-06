@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:06:51+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:06:52+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1597,6 +1597,7 @@ msgid "View Event"
 msgstr "Termine anzeigen"
 
 #: includes/event.php:616
+#, fuzzy
 msgid "Schedule not recognised."
 msgstr "Zeitplan wurde nicht erkannt"
 
