@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:08:00+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:08:02+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1746,10 +1746,12 @@ msgid "every year"
 msgstr "jedes Jahr"
 
 #: event-organiser-calendar.php:215
+#, fuzzy
 msgid "Occurrence deleted."
 msgstr "Ereignis gelöscht"
 
 #: includes/event-organiser-cpt.php:529
+#, fuzzy
 msgid "To repeat an event according to some regular pattern, use the recurrence dropdown menu to select how the event is to repeat. Further options then appear, "
 msgstr "Wenn Sie einen Termin nach einem regelmäßigen Muster wiederholen lassen möchten, verwenden Sie das Dropdown-Menü \"Wiederholung\". Weitere Optionen erscheinen dann."
 
