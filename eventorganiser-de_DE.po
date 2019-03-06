@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:05:13+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:05:15+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1236,7 +1236,7 @@ msgstr "Termin Kategorien Liste"
 
 #: includes/event-organiser-event-functions.php:799
 #: includes/event-organiser-register.php:260
-#, php-format
+#, php-format,fuzzy
 msgid "every %d days"
 msgstr "alle %d Tage"
 
@@ -1246,6 +1246,7 @@ msgid "Event Organiser Settings"
 msgstr "'Event Organiser'-Einstellungen"
 
 #: event-organiser-edit.php:181
+#, fuzzy
 msgid "Repeat every"
 msgstr "Wiederholen alle"
 
