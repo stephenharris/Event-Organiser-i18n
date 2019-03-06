@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:07:25+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:07:27+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1678,10 +1678,12 @@ msgid "Use the venues input field to search for existing venues"
 msgstr "Benutzen Sie das Eingabefeld für Unterrichtsorte um nach vorhandenen Unterrichtsorten zu suchen"
 
 #: includes/event-organiser-cpt.php:233
+#, fuzzy
 msgid "No events found"
 msgstr "Keine Termine gefunden"
 
 #: includes/event-organiser-cpt.php:232
+#, fuzzy
 msgid "Search events"
 msgstr "Termine suchen"
 
