@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:05:50+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:05:53+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1390,10 +1390,12 @@ msgstr "Termin Tags Liste"
 #: templates/archive-event.php:32
 #: templates/archive-event.php:35
 #: templates/archive-event.php:38
+#, fuzzy
 msgid "Events: "
 msgstr "Termine:"
 
 #: event-organiser-go-pro.php:75
+#, fuzzy
 msgid "Additional shortcodes & improved UI"
 msgstr "Zusätzliche Shortcodes & verbesserte Benutzeroberfläche"
 
