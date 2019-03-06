@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T09:59:44+00:00\n"
+"PO-Revision-Date: 2019-03-06T09:59:45+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -233,11 +233,12 @@ msgid "Events within 1 month"
 msgstr "Termine innerhalb eines Monats"
 
 #: includes/event-organiser-cpt.php:327
-#, php-format
+#, php-format,fuzzy
 msgid "Event published. <a href=\"%s\">View event</a>"
 msgstr "Termin veröffentlicht. <a href=\"%s\">Termin anzeigen</a>"
 
 #: event-organiser-edit.php:100
+#, fuzzy
 msgid "Enter time in 12-hour hh colon mm am or pm format"
 msgstr "Zeit im 12-hour hh colon mm am or pm Format angeben"
 
