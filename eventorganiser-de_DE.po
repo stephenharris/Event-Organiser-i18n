@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:10:03+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:10:10+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2349,6 +2349,7 @@ msgid "%1$s has only been tested up to %1$s %1$s"
 msgstr "%1$s wurde nur bis %1$s %1$s getestet"
 
 #: includes/event-organiser-register.php:578
+#, fuzzy
 msgid "You can <a href='%s'>change your timezone settings here</a>."
 msgstr "<a href='%s'>Hier können die Zeitzonen-Einstellungen bearbeitet werden.</a>"
 
