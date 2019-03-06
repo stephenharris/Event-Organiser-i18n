@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:06:38+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:06:40+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1526,10 +1526,12 @@ msgid "Link directly to event for days with only one event"
 msgstr "Verlinke direkt zum Termin bei Tage mit nur einem einzelnen Termin"
 
 #: event-organiser-settings.php:366
+#, fuzzy
 msgid "Event Organiser's page templates will be used if your theme does not provide appropriate templates."
 msgstr "Event Organiser's eigene Templates werden für den Fall herangezogen, dass dein Theme keine passenden Templates bietet."
 
 #: includes/event-organiser-cpt.php:534
+#, fuzzy
 msgid "If weekly recurrence is selected, select which days of the week the event should be repeated. If no days are selected, the day of the start date is used"
 msgstr "Wenn wöchentliche Wiederholung ausgewählt ist, wählen Sie, welche Tage der Woche wiederholt werden. Wenn keine Tage ausgewählt sind, wird der Tag des Startdatums verwendet."
 
