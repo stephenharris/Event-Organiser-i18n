@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:06:12+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:06:14+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1441,10 +1441,12 @@ msgid "Please note to enable these structures you must first have pretty permali
 msgstr "Bitte beachten Sie: Permalinks müssen hierfür unter WordPress > Einstellungen > Permalinks aktiviert sein."
 
 #: classes/class-eo-widget-categories.php:131
+#, fuzzy
 msgid "Show hierarchy"
 msgstr "Stuktur anzeigen"
 
 #: classes/class-eo-agenda-widget.php:41
+#, fuzzy
 msgid "Group by"
 msgstr "Gruppiere nach"
 
