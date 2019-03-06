@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:08:35+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:08:41+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1955,11 +1955,12 @@ msgid "Get Link"
 msgstr "Link erhalten"
 
 #: event-organiser-settings.php:585
+#, fuzzy
 msgid "Event Settings"
 msgstr "Termin Einstellungen"
 
 #: templates/event-meta-event-single.php:45
-#, php-format
+#, php-format,fuzzy
 msgid "This event finished on %s"
 msgstr "Dieser Termin endet am %s"
 
