@@ -2274,6 +2274,7 @@ msgstr "Anzahl der Termine"
 
 #: includes/event-organiser-event-functions.php:777
 #: includes/event-organiser-register.php:270
+#, fuzzy
 msgid "first"
 msgstr "ersten"
 
