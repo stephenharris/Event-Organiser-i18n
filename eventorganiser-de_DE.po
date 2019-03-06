@@ -1902,6 +1902,7 @@ msgid "Event Details"
 msgstr "Termin Details"
 
 #: includes/event-organiser-register.php:249
+#, fuzzy
 msgid "Hour"
 msgstr "Stunde"
 
