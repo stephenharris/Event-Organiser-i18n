@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:00:17+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:00:20+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -349,15 +349,17 @@ msgid "You do not have sufficient permissions to delete this event. "
 msgstr "Sie verfügen nicht über ausreichende Berechtigungen, um diesen Termin zu löschen."
 
 #: event-organiser-go-pro.php:76
+#, fuzzy
 msgid "Give your users the ability to search and filter through your events with the event search shortcode. Event Organiser Pro also adds a text editor button to make inserting and configuring your shortcodes that bit easier. "
 msgstr "Gebe deinen Benutzern mit dem Veranstaltungs-Such-Shortcode die Möglichkeit Veranstaltungen zu suchen und zu filtern. Event Organiser Pro bringt ebenfalls einen Button für den Texteditor mit, mit dem das Einfügen und Konfigurieren der Shortcodes noch viel einfacher wird."
 
 #: event-organiser-manage.php:160
+#, fuzzy
 msgid "Events within 1 week"
 msgstr "Termine innerhalb einer Woche"
 
 #: includes/class-eo-ical-parser.php:1039
-#, php-format
+#, php-format,fuzzy
 msgid "Invalid date \"%s\". Date expected in YYYYMMDD format."
 msgstr "Falsche Angabe für das Datum \"%s\". Datum wird im YYYYMMDD-Format erwartet."
 
