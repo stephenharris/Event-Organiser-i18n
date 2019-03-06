@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:04:14+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:04:15+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1036,11 +1036,13 @@ msgid "every %d months on the"
 msgstr "alle %d Monate am"
 
 #: event-organiser-venues.php:46
+#, fuzzy
 msgid "You do not have permission to manage venues"
 msgstr "Du hast nicht die Berechtigung Veranstaltungsorte zu verwalten."
 
 #: classes/class-eo-agenda-widget.php:149
 #: classes/class-eo-venue-list-table.php:90
+#, fuzzy
 msgid "View"
 msgstr "Anzeigen"
 
