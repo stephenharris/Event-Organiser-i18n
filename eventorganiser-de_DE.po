@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:01:42+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:01:44+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -609,10 +609,12 @@ msgid "Event venues list"
 msgstr "Termin Ortsliste"
 
 #: includes/event-organiser-cpt.php:533
+#, fuzzy
 msgid "If monthly recurrence is selected, select whether this should repeat on that date of the month (e.g. on the 24th) or on the day of the month (e.g. on the third Tuesday) "
 msgstr "Wenn monatliche Wiederholung ausgewählt ist, wählen Sie, ob diese an dem Datum des Monats (z.B. am 24.) oder am Tag des Monats zu wiederholen ist (z. B. am dritten Dienstag)."
 
 #: includes/event-organiser-cpt.php:523
+#, fuzzy
 msgid "All dates and times must be entered in the specified format. This format can changed in the settings page."
 msgstr "Alle Daten und Zeiten müssen in einem bestimmten Format eingegeben werden. Dieses Format kann unter \"Einstellungen\" geändert werden."
 
