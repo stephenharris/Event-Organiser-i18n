@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:07:27+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:07:29+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1688,6 +1688,7 @@ msgid "Search events"
 msgstr "Termine suchen"
 
 #: includes/event-organiser-cpt.php:579
+#, fuzzy
 msgid "You can create an event on this Calendar, by clicking on day or dragging over multiple days (in Month view) or multiple times (in Week and Day view). You can give the event a title, specify a venue and provide a descripton. The event can be immediately published or saved as a draft. In any case, the event is created and you are forwarded to that event's edit page."
 msgstr "Sie können einen Termin in diesem Kalender erstellen, indem Sie auf einen Tag klicken oder die Maus über mehrere Tage ziehen (in der Monatsansicht) oder mehrmals klicken (in Wochen-und Tagesansicht). Sie können dem Termin einen Titel geben, den Unterrichtsort zuordnen und eine Beschreibung eingeben. Der Termin kann sofort veröffentlicht oder als Entwurf gespeichert werden. In jedem Fall wird der Termin erstellt, und Sie werden auf die Bearbeiten-Seite weitergeleitet."
 
