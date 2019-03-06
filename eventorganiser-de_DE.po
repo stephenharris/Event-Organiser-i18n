@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:07:15+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:07:17+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1651,6 +1651,7 @@ msgid "For more information see documentation <a href='%s'>on editing the templa
 msgstr "Für weitere Informationen siehe Dokumentation <a href='%s'>über das Editieren der Templates</a>"
 
 #: event-organiser-edit.php:100
+#, fuzzy
 msgid "Enter time in 24-hour hh colon mm format"
 msgstr "Zeit im 24-hour hh colon mm Format angeben"
 
