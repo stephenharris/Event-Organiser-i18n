@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:03:09+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:03:10+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -792,12 +792,14 @@ msgid "Filter events list"
 msgstr "Filter Terminliste"
 
 #: event-organiser-settings.php:653
+#, fuzzy
 msgid "Event page:"
 msgstr "Terminseite:"
 
 #: event-organiser-debug.php:13
 #: event-organiser-debug.php:14
 #: event-organiser-debug.php:57
+#, fuzzy
 msgid "System Info"
 msgstr "Systeminformation"
 
