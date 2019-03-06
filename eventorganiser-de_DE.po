@@ -364,6 +364,7 @@ msgid "Invalid date \"%s\". Date expected in YYYYMMDD format."
 msgstr "Falsche Angabe für das Datum \"%s\". Datum wird im YYYYMMDD-Format erwartet."
 
 #: classes/class-eo-agenda-widget.php:12
+#, fuzzy
 msgid "Displays a list of events, grouped by date"
 msgstr "Zeigt eine Liste der Termine, gruppiert nach Datum"
 
