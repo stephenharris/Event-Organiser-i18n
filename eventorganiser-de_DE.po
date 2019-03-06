@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:06:14+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:06:15+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1451,11 +1451,13 @@ msgid "Group by"
 msgstr "Gruppiere nach"
 
 #: includes/event-organiser-cpt.php:528
+#, fuzzy
 msgid "Repeating events"
 msgstr "Wiederkehrende Termine"
 
 #: includes/event-organiser-event-functions.php:805
 #: includes/event-organiser-register.php:261
+#, fuzzy
 msgid "every week on"
 msgstr "jede Woche am"
 
