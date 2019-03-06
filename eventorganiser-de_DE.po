@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:04:10+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:04:11+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1015,10 +1015,12 @@ msgid "Update Tag"
 msgstr "Terminschlagwort aktualisieren"
 
 #: classes/class-eo-widget-venues.php:12
+#, fuzzy
 msgid "Event Venues"
 msgstr "Veranstaltungsorte"
 
 #: includes/event-organiser-cpt.php:32
+#, fuzzy
 msgid "Venue"
 msgstr "Ort"
 
