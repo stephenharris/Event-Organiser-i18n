@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:09:27+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:09:29+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2091,11 +2091,12 @@ msgid "Publish Event"
 msgstr "Termin veröffentlichen"
 
 #: includes/event-organiser-cpt.php:39
+#, fuzzy
 msgid "New Venue Name"
 msgstr "Neuer Veranstaltungsortsname"
 
 #: includes/class-event-organiser-im-export.php:73
-#, php-format
+#, php-format,fuzzy
 msgid "File size: %s. File type: %s"
 msgstr "Dateigröße: %s. Dateityp: %s"
 
