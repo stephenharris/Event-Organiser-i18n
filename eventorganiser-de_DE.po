@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:00:02+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:00:05+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -310,10 +310,12 @@ msgstr "Vorschaubild"
 
 #: includes/event-organiser-event-functions.php:777
 #: includes/event-organiser-register.php:274
+#, fuzzy
 msgid "last"
 msgstr "letzten"
 
 #: event-organiser-debug.php:64
+#, fuzzy
 msgid "This page highlights useful information for debugging. If you're reporting a bug, please include this information. The 'system info' link in under the Events admin tab is only visible to admins and only when %1$s is set to %1$s."
 msgstr ""
 "Diese Seite enthält nützliche Informationen zum Debuggen. Wenn Sie einen Fehler melden, geben Sie diese Informationen an. Der\n"
