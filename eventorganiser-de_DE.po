@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-06T10:10:55+00:00\n"
+"PO-Revision-Date: 2019-03-06T10:10:57+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2393,15 +2393,18 @@ msgid "View &#8220;%s&#8221;"
 msgstr "Zeige &#8220;%s&#8221;"
 
 #: includes/event-organiser-cpt.php:227
+#, fuzzy
 msgid "Add New Event"
 msgstr "Termin hinzufügen"
 
 #: includes/event-organiser-cpt.php:160
+#, fuzzy
 msgid "No tags found"
 msgstr "Keine Terminschlagworte gefunden"
 
 #: event-organiser-settings.php:160
 #: event-organiser-settings.php:187
+#, fuzzy
 msgid "Show past events:"
 msgstr "Vergangene Termine anzeigen:"
 
