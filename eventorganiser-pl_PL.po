@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-11T10:01:16+00:00\n"
+"PO-Revision-Date: 2019-03-11T10:01:22+00:00\n"
 "Language: pl_PL\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
 
@@ -24,6 +24,7 @@ msgstr "Archiwa wydarzeń:"
 #: event-organiser-calendar.php:75
 #: includes/event-organiser-register.php:69
 #: includes/event-organiser-register.php:255
+#, fuzzy
 msgid "month"
 msgstr "miesiąc"
 
