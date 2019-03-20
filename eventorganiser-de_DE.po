@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:15:46+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:15:53+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -553,7 +553,7 @@ msgstr "Alle Daten und Zeiten müssen in einem bestimmten Format eingegeben werd
 
 #: event-organiser-calendar.php:236
 msgid "24 hour time"
-msgstr "24-Stunden-Zeit"
+msgstr "24-Stunden-Zeitformat"
 
 #: includes/event-organiser-venue-functions.php:983
 msgid "Post Code"
@@ -561,7 +561,6 @@ msgstr "PLZ"
 
 #: classes/class-eo-event-list-widget.php:52
 #: includes/event-organiser-cpt.php:230
-#, fuzzy
 msgid "All events"
 msgstr "Alle Termine"
 
