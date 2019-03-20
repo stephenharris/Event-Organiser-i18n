@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:31:30+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:31:42+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1509,7 +1509,6 @@ msgid "This event will repeat"
 msgstr "Dieser Termin wiederholt sich"
 
 #: includes/event-organiser-register.php:64
-#, fuzzy
 msgid "Show More"
 msgstr "Mehr anzeigen"
 
@@ -1525,7 +1524,6 @@ msgstr "Folgende Tastatur-Shortcuts sind verfügbar"
 
 #: event-organiser-manage.php:19
 #: includes/event-organiser-cpt.php:225
-#, fuzzy
 msgid "Event"
 msgstr "Termin"
 
