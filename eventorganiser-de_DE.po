@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:28:33+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:28:43+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1297,9 +1297,8 @@ msgstr "%d Terminkategorien wurden erstellt"
 
 #: event-organiser-venues.php:52
 #: event-organiser-venues.php:81
-#, fuzzy
 msgid "You do not have permission to edit this venue."
-msgstr "Du hast keine Berechtigung diesen Veranstaltungsort zu bearbeiten."
+msgstr "Du hast keine Berechtigung, diesen Veranstaltungsort zu bearbeiten."
 
 #: event-organiser-edit.php:107
 #, fuzzy
