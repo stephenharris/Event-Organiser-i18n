@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:42:40+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:42:45+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2282,7 +2282,6 @@ msgid "Event Archives"
 msgstr "Termin-Archiv"
 
 #: includes/event-organiser-cpt.php:168
-#, fuzzy
 msgid "View all tags"
 msgstr "Alle Schlagworte ansehen"
 
@@ -2292,7 +2291,6 @@ msgid "yyyy-mm-dd"
 msgstr "jjjj-mm-tt"
 
 #: classes/class-eo-event-list-widget.php:146
-#, fuzzy
 msgid "Start date"
 msgstr "Startdatum"
 
