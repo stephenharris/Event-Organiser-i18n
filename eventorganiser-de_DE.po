@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:34:07+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:34:09+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1641,12 +1641,10 @@ msgstr "Event gelöscht."
 #: event-organiser-calendar.php:74
 #: includes/event-organiser-register.php:68
 #: includes/event-organiser-register.php:253
-#, fuzzy
 msgid "week"
 msgstr "Woche"
 
 #: includes/event-organiser-register.php:250
-#, fuzzy
 msgid "Minute"
 msgstr "Minute"
 
