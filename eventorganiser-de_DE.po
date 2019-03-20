@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:32:07+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:32:21+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1561,9 +1561,8 @@ msgid "Delete Events"
 msgstr "Termine löschen"
 
 #: event-organiser-edit.php:226
-#, fuzzy
 msgid "Repeat this event until:"
-msgstr "Wiederkehrende Termine"
+msgstr "Termin wiederholen bis:"
 
 #: event-organiser-settings.php:217
 #, fuzzy
