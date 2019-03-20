@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:39:06+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:39:08+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1951,7 +1951,6 @@ msgid "Switch to day view"
 msgstr "Wechsle zur Tagesansicht"
 
 #: event-organiser-manage.php:156
-#, fuzzy
 msgid "View all events"
 msgstr "Alle Termine anzeigen"
 
