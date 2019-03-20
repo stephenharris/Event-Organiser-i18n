@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:13:00+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:13:12+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -513,7 +513,6 @@ msgstr "Private Termine lesen"
 
 #: includes/event-organiser-event-functions.php:777
 #: includes/event-organiser-register.php:272
-#, fuzzy
 msgid "third"
 msgstr "dritten"
 
@@ -524,7 +523,6 @@ msgstr "Zukünftige & laufende Termine"
 
 #: includes/event-organiser-event-functions.php:777
 #: includes/event-organiser-register.php:271
-#, fuzzy
 msgid "second"
 msgstr "zweiten"
 
