@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:06:50+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:07:04+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -197,7 +197,6 @@ msgid "Show:"
 msgstr "Anzeigen:"
 
 #: event-organiser-manage.php:162
-#, fuzzy
 msgid "Events within 1 month"
 msgstr "Termine innerhalb eines Monats"
 
