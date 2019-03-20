@@ -145,7 +145,6 @@ msgstr "Daten ein- und ausschließen"
 #: classes/class-eo-calendar-widget.php:109
 #: classes/class-eo-event-list-widget.php:120
 #: includes/event-organiser-cpt.php:34
-#, fuzzy
 msgid "All Venues"
 msgstr "Alle Veranstaltungsorte"
 
