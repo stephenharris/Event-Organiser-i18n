@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:17:25+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:17:29+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -604,13 +604,11 @@ msgid "City"
 msgstr "Stadt"
 
 #: includes/class-event-organiser-im-export.php:100
-#, fuzzy
 msgid "Import Events"
 msgstr "Termine importieren"
 
 #: includes/event-organiser-cpt.php:539
 #: includes/event-organiser-cpt.php:540
-#, fuzzy
 msgid "Selecting a venue"
 msgstr "Veranstaltungsort auswählen"
 
