@@ -134,7 +134,6 @@ msgid "Month archive"
 msgstr "Monatsarchiv"
 
 #: event-organiser-edit.php:237
-#, fuzzy
 msgid "Include/Exclude occurrences:"
 msgstr "Daten ein- und ausschließen:"
 
