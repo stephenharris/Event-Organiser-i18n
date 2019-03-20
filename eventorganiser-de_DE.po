@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:30:17+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:30:24+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1419,8 +1419,9 @@ msgid "Event updated."
 msgstr "Termin aktualisiert."
 
 #: includes/event-organiser-ajax.php:393
+#, fuzzy
 msgid "Organiser:"
-msgstr "Veranstalter:"
+msgstr "Organisator"
 
 #: event-organiser-calendar.php:73
 #: includes/event-organiser-register.php:67
