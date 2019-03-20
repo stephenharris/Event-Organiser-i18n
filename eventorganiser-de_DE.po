@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:56:22+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:56:49+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -806,7 +806,6 @@ msgid "every %d weeks on"
 msgstr "alle %d Wochen am"
 
 #: classes/class-eo-venue-list-table.php:75
-#, fuzzy
 msgid "Edit &#8220;%s&#8221;"
 msgstr "Bearbeite &#8220;%s&#8221;"
 
