@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:39:08+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:39:25+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1972,7 +1972,7 @@ msgstr "Terminkategorie aktualisieren"
 #: templates/event-meta-event-single.php:81
 #, fuzzy
 msgid "Upcoming Dates"
-msgstr "Kommende Daten"
+msgstr "Kommende Termine"
 
 #: event-organiser-settings.php:47
 #: event-organiser.php:123
@@ -2007,7 +2007,6 @@ msgid "This event is running from %1$s until %2$s. It is next occurring on %3$s"
 msgstr "Dieser Termin läuft vom %1$s bis %2$s und findet das nächste Mal am %3$s statt."
 
 #: classes/class-eo-event-list-widget.php:144
-#, fuzzy
 msgid "Order by"
 msgstr "Sortieren nach"
 
