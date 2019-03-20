@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:22:15+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:22:19+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -914,12 +914,10 @@ msgstr "Du hast nicht die Berechtigung Veranstaltungsorte zu verwalten."
 
 #: classes/class-eo-agenda-widget.php:149
 #: classes/class-eo-venue-list-table.php:90
-#, fuzzy
 msgid "View"
 msgstr "Anzeigen"
 
 #: event-organiser-calendar.php:229
-#, fuzzy
 msgid "Calendar options"
 msgstr "Kalenderoptionen"
 
