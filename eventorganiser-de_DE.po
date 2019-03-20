@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:08:55+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:09:44+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -303,7 +303,7 @@ msgstr "Sie verfügen nicht über ausreichende Berechtigungen, um diesen Termin 
 #: event-organiser-go-pro.php:76
 #, fuzzy
 msgid "Give your users the ability to search and filter through your events with the event search shortcode. Event Organiser Pro also adds a text editor button to make inserting and configuring your shortcodes that bit easier. "
-msgstr "Gebe deinen Benutzern mit dem Veranstaltungs-Such-Shortcode die Möglichkeit Veranstaltungen zu suchen und zu filtern. Event Organiser Pro fügt zudem einen Button für den Texteditor ein, mit dem das Einfügen und Konfigurieren der Shortcodes noch viel einfacher wird."
+msgstr "Gib deinen Benutzern mit dem Veranstaltungs-Such-Shortcode die Möglichkeit, Veranstaltungen zu suchen und zu filtern. Event Organiser Pro fügt zudem einen Button für den Texteditor hinzu, der das Einfügen und Konfigurieren der Shortcodes stark vereinfacht."
 
 #: event-organiser-manage.php:160
 #, fuzzy
