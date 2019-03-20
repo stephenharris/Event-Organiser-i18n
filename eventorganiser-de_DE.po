@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:15:53+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:16:07+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -570,9 +570,8 @@ msgid "You can use specified tags as placeholders for event information which yo
 msgstr "Sie können bestimmte Terminschlagworte als Platzhalter für Termininformationen verwenden, welche bei Bedarf im Widget erscheinen. <a href=\"%s\" target=\"_blank\">Erfahren Sie mehr</ a>."
 
 #: event-organiser-settings.php:226
-#, fuzzy
 msgid "Enable events ICAL feed:"
-msgstr "ICAL Feed für Termine aktivieren:"
+msgstr "ICAL-Feed für Termine aktivieren:"
 
 #: includes/event-organiser-ajax.php:821
 #, fuzzy
