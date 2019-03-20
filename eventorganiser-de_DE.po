@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:31:52+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:31:58+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1546,9 +1546,8 @@ msgid "To repeat an event according to some regular pattern, use the recurrence 
 msgstr "Wenn Sie einen Termin nach einem regelmäßigen Muster wiederholen lassen möchten, verwenden Sie das Dropdown-Menü \"Wiederholung\". Weitere Optionen erscheinen dann."
 
 #: event-organiser-settings.php:263
-#, fuzzy
 msgid "Disable CSS:"
-msgstr "CSS deaktivieren"
+msgstr "CSS deaktivieren:"
 
 #: classes/class-eo-widget-categories.php:128
 #: classes/class-eo-widget-venues.php:129
