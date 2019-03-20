@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:32:52+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:33:06+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1576,7 +1576,6 @@ msgid "until"
 msgstr "bis"
 
 #: event-organiser-edit.php:189
-#, fuzzy
 msgid "Repeat on days of week:"
 msgstr "An folgenden Wochentagen wiederholen:"
 
@@ -1591,9 +1590,8 @@ msgid "Group occurrences"
 msgstr "Gruppenereignisse"
 
 #: event-organiser-go-pro.php:23
-#, fuzzy
 msgid "Get Event Organiser Pro Add-On"
-msgstr "Hole Dir das 'Event Organiser Pro'-Add-On"
+msgstr "Hol Dir das 'Event Organiser Pro'-Add-On"
 
 #: event-organiser-settings.php:243
 #, fuzzy
