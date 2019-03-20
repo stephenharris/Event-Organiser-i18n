@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:37:26+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:37:29+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1850,12 +1850,10 @@ msgid "Do not add to menu"
 msgstr "Nicht zum Menü hinzufügen"
 
 #: event-organiser-settings.php:30
-#, fuzzy
 msgid "Permissions"
 msgstr "Berechtigungen"
 
 #: event-organiser-calendar.php:315
-#, fuzzy
 msgid "Publish Event"
 msgstr "Termin veröffentlichen"
 
