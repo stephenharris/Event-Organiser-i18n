@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:39:01+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:39:06+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1943,12 +1943,10 @@ msgid "There was an error opening the ICAL file."
 msgstr "Fehler beim Öffnen der iCal-Datei."
 
 #: includes/class-event-organiser-im-export.php:281
-#, fuzzy
 msgid "1 category was created"
 msgstr "Eine Terminkategorie wurde erstellt"
 
 #: event-organiser-calendar.php:352
-#, fuzzy
 msgid "Switch to day view"
 msgstr "Wechsle zur Tagesansicht"
 
