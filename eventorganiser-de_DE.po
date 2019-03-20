@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:26:07+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:26:14+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1121,12 +1121,11 @@ msgid "[Line %1$d]"
 msgstr "[Zeile %1$d]"
 
 #: classes/class-eo-event-list-widget.php:148
-#, fuzzy
 msgid "Publish date"
 msgstr "Veröffentlichungsdatum"
 
 #: includes/event-organiser-register.php:266
-#, php-format,fuzzy
+#, php-format
 msgid "every %d years on the"
 msgstr "alle %d Jahre am"
 
@@ -1134,7 +1133,6 @@ msgstr "alle %d Jahre am"
 #: event-organiser-debug.php:181
 #: event-organiser-debug.php:185
 #: event-organiser-settings.php:211
-#, fuzzy
 msgid "No"
 msgstr "Nein"
 
