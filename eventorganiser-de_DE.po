@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:21:47+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:22:08+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -868,7 +868,6 @@ msgid "Extensions"
 msgstr "Erweiterungen"
 
 #: event-organiser-venues.php:126
-#, fuzzy
 msgid "You do not have permission to delete this venue"
 msgstr "Du hast keine Rechte, diesen Veranstaltungsort zu löschen."
 
@@ -880,7 +879,7 @@ msgstr ""
 "href='http://wp-event-organiser.com/blog/new-default-templates-in-1-7'> diesen Post an</a>."
 
 #: event-organiser-manage.php:161
-#, php-format,fuzzy
+#, php-format
 msgid "Events within %d weeks"
 msgstr "Termine innerhalb %d Wochen"
 
