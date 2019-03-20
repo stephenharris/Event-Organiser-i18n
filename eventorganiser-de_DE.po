@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:01:50+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:01:55+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -31,12 +31,10 @@ msgid "All Tags"
 msgstr "Alle Terminschlagworte"
 
 #: event-organiser-manage.php:159
-#, fuzzy
 msgid "Events within 24 hours"
 msgstr "Termine innerhalb von 24 Stunden"
 
 #: event-organiser-go-pro.php:70
-#, fuzzy
 msgid "Flexible Booking Options"
 msgstr "Flexible Buchungsoptionen"
 
