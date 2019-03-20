@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T22:03:14+00:00\n"
+"PO-Revision-Date: 2019-03-20T22:03:27+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2124,7 +2124,6 @@ msgstr "Keine Terminschlagworte gefunden"
 
 #: event-organiser-settings.php:160
 #: event-organiser-settings.php:187
-#, fuzzy
 msgid "Show past events:"
 msgstr "Vergangene Termine anzeigen:"
 
@@ -2167,9 +2166,8 @@ msgstr "Springe zum heutigen Tag"
 #. Call the template header
 #: includes/class-eo-theme-compatability.php:184
 #: templates/taxonomy-event-tag.php:27
-#, fuzzy
 msgid "Event Tag: %s"
-msgstr "Termin Tag: %s"
+msgstr "Terminschlagwort: %s"
 
 #. //php.net/date
 #: includes/event-organiser-cpt.php:336
