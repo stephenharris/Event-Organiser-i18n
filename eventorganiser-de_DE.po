@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:41:04+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:41:12+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2116,7 +2116,6 @@ msgid "Later events <span class=\"meta-nav\">&rarr;</span>"
 msgstr "Spätere Termine <span class=\"meta-nav\">&rarr;</span>"
 
 #: templates/event-meta-event-single.php:53
-#, fuzzy
 msgid "Date"
 msgstr "Datum"
 
@@ -2131,7 +2130,6 @@ msgid "View &#8220;%s&#8221;"
 msgstr "Zeige &#8220;%s&#8221;"
 
 #: includes/event-organiser-cpt.php:227
-#, fuzzy
 msgid "Add New Event"
 msgstr "Termin hinzufügen"
 
