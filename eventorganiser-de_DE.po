@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:47:04+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:48:22+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -428,7 +428,7 @@ msgstr "Hinzufügen oder Entfernen von Veranstaltungsorten"
 #. 
 #. Call the template header
 #: templates/taxonomy-event-venue.php:30
-#, php-format,fuzzy
+#, php-format
 msgid "Events at: %s"
 msgstr "Termine am: %s"
 
