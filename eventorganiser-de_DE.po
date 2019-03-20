@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:22:43+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:22:53+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -940,12 +940,10 @@ msgid "Categories"
 msgstr "Terminkategorien"
 
 #: event-organiser-manage.php:158
-#, fuzzy
 msgid "Expired events"
 msgstr "Vergangene Termine"
 
 #: event-organiser-settings.php:655
-#, fuzzy
 msgid "Events Category page:"
 msgstr "Veranstaltungskategorien-Seite:"
 
