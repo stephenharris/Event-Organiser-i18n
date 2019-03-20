@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:09:54+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:09:58+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -325,7 +325,6 @@ msgid "If you have pretty permalinks enabled, select to have pretty premalinks f
 msgstr "Benutzerdefinierte Permalinks für Termine aktivieren."
 
 #: includes/event-organiser-cpt.php:96
-#, fuzzy
 msgid "Search Categories"
 msgstr "Terminkategorien durchsuchen"
 
@@ -335,7 +334,6 @@ msgid "Enter date in %s format"
 msgstr "Datum im %s Format angeben"
 
 #: includes/class-event-organiser-im-export.php:107
-#, fuzzy
 msgid "Import categories"
 msgstr "Terminkategorien importieren"
 
