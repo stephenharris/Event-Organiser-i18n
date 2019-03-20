@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:15:44+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:15:46+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -552,7 +552,6 @@ msgid "All dates and times must be entered in the specified format. This format 
 msgstr "Alle Daten und Zeiten müssen in einem bestimmten Format eingegeben werden. Dieses Format kann unter \"Einstellungen\" geändert werden."
 
 #: event-organiser-calendar.php:236
-#, fuzzy
 msgid "24 hour time"
 msgstr "24-Stunden-Zeit"
 
