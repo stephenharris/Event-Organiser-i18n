@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:12:57+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:13:00+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -465,12 +465,10 @@ msgid "Open shortcut help"
 msgstr "Öffne Shortcut-Hilfe"
 
 #: classes/class-eo-calendar-widget.php:59
-#, fuzzy
 msgid "Include past events"
 msgstr "Vergangene Termine einschließen"
 
 #: includes/event-organiser-cpt.php:104
-#, fuzzy
 msgid "No categories found"
 msgstr "Keine Terminkategorien gefunden"
 
