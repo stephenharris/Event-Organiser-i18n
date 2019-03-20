@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:21:05+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:21:09+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -807,7 +807,6 @@ msgid "Venue:"
 msgstr "Veranstaltungsort:"
 
 #: event-organiser-settings.php:223
-#, fuzzy
 msgid "If selected the event will be automatically trashed 24 hours after the last occurrence finishes."
 msgstr "Falls ausgewählt, werden Termine automatisch 24 Stunden nach dem Ende des letzten Terminereignisses gelöscht."
 
