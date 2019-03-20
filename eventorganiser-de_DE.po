@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:13:42+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:14:07+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -542,12 +542,10 @@ msgid "A list or dropdown of event venues"
 msgstr "Eine Liste oder Dropdown von Veranstaltungsorten"
 
 #: event-organiser-go-pro.php:55
-#, fuzzy
 msgid "But that's not all &hellip;"
-msgstr "Aber das ist noch nicht alles ..."
+msgstr "Aber das ist noch nicht alles..."
 
 #: includes/event-organiser-cpt.php:44
-#, fuzzy
 msgid "Event venues list"
 msgstr "Liste der Veranstaltungsorte"
 
