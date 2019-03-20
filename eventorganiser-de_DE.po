@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T20:58:18+00:00\n"
+"PO-Revision-Date: 2019-03-20T20:58:21+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -416,7 +416,7 @@ msgstr "Es wird dringend empfohlen stattdessen eine Stadt auszuwählen, auch wen
 #: includes/class-event-organiser-im-export.php:103
 #, fuzzy
 msgid "Import an ICS file."
-msgstr "ICS Datei importieren"
+msgstr "ICS-Datei importieren"
 
 #: event-organiser-settings.php:166
 #: event-organiser-settings.php:193
