@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:26:32+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:26:39+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1166,7 +1166,6 @@ msgid "This alters the default format for inputting dates."
 msgstr "Dies ändert die Standardformatierung für die Datumseingabe."
 
 #: includes/event-organiser-cpt.php:585
-#, fuzzy
 msgid "For more information"
 msgstr "Für weitere Informationen"
 
