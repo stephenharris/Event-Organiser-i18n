@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:33:47+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:33:49+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1602,7 +1602,6 @@ msgid "Venue(s) <strong>deleted</strong>"
 msgstr "Veranstaltungsort(e) <strong>gelöscht</strong>"
 
 #: event-organiser-settings.php:144
-#, fuzzy
 msgid "Select which features events should support"
 msgstr "Wählen Sie, welche Funktionen von den Terminen unterstützt werden sollten."
 
