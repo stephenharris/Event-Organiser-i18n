@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:41:25+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:41:28+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2199,7 +2199,6 @@ msgid "Event Organiser offers a range of extension which add additional features
 msgstr "Event Organiser bietet eine Reihe von Erweiterungen an, welche zusätzliche Funktionen zum Plug-in hinzufügen."
 
 #: includes/event-organiser-cpt.php:578
-#, fuzzy
 msgid "Add Event"
 msgstr "Termin hinzufügen"
 
