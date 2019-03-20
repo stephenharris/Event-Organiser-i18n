@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:32:05+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:32:07+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1557,7 +1557,6 @@ msgstr "Als Dropdown anzeigen"
 #: event-organiser-settings.php:48
 #: event-organiser.php:124
 #: includes/event-organiser-install.php:118
-#, fuzzy
 msgid "Delete Events"
 msgstr "Termine löschen"
 
