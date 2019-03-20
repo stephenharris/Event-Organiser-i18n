@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T20:55:27+00:00\n"
+"PO-Revision-Date: 2019-03-20T20:55:43+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -130,7 +130,7 @@ msgstr "Zum vorherigen Zeitabschnitt"
 #: includes/event-organiser-cpt.php:705
 #, fuzzy
 msgid "Assign the category a colour."
-msgstr "Der Unterrichtskategorie eine Farbe zuweisen."
+msgstr "Der Kategorie eine Farbe zuweisen."
 
 #: includes/event-organiser-cpt.php:553
 #: includes/event-organiser-cpt.php:572
