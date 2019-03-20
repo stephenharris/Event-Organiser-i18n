@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:05:03+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:05:09+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -149,14 +149,12 @@ msgid "All Venues"
 msgstr "Alle Veranstaltungsorte"
 
 #: includes/event-organiser-event-functions.php:787
-#, fuzzy
 msgid "one time only"
 msgstr "einmalig"
 
 #: classes/class-eo-agenda-widget.php:140
 #: event-organiser-edit.php:151
 #: includes/event-organiser-event-functions.php:1382
-#, fuzzy
 msgid "All day"
 msgstr "ganztags"
 
