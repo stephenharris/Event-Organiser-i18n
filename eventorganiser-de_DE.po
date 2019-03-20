@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:04:20+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:04:39+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -263,7 +263,6 @@ msgid "Color"
 msgstr "Farbe"
 
 #: includes/event-organiser-ajax.php:466
-#, fuzzy
 msgid "Delete this occurrence"
 msgstr "Dieses Ereignis löschen"
 
@@ -288,7 +287,6 @@ msgid "All Categories"
 msgstr "Alle Terminkategorien"
 
 #: event-organiser-settings.php:150
-#, fuzzy
 msgid "Thumbnail"
 msgstr "Vorschaubild"
 
