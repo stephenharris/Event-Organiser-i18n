@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:23:22+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:23:25+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -988,7 +988,7 @@ msgid "Close modal"
 msgstr "Modal schließen"
 
 #: includes/event-organiser-event-functions.php:851
-#, php-format,fuzzy
+#, php-format
 msgid "every %d years"
 msgstr "alle %d Jahre"
 
