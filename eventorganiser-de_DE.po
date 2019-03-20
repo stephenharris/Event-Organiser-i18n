@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:34:24+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:34:27+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1711,7 +1711,6 @@ msgid "Edit Event: %s"
 msgstr "Bearbeite Event: %s"
 
 #: event-organiser-calendar.php:344
-#, fuzzy
 msgid "Switch to month view"
 msgstr "Wechsle in die Monatsansicht"
 
