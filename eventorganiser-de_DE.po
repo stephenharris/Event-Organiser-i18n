@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:43:14+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:43:23+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2247,7 +2247,6 @@ msgid "No Events"
 msgstr "Keine Termine"
 
 #: classes/class-eo-agenda-widget.php:153
-#, fuzzy
 msgid "Add To Google Calendar"
 msgstr "Zum Google-Kalender hinzufügen"
 
@@ -2257,7 +2256,6 @@ msgid "Template (leave blank for default)"
 msgstr "Vorlage (leer lassen für Standard)"
 
 #: includes/class-event-organiser-im-export.php:244
-#, fuzzy
 msgid "No events were imported."
 msgstr "Es wurden keine Termine importiert."
 
