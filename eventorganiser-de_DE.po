@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:58:35+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:58:46+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -589,7 +589,6 @@ msgid "Start Time"
 msgstr "Startzeit"
 
 #: event-organiser-go-pro.php:54
-#, fuzzy
 msgid "Event Organiser Pro is a premium add-on bringing advanced booking management to Event Organiser."
 msgstr "'Event Organiser Pro' ist ein Premium-Add-On, das den Event Organiser um fortgeschrittene Buchungs-Management-Funktionen erweitert."
 
@@ -761,7 +760,6 @@ msgstr "Tage"
 
 #: event-organiser-add-ons.php:18
 #: event-organiser-add-ons.php:91
-#, fuzzy
 msgid "Event Organiser Extensions"
 msgstr "Erweiterungen für Event Organiser"
 
