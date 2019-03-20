@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:41:28+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:41:53+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2203,11 +2203,8 @@ msgid "Add Event"
 msgstr "Termin hinzufügen"
 
 #: event-organiser-go-pro.php:80
-#, fuzzy
 msgid "Venue custom fields & thumbnails"
-msgstr ""
-"Benutzerdefinierte Felder und Thumbnails\n"
-"tttder Veranstaltungsorte"
+msgstr "Benutzerdefinierte Felder und Vorschaubilder des Veranstaltungsortes"
 
 #: event-organiser-calendar.php:181
 #, fuzzy
