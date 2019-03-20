@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:24:55+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:25:04+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1030,7 +1030,6 @@ msgid "Update Venue"
 msgstr "Veranstaltungsort aktualisieren"
 
 #: event-organiser-settings.php:669
-#, fuzzy
 msgid "Set permissions for events and venue management"
 msgstr "Berechtigungen für Termine und Veranstaltungsorte verwalten"
 
