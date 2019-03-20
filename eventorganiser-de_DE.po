@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:38:01+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:38:03+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1872,7 +1872,6 @@ msgid "Event scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%
 msgstr "Termin geplant für: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Termin-Vorschau</a>"
 
 #: event-organiser-manage.php:35
-#, fuzzy
 msgid "Start Date/Time"
 msgstr "Startdatum und -zeit"
 
@@ -1882,7 +1881,6 @@ msgid "Enable template handling"
 msgstr "Aktiviere Template Behandlung"
 
 #: includes/event-organiser-venue-functions.php:984
-#, fuzzy
 msgid "Country"
 msgstr "Land"
 
