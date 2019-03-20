@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T20:58:42+00:00\n"
+"PO-Revision-Date: 2019-03-20T20:59:00+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -422,7 +422,7 @@ msgstr "ICS-Datei importieren"
 #: event-organiser-settings.php:193
 #, fuzzy
 msgid "Display past events on calendars, event lists and archives (this can be over-ridden by shortcode attributes and widget options)."
-msgstr "Abgelaufene Ereignisse auf Kalender, Terminlisten und -archiven anzeigen (kann von Shortcode-Attributen und Widget-Optionen übergangen werden)."
+msgstr "Abgelaufene Ereignisse auf Kalender, Terminlisten und -archiven anzeigen (Einstellung kann von Shortcode-Attributen und Widget-Optionen überschrieben werden)."
 
 #. / TRANSLATORS: This is the description that of the plug-in that appears in the "Plugins" page.
 #: includes/i18n.php:8
