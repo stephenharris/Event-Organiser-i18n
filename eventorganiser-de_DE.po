@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:12:26+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:12:30+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -437,7 +437,6 @@ msgid "Events at: %s"
 msgstr "Termine am: %s"
 
 #: classes/class-eo-widget-categories.php:10
-#, fuzzy
 msgid "A list or dropdown of event categories"
 msgstr "Eine Liste der Terminkategorien"
 
