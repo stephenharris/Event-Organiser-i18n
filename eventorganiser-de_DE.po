@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:38:41+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:38:44+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1931,7 +1931,6 @@ msgid "on"
 msgstr "am"
 
 #: includes/class-event-organiser-im-export.php:268
-#, fuzzy
 msgid "1 event was successfully imported"
 msgstr "Ein Termin wurde erfolgreich importiert"
 
