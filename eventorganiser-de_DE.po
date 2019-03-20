@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:11:57+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:12:08+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -396,9 +396,8 @@ msgid "Enable theme compatability mode (default)"
 msgstr "Aktiviere Theme-Kompatibilitätsmodus (Standard)"
 
 #: includes/event-organiser-register.php:246
-#, fuzzy
 msgid "Hide dates"
-msgstr "Datum verstecken"
+msgstr "Datum verbergen"
 
 #: includes/event-organiser-cpt.php:543
 #, fuzzy
