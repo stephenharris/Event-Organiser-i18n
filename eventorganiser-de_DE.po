@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:15:20+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:15:27+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -475,7 +475,7 @@ msgstr "Keine Terminkategorien gefunden"
 #: includes/event-organiser-cpt.php:241
 #, fuzzy
 msgid "Insert into event"
-msgstr "Zu Termin hinzufügen"
+msgstr "Zum Termin hinzufügen"
 
 #: includes/class-event-organiser-im-export.php:263
 msgid "Warning:"
