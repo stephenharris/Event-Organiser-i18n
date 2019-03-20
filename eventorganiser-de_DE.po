@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:14:07+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:14:25+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -539,7 +539,7 @@ msgstr "Keine Termine im Papierkorb gefunden"
 #: classes/class-eo-widget-venues.php:11
 #, fuzzy
 msgid "A list or dropdown of event venues"
-msgstr "Eine Liste oder Dropdown von Veranstaltungsorten"
+msgstr "Liste oder Dropdown mit den Veranstaltungsorten"
 
 #: event-organiser-go-pro.php:55
 msgid "But that's not all &hellip;"
