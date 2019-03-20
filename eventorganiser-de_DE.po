@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:28:43+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:28:50+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1303,7 +1303,7 @@ msgstr "Du hast keine Berechtigung, diesen Veranstaltungsort zu bearbeiten."
 #: event-organiser-edit.php:107
 #, fuzzy
 msgid "Start Date/Time:"
-msgstr "Start Datum/Zeit"
+msgstr "Startdatum- und zeit"
 
 #: features/bootstrap/FeatureContext.php:415
 #: features/bootstrap/FeatureContext.php:610
