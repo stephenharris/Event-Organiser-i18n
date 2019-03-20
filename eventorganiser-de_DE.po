@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:25:14+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:25:21+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1068,7 +1068,6 @@ msgid "Error:"
 msgstr "Fehler:"
 
 #: includes/event.php:1136
-#, fuzzy
 msgid "There is already an occurrence on this date"
 msgstr "An diesem Datum wurde bereits ein Ereignis eingetragen."
 
