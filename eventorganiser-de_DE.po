@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:46:01+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:46:10+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -248,7 +248,7 @@ msgid "Venue Location"
 msgstr "Veranstaltungsort / Adresse"
 
 #: includes/event-organiser-cpt.php:326
-#, php-format,fuzzy
+#, php-format
 msgid "Event restored to revision from %s"
 msgstr "Termin wiederhergestellt zu Revision vom %s"
 
@@ -313,7 +313,6 @@ msgid "Invalid date \"%s\". Date expected in YYYYMMDD format."
 msgstr "Falsche Angabe für das Datum \"%s\". Datum wird im YYYYMMDD-Format erwartet."
 
 #: classes/class-eo-agenda-widget.php:12
-#, fuzzy
 msgid "Displays a list of events, grouped by date"
 msgstr "Zeigt eine Liste der Termine, gruppiert nach Datum"
 
