@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:56:07+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:56:13+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -681,7 +681,6 @@ msgid "Open modal of selected event"
 msgstr "Öffne ausgewählten Termin im Modal"
 
 #: includes/event-organiser-cpt.php:237
-#, fuzzy
 msgid "Filter events list"
 msgstr "Terminliste filtern"
 
@@ -698,7 +697,6 @@ msgid "System Info"
 msgstr "Systeminformation"
 
 #: includes/event-organiser-register.php:257
-#, fuzzy
 msgid "year"
 msgstr "Jahr"
 
