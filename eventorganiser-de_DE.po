@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:16:56+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:17:03+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -587,14 +587,13 @@ msgid "Break this series"
 msgstr "Serie unterbrechen"
 
 #: event-organiser-settings.php:78
-#, fuzzy
 msgid "Google Maps"
 msgstr "Google Maps"
 
 #: event-organiser-edit.php:116
 #, fuzzy
 msgid "Start Time"
-msgstr "Start Zeit"
+msgstr "Startzeit"
 
 #: event-organiser-go-pro.php:54
 #, fuzzy
