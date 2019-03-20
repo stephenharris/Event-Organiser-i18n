@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:27:05+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:27:06+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1192,12 +1192,10 @@ msgstr "Event Organiser"
 #: includes/event-organiser-cpt.php:162
 #: includes/event-organiser-event-functions.php:1557
 #: templates/event-meta-event-single.php:66
-#, fuzzy
 msgid "Tags"
 msgstr "Terminschlagworte"
 
 #: event-organiser-edit.php:135
-#, fuzzy
 msgid "End Date"
 msgstr "Enddatum"
 
