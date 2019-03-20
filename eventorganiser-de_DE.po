@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:31:02+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:31:26+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1488,7 +1488,7 @@ msgstr "Sie können einen Termin in diesem Kalender erstellen, indem Sie auf ein
 #: includes/event-organiser-cpt.php:164
 #, fuzzy
 msgid "Separate tags with commas"
-msgstr "Terminschlagworte mit Kommata trennen"
+msgstr "Terminschlagworte, getrennt durch Kommata"
 
 #: includes/class-event-organiser-im-export.php:274
 msgid "1 venue was created"
