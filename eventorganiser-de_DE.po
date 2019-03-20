@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-20T21:25:37+00:00\n"
+"PO-Revision-Date: 2019-03-20T21:25:42+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1077,18 +1077,16 @@ msgid "This event has been broken from a recurring event."
 msgstr "Dieser Termin wurde durch einen wiederkehrenden Termin zerstört."
 
 #: includes/event-organiser-cpt.php:107
-#, fuzzy
 msgid "Event categories list"
 msgstr "Liste der Terminkategorien"
 
 #: includes/event-organiser-event-functions.php:799
 #: includes/event-organiser-register.php:260
-#, php-format,fuzzy
+#, php-format
 msgid "every %d days"
 msgstr "alle %d Tage"
 
 #: event-organiser-settings.php:40
-#, fuzzy
 msgid "Event Organiser Settings"
 msgstr "'Event Organiser'-Einstellungen"
 
