@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:03:44+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:03:59+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -102,9 +102,8 @@ msgid "Event updated. <a href=\"%s\">View event</a>"
 msgstr "Termin aktualisiert. <a href=\"%s\">Termin zeigen</a>"
 
 #: includes/event.php:651
-#, fuzzy
 msgid "Schedule end date is before is before the start date."
-msgstr "Das geplante Enddatum ist vor dem Startdatum."
+msgstr "Das geplante Enddatum liegt vor dem eingestellten Startdatum."
 
 #: event-organiser-calendar.php:340
 msgid "Navigate to previous period"
