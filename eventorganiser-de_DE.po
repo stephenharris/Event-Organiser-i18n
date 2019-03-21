@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:01:33+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:01:38+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -382,9 +382,8 @@ msgid "For each of the pages, the corresponding template is used. To use your ow
 msgstr "Für jede der Seiten wird das entsprechende Template herangezogen. Um ein eigenes Template zu nutzen, benenne die Templates genau so und lege sie in deinem Theme-Ordner ab. Wird im Theme-Ordner nichts gefunden, dann wird auf die Standard-Templates zurückgegriffen. Dieses Verhalten kannst du unten ausschalten. Wordpress wird dann auf Templates aus deinem Theme-Ordner zurückgreifen."
 
 #: includes/event-organiser-cpt.php:554
-#, fuzzy
 msgid "This is the list of all saved events. Note that <strong> recurring events appear as a single row </strong> in the table and the start and end date refers to the first occurrence of that event."
-msgstr "Dies ist die Liste aller Termine. Beachten Sie, dass <strong>wiederkehrende Termine in der Tabelle einzeilig angezeigt</strong> werden und sich die Start- und Enddaten auf das erste Terminereignis beziehen."
+msgstr "Dies ist die Liste aller Termine. Beachten Sie, dass <strong>wiederkehrende Termine in der Tabelle einzeilig angezeigt</strong> werden und sich die Start- und Enddaten auf das jeweils erste Terminereignis beziehen."
 
 #: event-organiser-settings.php:361
 #, fuzzy
