@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:20:06+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:20:12+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1722,7 +1722,6 @@ msgid "Unable to read iCal file"
 msgstr "Die iCal-Datei konnte nicht gelesen werden"
 
 #: event-organiser-edit.php:211
-#, fuzzy
 msgid "Select whether to repeat monthly by date or day:"
 msgstr "Wähle, ob die monatliche Wiederholung auf das Datum oder den Tag bezogen sein soll."
 
@@ -1773,7 +1772,6 @@ msgstr "Veranstaltungsort <strong>erstellt</strong>"
 #: event-organiser-settings.php:155
 #: event-organiser-settings.php:342
 #: includes/event-organiser-cpt.php:151
-#, fuzzy
 msgid "Event Tags"
 msgstr "Terminschlagworte"
 
