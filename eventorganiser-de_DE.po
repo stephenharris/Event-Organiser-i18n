@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:22:19+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:22:29+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1502,7 +1502,6 @@ msgid "Occurrence deleted."
 msgstr "Ereignis gelöscht."
 
 #: includes/event-organiser-cpt.php:529
-#, fuzzy
 msgid "To repeat an event according to some regular pattern, use the recurrence dropdown menu to select how the event is to repeat. Further options then appear, "
 msgstr "Wenn Sie einen Termin nach einem regelmäßigen Muster wiederholen lassen möchten, verwenden Sie das Dropdown-Menü \"Wiederholung\", um weitere Optionen zu erhalten."
 
@@ -1528,7 +1527,7 @@ msgstr "Termin wiederholen bis:"
 #: event-organiser-settings.php:217
 #, fuzzy
 msgid "Delete expired events:"
-msgstr "Abgelaufene Termine löschen:"
+msgstr "Vergangene Termine löschen:"
 
 #: event-organiser-edit.php:225
 #: includes/event-organiser-event-functions.php:856
