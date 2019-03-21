@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:19:36+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:19:43+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1745,12 +1745,10 @@ msgid "Save Draft"
 msgstr "Entwurf speichern"
 
 #: includes/event-organiser-cpt.php:159
-#, fuzzy
 msgid "New Tag Name"
 msgstr "Neues Terminschlagwort"
 
 #: templates/single-event.php:60
-#, fuzzy
 msgid "This event was posted by <a href=\"%3$s\">%2$s</a>."
 msgstr "Dieses Event wurde von <a href=\"%3$s\">%2$s</a> gepostet."
 
