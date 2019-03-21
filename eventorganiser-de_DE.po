@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:14:50+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:14:59+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1984,7 +1984,6 @@ msgid "first"
 msgstr "ersten"
 
 #: classes/class-eventorganiser-shortcodes.php:439
-#, fuzzy
 msgid "There is no excerpt because this is a protected post."
 msgstr "Es ist kein Auszug vorhanden. Dies ist ein geschützter Artikel."
 
@@ -2012,7 +2011,6 @@ msgid "Known plug-in & theme conflicts, highlighted in red, may be minor or have
 msgstr "Bekannte Plug-in- und Theme-Konflikte, markiert in rot, können kleinere oder eine einfache Lösung haben. Bitte kontaktieren Sie den Support."
 
 #: event-organiser-calendar.php:125
-#, fuzzy
 msgid "You do not have sufficient permissions to create events. "
 msgstr "Sie verfügen nicht über ausreichende Berechtigungen, um Termine anzulegen."
 
