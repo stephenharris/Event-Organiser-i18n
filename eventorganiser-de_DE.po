@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:20:26+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:20:31+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1687,7 +1687,7 @@ msgid "Event Settings"
 msgstr "Termin-Einstellungen"
 
 #: templates/event-meta-event-single.php:45
-#, php-format,fuzzy
+#, php-format
 msgid "This event finished on %s"
 msgstr "Dieser Termin endet am %s"
 
@@ -1704,7 +1704,6 @@ msgid "Start date not provided."
 msgstr "Startdatum ist nicht angegeben."
 
 #: includes/event-organiser-ajax.php:805
-#, fuzzy
 msgid "You do not have permission to edit this event"
 msgstr "Du hast nicht die Berechtigung, um diesen Termin zu bearbeiten."
 
