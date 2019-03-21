@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:23:35+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:23:48+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1113,7 +1113,6 @@ msgid "Event draft updated. <a target=\"_blank\" href=\"%s\">Preview event</a>"
 msgstr "Termin-Entwurf aktualisiert. <a target=\"_blank\" href=\"%s\">Event Vorschau</a>"
 
 #: templates/eo-loop-events.php:41
-#, fuzzy
 msgid "Apologies, but no results were found for the requested archive. "
 msgstr "Leider wurden keine Ergebnisse für das angefragte Archiv gefunden."
 
