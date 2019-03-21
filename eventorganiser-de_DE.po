@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:17:13+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:18:10+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1939,12 +1939,10 @@ msgid "Publish Events"
 msgstr "Termine veröffentlichen"
 
 #: includes/event-organiser-cpt.php:560
-#, fuzzy
 msgid "Hovering over a row in the venues list will display action links that allow you to manage that venue. You can perform the following actions:"
-msgstr "Bewegen Sie die Maus über eine Zeile in der Liste, und sie sehen Links, mit denen Sie die Veranstaltungsorte verwalten können. Sie können folgende Aktionen durchführen:"
+msgstr "Bewegen Sie die Maus über eine Zeile in der Liste und klicken Sie auf die erscheinenden Links, um die Veranstaltungsorte verwalten zu können. Sie können folgende Aktionen durchführen:"
 
 #: includes/event-organiser-cpt.php:574
-#, fuzzy
 msgid "By clicking the relevant tab, you can view events in Month, Week or Day mode. You can also filter the events by events by category and venue. The 'go to date' button allows you to quickly jump to a specific date."
 msgstr "Durch einen Klick auf den entsprechenden Reiter können Sie Termine im Modus 'Monat', 'Woche' oder 'Tag' sehen. Sie können die Termine auch nach Terminkategorien oder Veranstaltungsorten filtern. Über die Schaltfläche 'Gehe zu Datum' springen Sie schnell zu einem bestimmten Datum."
 
