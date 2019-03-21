@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:19:25+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:19:29+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1733,12 +1733,10 @@ msgid "Navigate to next period"
 msgstr "Zum nächsten Zeitabschnitt"
 
 #: event-organiser-edit.php:166
-#, fuzzy
 msgid "yearly"
 msgstr "jährlich"
 
 #: includes/event-organiser-register.php:265
-#, fuzzy
 msgid "every year on the"
 msgstr "jedes Jahr am"
 
