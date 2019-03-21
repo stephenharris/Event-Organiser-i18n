@@ -1939,6 +1939,7 @@ msgid "Publish Events"
 msgstr "Termine veröffentlichen"
 
 #: includes/event-organiser-cpt.php:560
+#, fuzzy
 msgid "Hovering over a row in the venues list will display action links that allow you to manage that venue. You can perform the following actions:"
 msgstr "Bewegen Sie die Maus über eine Zeile in der Liste und klicken Sie auf die erscheinenden Links, um die Veranstaltungsorte verwalten zu können. Sie können folgende Aktionen durchführen:"
 
