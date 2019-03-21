@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:12:48+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:13:02+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2023,7 +2023,7 @@ msgstr "Geografische Breite/Länge:"
 #: classes/class-eo-event-list-widget.php:58
 #, fuzzy
 msgid "Running events"
-msgstr "Laufende Termine"
+msgstr "Gegenwärtige Termine"
 
 #: event-organiser-go-pro.php:81
 #, fuzzy
@@ -2079,7 +2079,6 @@ msgid "Date"
 msgstr "Datum"
 
 #: includes/event-organiser-cpt.php:43
-#, fuzzy
 msgid "Event venues list navigation"
 msgstr "Liste der Veranstaltungsorte"
 
