@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:23:27+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:23:35+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1267,7 +1267,6 @@ msgstr "Startdatum- und zeit"
 
 #: features/bootstrap/FeatureContext.php:415
 #: features/bootstrap/FeatureContext.php:610
-#, fuzzy
 msgid "Widgets in this area will be shown on all posts and pages."
 msgstr "Widgets in diesem Bereich werden in allen Beiträgen und Seiten angezeigt."
 
