@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:05:37+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:06:03+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -500,7 +500,7 @@ msgstr "dritten"
 #: classes/class-eo-event-list-widget.php:71
 #, fuzzy
 msgid "Future & running events"
-msgstr "Zukünftige & laufende Termine"
+msgstr "Zukünftige & gegenwärtige Termine"
 
 #: includes/event-organiser-event-functions.php:777
 #: includes/event-organiser-register.php:271
