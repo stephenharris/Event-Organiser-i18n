@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T08:58:51+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:00:36+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -436,7 +436,6 @@ msgid "A list or dropdown of event categories"
 msgstr "Eine Liste der Terminkategorien"
 
 #: includes/event-organiser-cpt.php:562
-#, fuzzy
 msgid "Edit takes you to the editing screen for that venue. You can also reach that screen by clicking on the venue title."
 msgstr "Um den Veranstaltungsort zu bearbeiten, klicken Sie auf 'Bearbeiten' oder auf den Namen des Veranstaltungsortes."
 
@@ -536,9 +535,8 @@ msgid "Event venues list"
 msgstr "Liste der Veranstaltungsorte"
 
 #: includes/event-organiser-cpt.php:533
-#, fuzzy
 msgid "If monthly recurrence is selected, select whether this should repeat on that date of the month (e.g. on the 24th) or on the day of the month (e.g. on the third Tuesday) "
-msgstr "Wenn monatliche Wiederholung ausgewählt ist, wählen Sie, ob diese an dem Datum des Monats (z.B. am 24.) oder am Tag des Monats zu wiederholen ist (z. B. am dritten Dienstag)."
+msgstr "Wenn eine monatliche Wiederholung eingestellt ist, wählen Sie bitte aus, ob die Wiederholung am Tag im Monat (z. B. am 24.) oder an einem bestimmten Wochentag (z. B. am dritten Dienstag im Monat) stattfinden soll."
 
 #: includes/event-organiser-cpt.php:523
 #, fuzzy
