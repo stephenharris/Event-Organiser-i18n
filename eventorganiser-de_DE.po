@@ -2021,7 +2021,6 @@ msgid "Latitude/Longitude:"
 msgstr "Geografische Breite/Länge:"
 
 #: classes/class-eo-event-list-widget.php:58
-#, fuzzy
 msgid "Running events"
 msgstr "Gegenwärtige Termine"
 
