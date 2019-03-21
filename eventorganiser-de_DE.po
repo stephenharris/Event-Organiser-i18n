@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:21:30+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:21:37+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1592,7 +1592,6 @@ msgid "Event management permissions"
 msgstr "Terminverwaltungsfreigaben"
 
 #: includes/event-organiser-ajax.php:798
-#, fuzzy
 msgid "Are you sure you want to do this?"
 msgstr "Bist du dir sicher, dass du fortfahren möchtest?"
 
