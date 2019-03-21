@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:18:10+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:18:41+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1791,7 +1791,7 @@ msgstr "Terminschlagworte"
 #: includes/event-organiser-cpt.php:242
 #, fuzzy
 msgid "Uploaded to this event"
-msgstr "Hochladen und diesem Termin hinzufügen"
+msgstr "Zum Termin hochgeladen und hinzugefügt"
 
 #: includes/class-eo-ical-parser.php:208
 msgid "Feed not found"
@@ -1939,7 +1939,6 @@ msgid "Publish Events"
 msgstr "Termine veröffentlichen"
 
 #: includes/event-organiser-cpt.php:560
-#, fuzzy
 msgid "Hovering over a row in the venues list will display action links that allow you to manage that venue. You can perform the following actions:"
 msgstr "Bewegen Sie die Maus über eine Zeile in der Liste und klicken Sie auf die erscheinenden Links, um die Veranstaltungsorte verwalten zu können. Sie können folgende Aktionen durchführen:"
 
