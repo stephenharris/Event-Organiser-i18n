@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:06:13+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:07:21+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -659,7 +659,7 @@ msgstr "Wähle eine Terminkategorie"
 #: includes/event-organiser-cpt.php:531
 #, fuzzy
 msgid "Specify how regularly the event should repeat (default 1)"
-msgstr "Gibt an, wie oft ein Termin wiederholt werden soll (Standard 1)"
+msgstr "Geben Sie an, wie oft ein Termin wiederholt werden soll (Standard: einmal)"
 
 #: event-organiser-calendar.php:360
 #, fuzzy
