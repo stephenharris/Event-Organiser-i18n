@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:15:13+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:15:34+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2003,7 +2003,7 @@ msgstr "Jahre"
 #: includes/class-eo-ical-parser.php:193
 #, fuzzy
 msgid "There was an error detecting iCal source."
-msgstr "Fehler beim Lokalisieren der iCal-Quelle."
+msgstr "Beim Erkennen der iCal-Datei ist ein Fehler aufgetreten."
 
 #: event-organiser-debug.php:253
 #, fuzzy
