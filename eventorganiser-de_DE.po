@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:00:36+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:01:17+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -384,7 +384,7 @@ msgstr "Für jede der Seiten wird das entsprechende Template herangezogen. Um ei
 #: includes/event-organiser-cpt.php:554
 #, fuzzy
 msgid "This is the list of all saved events. Note that <strong> recurring events appear as a single row </strong> in the table and the start and end date refers to the first occurrence of that event."
-msgstr "Das ist die Liste aller Termine. Beachten Sie, dass <strong>wiederkehrende Termine</strong> in der Tabelle einzeilig angezeigt werden und sich das Start- und Enddatum  auf das erste Terminereignis beziehen."
+msgstr "Dies ist die Liste aller Termine. Beachten Sie, dass <strong>wiederkehrende Termine in der Tabelle einzeilig angezeigt</strong> werden und sich das Start- und Enddatum  auf das erste Terminereignis beziehen."
 
 #: event-organiser-settings.php:361
 #, fuzzy
