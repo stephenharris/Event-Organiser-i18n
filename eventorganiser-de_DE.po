@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:01:51+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:02:58+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -318,14 +318,13 @@ msgstr "Zeigt eine Liste der Termine, gruppiert nach Datum"
 #: event-organiser-settings.php:284
 #, fuzzy
 msgid "If you have pretty permalinks enabled, select to have pretty premalinks for events."
-msgstr "Benutzerdefinierte Permalinks für Termine aktivieren."
+msgstr "Wenn Sie Permalinks auf Ihrer Seite aktiviert haben, aktivieren Sie die benutzerdefinierten Permalinks auch für die Termine."
 
 #: includes/event-organiser-cpt.php:96
 msgid "Search Categories"
 msgstr "Terminkategorien durchsuchen"
 
 #: event-organiser-edit.php:99
-#, fuzzy
 msgid "Enter date in %s format"
 msgstr "Datum im Format '%s' angeben"
 
