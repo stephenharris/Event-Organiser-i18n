@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:03:31+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:03:44+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -120,7 +120,6 @@ msgid "Overview"
 msgstr "Übersicht"
 
 #: templates/single-event.php:58
-#, fuzzy
 msgid "This event was posted in %1$s by <a href=\"%3$s\">%2$s</a>."
 msgstr "Dieses Event wurde durch <a href=\"%3$s\">%2$s</a> in %1$s gepostet."
 
