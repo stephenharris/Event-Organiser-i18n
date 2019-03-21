@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:01:38+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:01:51+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -327,7 +327,7 @@ msgstr "Terminkategorien durchsuchen"
 #: event-organiser-edit.php:99
 #, fuzzy
 msgid "Enter date in %s format"
-msgstr "Datum im %s Format angeben"
+msgstr "Datum im Format '%s' angeben"
 
 #: includes/class-event-organiser-im-export.php:107
 msgid "Import categories"
