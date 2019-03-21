@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:18:41+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:18:57+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1702,9 +1702,8 @@ msgid "weekly"
 msgstr "wöchentlich"
 
 #: includes/event.php:626
-#, fuzzy
 msgid "Start date not provided."
-msgstr "Startdatum nicht angegeben"
+msgstr "Startdatum ist nicht angegeben."
 
 #: includes/event-organiser-ajax.php:805
 #, fuzzy
@@ -1820,7 +1819,6 @@ msgid "Publish Event"
 msgstr "Termin veröffentlichen"
 
 #: includes/event-organiser-cpt.php:39
-#, fuzzy
 msgid "New Venue Name"
 msgstr "Neuer Name des Veranstaltungsortes"
 
