@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-03-21T09:11:28+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:11:50+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -976,7 +976,6 @@ msgid "Venue(s) <strong>were not </strong> deleted"
 msgstr "Veranstaltungsort(e) wurde(n) <strong>nicht</strong> gelöscht"
 
 #: event-organiser-edit.php:80
-#, fuzzy
 msgid "This is a recurring event. Check to edit this event and its recurrences"
 msgstr "Dies ist ein wiederkehrender Termin. Anwählen, um diesen Termin und all seine Vorkommen zu bearbeiten"
 
@@ -1058,7 +1057,7 @@ msgid "Repeat every"
 msgstr "Wiederholen alle"
 
 #: includes/class-event-organiser-im-export.php:277
-#, php-format,fuzzy
+#, php-format
 msgid "%d venues were created"
 msgstr "%d Veranstaltungsorte wurden erstellt"
 
