@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2019-06-19T09:04:02+00:00\n"
+"PO-Revision-Date: 2019-06-19T09:04:08+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -969,7 +969,6 @@ msgid "Venue(s) <strong>were not </strong> deleted"
 msgstr "Il luogo <strong>non &egrave;</strong> stato cancellato"
 
 #: event-organiser-edit.php:80
-#, fuzzy
 msgid "This is a recurring event. Check to edit this event and its recurrences"
 msgstr "Seleziona per modificare l'evento e riprogrammarlo"
 
