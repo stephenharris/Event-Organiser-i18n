@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-04-14T23:01:00+00:00\n"
+"PO-Revision-Date: 2019-03-21T04:09:01+00:00\n"
 "Language: es_ES\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -45,7 +45,7 @@ msgstr "Título del Evento"
 #: includes/event-organiser-cpt.php:226
 msgctxt "post"
 msgid "Add New"
-msgstr ""
+msgstr "Añadir nuevo"
 
 #: includes/event.php:870
 msgid "Event does not contain any dates."
@@ -71,7 +71,7 @@ msgstr "Alias"
 
 #: event-organiser-edit.php:320
 msgid "Google Maps now requires you register for an API key. If you wish to use maps on your site, %1$splease enter your key%2$s."
-msgstr ""
+msgstr "Google Maps requiere que se registre para obtener una API key. Si Ud. desea usar mapas en su sitio web, %1$spor favor ingrese su API key%2$s."
 
 #: includes/event-organiser-cpt.php:35
 msgid "View Venue"
@@ -80,7 +80,7 @@ msgstr "Ver Lugar de Encuentro"
 #: includes/class-eo-theme-compatability.php:161
 #, php-format
 msgid "Events at %s"
-msgstr ""
+msgstr "Eventos en %s"
 
 #: event-organiser-venues.php:244
 #, php-format
@@ -107,7 +107,7 @@ msgstr "La fecha de fin programada es anterior a la fecha de inicio."
 
 #: event-organiser-calendar.php:340
 msgid "Navigate to previous period"
-msgstr ""
+msgstr "Volver al período anterior"
 
 #: includes/event-organiser-cpt.php:705
 msgid "Assign the category a colour."
@@ -164,7 +164,7 @@ msgstr "Campos personalizados"
 
 #: includes/event-organiser-ajax.php:472
 msgid "Delete this event"
-msgstr ""
+msgstr "Eliminar este evento"
 
 #: includes/class-eo-ical-parser.php:279
 #, php-format
@@ -189,7 +189,7 @@ msgstr "No se encontraron lugares de encuentro"
 
 #: classes/class-eo-event-list-widget.php:128
 msgid "Show:"
-msgstr ""
+msgstr "Mostrar"
 
 #: event-organiser-manage.php:162
 msgid "Events within 1 month"
@@ -314,9 +314,9 @@ msgid "Search Categories"
 msgstr "Buscar Categorías"
 
 #: event-organiser-edit.php:99
-#, fuzzy,php-format
+#, php-format
 msgid "Enter date in %s format"
-msgstr "Formato de fecha/hora del evento"
+msgstr "Introduzca la fecha en formato %s"
 
 #: includes/class-event-organiser-im-export.php:107
 msgid "Import categories"
@@ -638,6 +638,7 @@ msgid "Events page"
 msgstr "Página de eventos"
 
 #: templates/eo-events-nav.php:6
+#, fuzzy
 msgid " <span class=\"meta-nav\">&larr;</span> Newer events"
 msgstr "<span class=\"meta-nav\">&larr;</span> Eventos recientes"
 
