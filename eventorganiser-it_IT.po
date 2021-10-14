@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2021-10-14T15:09:28+00:00\n"
+"PO-Revision-Date: 2021-10-14T15:11:01+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -273,7 +273,6 @@ msgid "This page highlights useful information for debugging. If you're reportin
 msgstr "Questa pagina evidenzia informazioni utili per il debug. Se stai segnalando un bug, includi queste informazioni. Il  link 'system info' nella scheda di amministrazione degli Eventi è visibile solo agli amministratori e solo quando %1$s è impostato su %1$s."
 
 #: includes/event-organiser-ajax.php:784
-#, fuzzy
 msgid "Event not found"
 msgstr "Evento non trovato"
 
