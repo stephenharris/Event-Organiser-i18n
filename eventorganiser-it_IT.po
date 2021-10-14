@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2021-10-14T15:05:19+00:00\n"
+"PO-Revision-Date: 2021-10-14T15:08:28+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1304,7 +1304,6 @@ msgid "Venue name"
 msgstr "Nome luogo"
 
 #: includes/event-organiser-cpt.php:152
-#, fuzzy
 msgctxt "taxonomy singular name"
 msgid "Tag"
 msgstr "Tag"
