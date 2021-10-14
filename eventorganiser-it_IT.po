@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2021-10-14T15:17:04+00:00\n"
+"PO-Revision-Date: 2021-10-14T15:18:22+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -1235,7 +1235,6 @@ msgid "Future events"
 msgstr "Eventi futuri"
 
 #: includes/event-organiser-register.php:575
-#, fuzzy
 msgid "Your site timezone is %s"
 msgstr "Il fuso orario del tuo sito è: %s"
 
