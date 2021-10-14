@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2021-10-14T15:18:37+00:00\n"
+"PO-Revision-Date: 2021-10-14T15:19:36+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -2007,7 +2007,7 @@ msgstr "Data"
 #: includes/event-organiser-cpt.php:43
 #, fuzzy
 msgid "Event venues list navigation"
-msgstr "Navigazione della lista luoghi eventi"
+msgstr "Paginazione della lista luoghi eventi"
 
 #: classes/class-eo-venue-list-table.php:89
 #, fuzzy
