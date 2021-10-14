@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-04-17T13:13:03+00:00\n"
+"PO-Revision-Date: 2019-07-25T12:37:37+00:00\n"
 "Language: hu_HU\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -728,7 +728,7 @@ msgstr ""
 #: templates/taxonomy-event-category.php:27
 #, php-format
 msgid "Event Category: %s"
-msgstr ""
+msgstr "Esemény kategória: %s"
 
 #: includes/event-organiser-register.php:252
 msgid "days"
@@ -1383,7 +1383,7 @@ msgstr "Aktuális esemény már lejárt?"
 #: includes/event-organiser-cpt.php:95
 msgctxt "taxonomy singular name"
 msgid "Category"
-msgstr ""
+msgstr "Kategória"
 
 #: includes/event-organiser-event-functions.php:797
 #: includes/event-organiser-register.php:259

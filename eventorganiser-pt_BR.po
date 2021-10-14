@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-05-20T02:33:43+00:00\n"
+"PO-Revision-Date: 2018-01-17T11:34:55+00:00\n"
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 
@@ -2097,8 +2097,9 @@ msgid "No Events"
 msgstr "Nenhum Evento"
 
 #: classes/class-eo-agenda-widget.php:153
+#, fuzzy
 msgid "Add To Google Calendar"
-msgstr "Adicionao ao Google Calendar"
+msgstr "Adicionar ao Google Calendar"
 
 #: classes/class-eo-event-list-widget.php:164
 msgid "Template (leave blank for default)"

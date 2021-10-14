@@ -8,13 +8,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-04-16T23:21:14+00:00\n"
+"PO-Revision-Date: 2018-03-28T23:00:28+00:00\n"
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: event-organiser-settings.php:370
 msgid "Event Organiser's page templates will not be used."
-msgstr ""
+msgstr "La plantilla de pàgina de Event Organiser no serà utilitzada"
 
 #: event-organiser-settings.php:652
 msgid "Events archives:"
@@ -45,7 +45,7 @@ msgstr "Títol del esdeveniment"
 #: includes/event-organiser-cpt.php:226
 msgctxt "post"
 msgid "Add New"
-msgstr ""
+msgstr "Afegir nou"
 
 #: includes/event.php:870
 msgid "Event does not contain any dates."
@@ -70,8 +70,9 @@ msgid "Slug"
 msgstr "Slug"
 
 #: event-organiser-edit.php:320
+#, fuzzy
 msgid "Google Maps now requires you register for an API key. If you wish to use maps on your site, %1$splease enter your key%2$s."
-msgstr ""
+msgstr "Google Maps ara requereix el registre per obtenir la clau API. Si vols utilitzar maps al teu web, %1$si us plau, introdueix la teva clau"
 
 #: includes/event-organiser-cpt.php:35
 msgid "View Venue"
@@ -80,7 +81,7 @@ msgstr "Veure Lloc"
 #: includes/class-eo-theme-compatability.php:161
 #, php-format
 msgid "Events at %s"
-msgstr ""
+msgstr "Events al \"%s\""
 
 #: event-organiser-venues.php:244
 #, php-format
@@ -107,7 +108,7 @@ msgstr "La data de finalització ocorre abans de la data començament."
 
 #: event-organiser-calendar.php:340
 msgid "Navigate to previous period"
-msgstr ""
+msgstr "Navegar a un periode previ"
 
 #: includes/event-organiser-cpt.php:705
 msgid "Assign the category a colour."
@@ -164,7 +165,7 @@ msgstr "Camps personalitzats"
 
 #: includes/event-organiser-ajax.php:472
 msgid "Delete this event"
-msgstr ""
+msgstr "Eliminar aquest event"
 
 #: includes/class-eo-ical-parser.php:279
 #, php-format
@@ -189,7 +190,7 @@ msgstr "No s'han trobar llocs"
 
 #: classes/class-eo-event-list-widget.php:128
 msgid "Show:"
-msgstr ""
+msgstr "Mostra:"
 
 #: event-organiser-manage.php:162
 msgid "Events within 1 month"
@@ -270,7 +271,7 @@ msgstr ""
 
 #: includes/event-organiser-ajax.php:784
 msgid "Event not found"
-msgstr ""
+msgstr "Event no trobat"
 
 #: includes/event-organiser-cpt.php:522
 msgid "The end date is the date the event finishes. If the event is a recurring event, this is the end date of the first occurrence."
@@ -977,7 +978,7 @@ msgstr "Donar privilegis per administrar esdeveniments i llocs"
 
 #: classes/class-eo-event-list-widget.php:65
 msgid "Past events"
-msgstr ""
+msgstr "Events passats"
 
 #: classes/class-eo-agenda-widget.php:36
 #: classes/class-eo-calendar-widget.php:48
@@ -1063,7 +1064,7 @@ msgstr "[Línia %1$d]"
 
 #: classes/class-eo-event-list-widget.php:148
 msgid "Publish date"
-msgstr ""
+msgstr "Data de publicació"
 
 #: includes/event-organiser-register.php:266
 #, php-format
@@ -1254,7 +1255,7 @@ msgstr "General"
 
 #: classes/class-eo-event-list-widget.php:77
 msgid "Events on today"
-msgstr ""
+msgstr "Events d'avui"
 
 #: includes/class-event-organiser-im-export.php:68
 msgid "No file detected."
@@ -1539,11 +1540,11 @@ msgstr "Privilegis per al editor d'esdeveniments"
 
 #: includes/event-organiser-ajax.php:798
 msgid "Are you sure you want to do this?"
-msgstr ""
+msgstr "Estàs segur que vols fer això?"
 
 #: event-organiser-calendar.php:213
 msgid "Event deleted."
-msgstr ""
+msgstr "Event eliminat"
 
 #: event-organiser-calendar.php:74
 #: includes/event-organiser-register.php:68
@@ -1587,7 +1588,7 @@ msgstr "Rol"
 
 #: includes/event-organiser-utility-functions.php:1396
 msgid "Help"
-msgstr ""
+msgstr "Ajuda"
 
 #: classes/class-eo-event-list-widget.php:14
 #: classes/class-eo-event-list-widget.php:28
@@ -1710,7 +1711,7 @@ msgstr "Etiquetes d'esdeveniment"
 
 #: includes/event-organiser-cpt.php:242
 msgid "Uploaded to this event"
-msgstr ""
+msgstr "Actualizar aquest event"
 
 #: includes/class-eo-ical-parser.php:208
 msgid "Feed not found"
@@ -1947,7 +1948,7 @@ msgstr "Edita la etiqueta"
 
 #: event-organiser-edit.php:215
 msgid "date of month"
-msgstr ""
+msgstr "Dia del mes"
 
 #: event-organiser-settings.php:181
 msgid "mm-dd-yyyy"
@@ -2080,7 +2081,7 @@ msgstr "Setmana"
 
 #: includes/event-organiser-register.php:588
 msgid "Enter a Google Maps API key"
-msgstr ""
+msgstr "Introdueix una clau API de Google Maps"
 
 #: includes/event-organiser-cpt.php:42
 msgid "Separate venues with commas"

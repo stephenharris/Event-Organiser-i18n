@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-04-14T23:01:46+00:00\n"
+"PO-Revision-Date: 2019-03-21T09:23:48+00:00\n"
 "Language: de_DE\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -40,7 +40,7 @@ msgstr "Flexible Buchungsoptionen"
 
 #: event-organiser-calendar.php:279
 msgid "Event Title"
-msgstr "Termintitel"
+msgstr "Name des Termins"
 
 #: includes/event-organiser-cpt.php:226
 msgctxt "post"
@@ -66,20 +66,21 @@ msgid "every month on the"
 msgstr "jeden Monat am"
 
 #: event-organiser-venues.php:465
+#, fuzzy
 msgid "Slug"
 msgstr "Titelform"
 
 #: event-organiser-edit.php:320
 msgid "Google Maps now requires you register for an API key. If you wish to use maps on your site, %1$splease enter your key%2$s."
-msgstr ""
+msgstr "Sie müssen sich bei Google Maps für einen API-Schlüssel registrieren. Wenn Sie Google Maps auf Ihrer Website verwenden möchten, geben Sie bitte %1$s Ihren Schlüssel %2$s ein."
 
 #: includes/event-organiser-cpt.php:35
 msgid "View Venue"
-msgstr "Veranstaltungsort zeigen"
+msgstr "Veranstaltungsort anzeigen"
 
 #: includes/class-eo-theme-compatability.php:161
 msgid "Events at %s"
-msgstr "Termin am %s"
+msgstr "Veranstaltungsort: %s"
 
 #: event-organiser-venues.php:244
 #, php-format
@@ -102,7 +103,7 @@ msgstr "Termin aktualisiert. <a href=\"%s\">Termin zeigen</a>"
 
 #: includes/event.php:651
 msgid "Schedule end date is before is before the start date."
-msgstr "Das geplante Enddatum ist vor dem Startdatum."
+msgstr "Das geplante Enddatum liegt vor dem eingestellten Startdatum."
 
 #: event-organiser-calendar.php:340
 msgid "Navigate to previous period"
@@ -110,7 +111,7 @@ msgstr "Zum vorherigen Zeitabschnitt"
 
 #: includes/event-organiser-cpt.php:705
 msgid "Assign the category a colour."
-msgstr "Der Unterrichtskategorie eine Farbe zuweisen."
+msgstr "Der Kategorie eine Farbe zuweisen."
 
 #: includes/event-organiser-cpt.php:553
 #: includes/event-organiser-cpt.php:572
@@ -119,7 +120,7 @@ msgstr "Übersicht"
 
 #: templates/single-event.php:58
 msgid "This event was posted in %1$s by <a href=\"%3$s\">%2$s</a>."
-msgstr ""
+msgstr "Dieses Event wurde durch <a href=\"%3$s\">%2$s</a> in %1$s gepostet."
 
 #: includes/event-organiser-cpt.php:587
 msgid "Debugging Event Organiser"
@@ -131,13 +132,13 @@ msgstr "Monatsarchiv"
 
 #: event-organiser-edit.php:237
 msgid "Include/Exclude occurrences:"
-msgstr "Daten ein- und ausschliessen"
+msgstr "Daten ein- und ausschließen:"
 
 #: classes/class-eo-calendar-widget.php:109
 #: classes/class-eo-event-list-widget.php:120
 #: includes/event-organiser-cpt.php:34
 msgid "All Venues"
-msgstr "Alle Veranstaltungsort"
+msgstr "Alle Veranstaltungsorte"
 
 #: includes/event-organiser-event-functions.php:787
 msgid "one time only"
@@ -163,10 +164,10 @@ msgstr "Benutzerdefinierte Felder"
 
 #: includes/event-organiser-ajax.php:472
 msgid "Delete this event"
-msgstr ""
+msgstr "Lösche dieses Event"
 
 #: includes/class-eo-ical-parser.php:279
-#, php-format
+#, php-format,fuzzy
 msgid "There was an error fetching the feed. Response code: %s."
 msgstr "Fehler beim Einspeisen des Feeds. Fehler-Code: %s. "
 
@@ -200,20 +201,22 @@ msgid "Event published. <a href=\"%s\">View event</a>"
 msgstr "Termin veröffentlicht. <a href=\"%s\">Termin anzeigen</a>"
 
 #: event-organiser-edit.php:100
+#, fuzzy
 msgid "Enter time in 12-hour hh colon mm am or pm format"
 msgstr "Zeit im 12-hour hh colon mm am or pm Format angeben"
 
 #: includes/event-organiser-event-functions.php:790
+#, fuzzy
 msgid "custom recurrence"
 msgstr "Eigene Wiederholung"
 
 #: includes/event.php:647
 msgid "Start date occurs after end date."
-msgstr "Startdatum liegt nach dem Enddatum"
+msgstr "Startdatum liegt nach dem Enddatum."
 
 #: includes/class-event-organiser-im-export.php:162
 msgid "You do not have sufficient permissions to import events."
-msgstr "Sie haben keine Rechte, um Termine zu importieren."
+msgstr "Sie haben keine Rechte, Termine zu importieren."
 
 #: includes/class-event-organiser-im-export.php:91
 msgid "Export Events"
@@ -224,7 +227,7 @@ msgid "Event (single)"
 msgstr "Einzeltermin"
 
 #: includes/class-event-organiser-im-export.php:271
-#, php-format
+#, php-format,fuzzy
 msgid "%d events were successfully imported"
 msgstr "%d Termine wurden erfolgreich importiert"
 
@@ -239,12 +242,12 @@ msgstr "Dieses Ereignis löschen"
 
 #: includes/event-organiser-cpt.php:47
 msgid "Venue Location"
-msgstr "Veranstaltungsort-Location"
+msgstr "Veranstaltungsort / Adresse"
 
 #: includes/event-organiser-cpt.php:326
 #, php-format
 msgid "Event restored to revision from %s"
-msgstr "Termin wiederhergestellt zu Revision aus %s"
+msgstr "Termin wiederhergestellt zu Revision vom %s"
 
 #: event-organiser-settings.php:180
 msgid "dd-mm-yyyy"
@@ -260,12 +263,17 @@ msgstr "Vorschaubild"
 
 #: includes/event-organiser-event-functions.php:777
 #: includes/event-organiser-register.php:274
+#, fuzzy
 msgid "last"
-msgstr "letzten"
+msgstr "letzter"
 
 #: event-organiser-debug.php:64
 msgid "This page highlights useful information for debugging. If you're reporting a bug, please include this information. The 'system info' link in under the Events admin tab is only visible to admins and only when %1$s is set to %1$s."
 msgstr ""
+"Diese Seite enthält nützliche Informationen zum Debuggen. Wenn Sie einen Fehler melden, geben Sie diese Informationen an. Der\n"
+" Link \"Systeminfo\" auf der Registerkarte \"Ereignisse\" ist nur für \n"
+"Administratoren sichtbar und nur dann, wenn %1$s auf %1$s festgelegt\n"
+" ist."
 
 #: includes/event-organiser-ajax.php:784
 msgid "Event not found"
@@ -273,7 +281,7 @@ msgstr "Termin nicht gefunden"
 
 #: includes/event-organiser-cpt.php:522
 msgid "The end date is the date the event finishes. If the event is a recurring event, this is the end date of the first occurrence."
-msgstr "Das Enddatum ist das Datum, an dem der Termin endet. Wenn der Termin wiederkehrend ist, ist es das Enddatum des ersten Terminereignisses."
+msgstr "Das Enddatum ist das Datum, an dem der Termin endet. Wenn der Termin wiederkehrend ist, ist es das Enddatum des ersten Termins."
 
 #: includes/event-organiser-ajax.php:347
 msgid "Private"
@@ -289,7 +297,7 @@ msgstr "Sie verfügen nicht über ausreichende Berechtigungen, um diesen Termin 
 
 #: event-organiser-go-pro.php:76
 msgid "Give your users the ability to search and filter through your events with the event search shortcode. Event Organiser Pro also adds a text editor button to make inserting and configuring your shortcodes that bit easier. "
-msgstr "Gebe deinen Benutzern mit dem Veranstaltungs-Such-Shortcode die Möglichkeit Veranstaltungen zu suchen und zu filtern. Event Organiser Pro bringt ebenfalls einen Button für den Texteditor mit, mit dem das Einfügen und Konfigurieren der Shortcodes noch viel einfacher wird."
+msgstr "Gib deinen Benutzern mit dem Veranstaltungs-Such-Shortcode die Möglichkeit, Veranstaltungen zu suchen und zu filtern. Event Organiser Pro fügt zudem einen Button für den Texteditor hinzu, der das Einfügen und Konfigurieren der Shortcodes stark vereinfacht."
 
 #: event-organiser-manage.php:160
 msgid "Events within 1 week"
@@ -306,7 +314,7 @@ msgstr "Zeigt eine Liste der Termine, gruppiert nach Datum"
 
 #: event-organiser-settings.php:284
 msgid "If you have pretty permalinks enabled, select to have pretty premalinks for events."
-msgstr "Benutzerdefinierte Permalinks für Termine aktiviere."
+msgstr "Wenn Sie Permalinks auf Ihrer Seite aktiviert haben, aktivieren Sie die benutzerdefinierten Permalinks auch für die Termine."
 
 #: includes/event-organiser-cpt.php:96
 msgid "Search Categories"
@@ -314,7 +322,7 @@ msgstr "Terminkategorien durchsuchen"
 
 #: event-organiser-edit.php:99
 msgid "Enter date in %s format"
-msgstr "Datum im %s Format angeben"
+msgstr "Datum im Format '%s' angeben"
 
 #: includes/class-event-organiser-im-export.php:107
 msgid "Import categories"
@@ -322,11 +330,11 @@ msgstr "Terminkategorien importieren"
 
 #: event-organiser-manage.php:36
 msgid "End Date/Time"
-msgstr "Ende Datum / Zeit"
+msgstr "Enddatum und -zeit"
 
 #: event-organiser-settings.php:249
 msgid "To use Google Maps you need to register an API key with Google. You can register for a free API key by %sfollowing these instructions%s."
-msgstr ""
+msgstr "Um Google Maps zu nutzen, musst du über einen API-Schlüssel verfügen. Du kannst einen kostenlosen API-Schlüssel registrieren, indem du dieser %sAnleitung%s folgst."
 
 #: includes/event.php:1080
 msgid "Occurrence not deleted. Occurrence not found."
@@ -338,21 +346,21 @@ msgstr "Geschützt"
 
 #: includes/event-organiser-register.php:577
 msgid "It is strongly recommended you select a city instead, even if you don't observe Daylight Savings Time."
-msgstr "Es wird dringend empfohlen stattdessen eine Stadt auszuwählen, auch wenn keine Zeitumstellungen zu erwarten sind."
+msgstr "Es wird dringend empfohlen, stattdessen eine Stadt auszuwählen, auch wenn keine Zeitumstellungen zu erwarten sind."
 
 #: includes/class-event-organiser-im-export.php:103
 msgid "Import an ICS file."
-msgstr "ICS Datei importieren"
+msgstr "ICS-Datei importieren"
 
 #: event-organiser-settings.php:166
 #: event-organiser-settings.php:193
 msgid "Display past events on calendars, event lists and archives (this can be over-ridden by shortcode attributes and widget options)."
-msgstr "Abgelaufene Ereignisse auf Kalender, Terminlisten und -archiven anzeigen (kann von Shortcode-Attributen und Widget-Optionen übergangen werden)."
+msgstr "Abgelaufene Ereignisse auf Kalender, Terminlisten und -archiven anzeigen (Einstellung kann von Shortcode-Attributen und Widget-Optionen überschrieben werden)."
 
 #. / TRANSLATORS: This is the description that of the plug-in that appears in the "Plugins" page.
 #: includes/i18n.php:8
 msgid "Creates a custom post type 'events' with features such as recurring events, venues, Google Maps, calendar views and events and venue pages"
-msgstr "Erstellt einen individuellen Termin mit Features wie wiederholende Termine, Veranstaltungsorte, Google-Maps-Karte, Kalenderansichten und -termine und Seiten für Veranstaltungsorte"
+msgstr "Erstellt einen individuellen Termin mit Features wie Terminwiederholungen, Veranstaltungsorten, Google-Maps-Karten, Kalenderansichten und -terminen sowie Seiten für Veranstaltungsorte"
 
 #: event-organiser-settings.php:269
 msgid "Check this option to prevent any stylesheets from Event Organiser being loaded on the front-end"
@@ -364,22 +372,25 @@ msgid "Edit Event"
 msgstr "Termin bearbeiten"
 
 #: event-organiser-settings.php:645
+#, fuzzy
 msgid "For each of the pages, the corresponding template is used. To use your own template simply give it the same name and store in your theme folder. By default, if Event Organiser cannot find a template in your theme directory, it will use its own default template. You can disable this below. WordPress will then decide which template from your theme's folder to use."
 msgstr "Für jede der Seiten wird das entsprechende Template herangezogen. Um ein eigenes Template zu nutzen, benenne die Templates genau so und lege sie in deinem Theme-Ordner ab. Wird im Theme-Ordner nichts gefunden, dann wird auf die Standard-Templates zurückgegriffen. Dieses Verhalten kannst du unten ausschalten. Wordpress wird dann auf Templates aus deinem Theme-Ordner zurückgreifen."
 
 #: includes/event-organiser-cpt.php:554
 msgid "This is the list of all saved events. Note that <strong> recurring events appear as a single row </strong> in the table and the start and end date refers to the first occurrence of that event."
-msgstr "Das ist die Liste aller Termine. Beachten Sie, dass <strong>wiederkehrende Termine</strong> in der Tabelle einzeilig angezeigt werden und sich das Start- und Enddatum  auf das erste Terminereignis beziehen."
+msgstr "Dies ist die Liste aller Termine. Beachten Sie, dass <strong>wiederkehrende Termine in der Tabelle einzeilig angezeigt</strong> werden und sich die Start- und Enddaten auf das jeweils erste Terminereignis beziehen."
 
 #: event-organiser-settings.php:361
+#, fuzzy
 msgid "Enable theme compatability mode (default)"
 msgstr "Aktiviere Theme-Kompatibilitätsmodus (Standard)"
 
 #: includes/event-organiser-register.php:246
 msgid "Hide dates"
-msgstr "Datum verstecken"
+msgstr "Datum verbergen"
 
 #: includes/event-organiser-cpt.php:543
+#, fuzzy
 msgid "Only pre-existing venues can be selected. To add a venue, go to the venues page."
 msgstr "Nur bereits bestehende Unterrichtsorte können ausgewählt werden. Um einen Ort hinzuzufügen, gehen Sie zur Seite \"Unterrichtsorte\"."
 
@@ -399,7 +410,7 @@ msgstr "heute"
 
 #: includes/event-organiser-cpt.php:41
 msgid "Add or remove venues"
-msgstr "Hinzufügen oder entfernen von Veranstaltungsorten"
+msgstr "Veranstaltungsorte hinzufügen oder entfernen"
 
 #. //docs.wp-event-organiser.com/theme-integration for more information
 #. *
@@ -420,7 +431,7 @@ msgstr "Eine Liste der Terminkategorien"
 
 #: includes/event-organiser-cpt.php:562
 msgid "Edit takes you to the editing screen for that venue. You can also reach that screen by clicking on the venue title."
-msgstr "Um den Veranstaltungsort zu bearbeiten, klicken sie 'Bearbeiten' oder den Titel des Ortes."
+msgstr "Um den Veranstaltungsort zu bearbeiten, klicken Sie auf 'Bearbeiten' oder auf den Namen des Veranstaltungsortes."
 
 #: includes/event-organiser-cpt.php:330
 #, php-format
@@ -428,6 +439,7 @@ msgid "Event submitted. <a target=\"_blank\" href=\"%s\">Preview event</a>"
 msgstr "Termin abgesendet. <a target=\"_blank\" href=\"%s\">Termin-Vorschau</a>"
 
 #: classes/class-eo-agenda-widget.php:50
+#, fuzzy
 msgid "Group date format"
 msgstr "Gruppen-Datumsformat"
 
@@ -441,7 +453,7 @@ msgstr "Öffne Shortcut-Hilfe"
 
 #: classes/class-eo-calendar-widget.php:59
 msgid "Include past events"
-msgstr "Abgelaufene Termine einschließen"
+msgstr "Vergangene Termine einschließen"
 
 #: includes/event-organiser-cpt.php:104
 msgid "No categories found"
@@ -449,7 +461,7 @@ msgstr "Keine Terminkategorien gefunden"
 
 #: includes/event-organiser-cpt.php:241
 msgid "Insert into event"
-msgstr "Zu Termin hinzufügen"
+msgstr "Zum Termin hinzufügen"
 
 #: includes/class-event-organiser-im-export.php:263
 msgid "Warning:"
@@ -472,7 +484,7 @@ msgstr "Terminkategorie hinzufügen"
 
 #: includes/event-organiser-cpt.php:588
 msgid "Go Pro!"
-msgstr "Jetzt Pro-Version!"
+msgstr "Hol Dir jetzt 'Pro'!"
 
 #: event-organiser-settings.php:51
 #: event-organiser.php:127
@@ -487,7 +499,7 @@ msgstr "dritten"
 
 #: classes/class-eo-event-list-widget.php:71
 msgid "Future & running events"
-msgstr "Zukünftige & laufende Termine"
+msgstr "Zukünftige & gegenwärtige Termine"
 
 #: includes/event-organiser-event-functions.php:777
 #: includes/event-organiser-register.php:271
@@ -496,7 +508,7 @@ msgstr "zweiten"
 
 #: includes/event-organiser-cpt.php:45
 msgid "No Venue"
-msgstr "Keine Veranstaltungsort"
+msgstr "Kein Veranstaltungsort"
 
 #: includes/event-organiser-cpt.php:234
 msgid "No events found in Trash"
@@ -504,19 +516,19 @@ msgstr "Keine Termine im Papierkorb gefunden"
 
 #: classes/class-eo-widget-venues.php:11
 msgid "A list or dropdown of event venues"
-msgstr "Eine Liste oder Dropdown von Veranstaltungsorten"
+msgstr "Liste oder Dropdown mit den Veranstaltungsorten"
 
 #: event-organiser-go-pro.php:55
 msgid "But that's not all &hellip;"
-msgstr "Aber das ist noch nicht alles ..."
+msgstr "Aber das ist noch nicht alles..."
 
 #: includes/event-organiser-cpt.php:44
 msgid "Event venues list"
-msgstr "Termin Ortsliste"
+msgstr "Liste der Veranstaltungsorte"
 
 #: includes/event-organiser-cpt.php:533
 msgid "If monthly recurrence is selected, select whether this should repeat on that date of the month (e.g. on the 24th) or on the day of the month (e.g. on the third Tuesday) "
-msgstr "Wenn monatliche Wiederholung ausgewählt ist, wählen Sie, ob diese an dem Datum des Monats (z.B. am 24.) oder am Tag des Monats zu wiederholen ist (z. B. am dritten Dienstag)."
+msgstr "Wenn eine monatliche Wiederholung eingestellt ist, wählen Sie bitte aus, ob die Wiederholung am Tag im Monat (z. B. am 24.) oder an einem bestimmten Wochentag (z. B. am dritten Dienstag im Monat) stattfinden soll."
 
 #: includes/event-organiser-cpt.php:523
 msgid "All dates and times must be entered in the specified format. This format can changed in the settings page."
@@ -524,7 +536,7 @@ msgstr "Alle Daten und Zeiten müssen in einem bestimmten Format eingegeben werd
 
 #: event-organiser-calendar.php:236
 msgid "24 hour time"
-msgstr "24-Stunden-Zeit"
+msgstr "24-Stunden-Zeitformat"
 
 #: includes/event-organiser-venue-functions.php:983
 msgid "Post Code"
@@ -536,13 +548,13 @@ msgid "All events"
 msgstr "Alle Termine"
 
 #: classes/class-eo-event-list-widget.php:168
-#, php-format
+#, php-format,fuzzy
 msgid "You can use specified tags as placeholders for event information which you want to appear in the widget. <a href=\"%s\" target=\"_blank\"> Find out more</a>."
 msgstr "Sie können bestimmte Terminschlagworte als Platzhalter für Termininformationen verwenden, welche bei Bedarf im Widget erscheinen. <a href=\"%s\" target=\"_blank\">Erfahren Sie mehr</ a>."
 
 #: event-organiser-settings.php:226
 msgid "Enable events ICAL feed:"
-msgstr "ICAL Feed für Termine aktivieren:"
+msgstr "ICAL-Feed für Termine aktivieren:"
 
 #: includes/event-organiser-ajax.php:821
 msgid "Event not created: %s"
@@ -559,11 +571,11 @@ msgstr "Serie unterbrechen"
 
 #: event-organiser-settings.php:78
 msgid "Google Maps"
-msgstr ""
+msgstr "Google Maps"
 
 #: event-organiser-edit.php:116
 msgid "Start Time"
-msgstr "Start Zeit"
+msgstr "Startzeit"
 
 #: event-organiser-go-pro.php:54
 msgid "Event Organiser Pro is a premium add-on bringing advanced booking management to Event Organiser."
@@ -584,7 +596,7 @@ msgstr "Veranstaltungsort auswählen"
 
 #: classes/class-eo-agenda-widget.php:55
 msgid "Event date/time format"
-msgstr "Datums- / Zeitformatdes Termin"
+msgstr "Datums- und Zeitformat des Termins"
 
 #: classes/class-eo-venue-list-table.php:82
 msgid "Delete &#8220;%s&#8221;"
@@ -596,14 +608,16 @@ msgstr "Voriger Monat"
 
 #: classes/class-eo-calendar-widget.php:96
 #: classes/class-eo-event-list-widget.php:112
+#, fuzzy
 msgid "List category slug(s), seperate by comma. Leave blank for all"
 msgstr "Titelform der Unterrichtskategorien auflisten, durch Komma getrennt. Leer lassen für alle."
 
 #: event-organiser-venues.php:308
 msgid "Toggle panel: Location"
-msgstr ""
+msgstr "Umschaltfeld: Standort"
 
 #: includes/class-eo-admin-notice.php:125
+#, fuzzy
 msgid "Dismiss this notice"
 msgstr "Mitteilung ignorieren"
 
@@ -621,19 +635,20 @@ msgid "Year archive"
 msgstr "Jahresarchiv"
 
 #: includes/class-eo-ical-parser.php:1077
-#, php-format
+#, php-format,fuzzy
 msgid "Invalid datetime \"%s\". Date expected in YYYYMMDDTHHiissZ or YYYYMMDDTHHiiss format."
 msgstr "Falsche Angabe für  datetime \"%s\". Datum muss entweder im YYYYMMDDTHHiissZ- oder  YYYYMMDDTHHiiss-Format vorliegen."
 
 #: event-organiser-edit.php:139
 msgid "End Time"
-msgstr "Ende Zeit"
+msgstr "Endzeit"
 
 #: event-organiser-settings.php:297
 msgid "Events page"
 msgstr "Termine-Seite"
 
 #: templates/eo-events-nav.php:6
+#, fuzzy
 msgid " <span class=\"meta-nav\">&larr;</span> Newer events"
 msgstr "<span class=\"meta-nav\">&larr;</span> Frühere Termine"
 
@@ -643,19 +658,20 @@ msgstr "Wähle eine Terminkategorie"
 
 #: includes/event-organiser-cpt.php:531
 msgid "Specify how regularly the event should repeat (default 1)"
-msgstr "Gibt an, wie oft ein Termin wiederholt werden soll (Standard 1)"
+msgstr "Geben Sie an, wie oft ein Termin wiederholt werden soll (Standard: einmal)"
 
 #: event-organiser-calendar.php:360
+#, fuzzy
 msgid "Open modal of selected event"
 msgstr "Öffne ausgewählten Termin im Modal"
 
 #: includes/event-organiser-cpt.php:237
 msgid "Filter events list"
-msgstr "Filter Terminliste"
+msgstr "Terminliste filtern"
 
 #: event-organiser-settings.php:653
 msgid "Event page:"
-msgstr "Terminseite:"
+msgstr "Termin-Seite:"
 
 #: event-organiser-debug.php:13
 #: event-organiser-debug.php:14
@@ -678,10 +694,7 @@ msgstr "unbekannt"
 #: event-organiser-edit.php:274
 #: includes/event-organiser-venue-functions.php:1015
 msgid "Select a venue"
-msgstr ""
-"Einen  \n"
-"\\t\\t\\t\\tVeranstatungsort\n"
-"\\t\\t\\t auswählen"
+msgstr "Einen Veranstaltungsort auswählen"
 
 #: event-organiser-calendar.php:256
 #: includes/event-organiser-event-functions.php:1486
@@ -711,7 +724,7 @@ msgstr "Permalink:"
 
 #: event-organiser-edit.php:130
 msgid "End Date/Time:"
-msgstr "Datum Ende/Zeit"
+msgstr "Enddatum und -zeit"
 
 #. //docs.wp-event-organiser.com/theme-integration for more information
 #. *
@@ -724,7 +737,7 @@ msgstr "Datum Ende/Zeit"
 #: includes/class-eo-theme-compatability.php:174
 #: templates/taxonomy-event-category.php:27
 msgid "Event Category: %s"
-msgstr "Termin Kategorie: %s"
+msgstr "Terminkategorie: %s"
 
 #: includes/event-organiser-register.php:252
 msgid "days"
@@ -737,19 +750,20 @@ msgstr "Erweiterungen für Event Organiser"
 
 #: includes/event-organiser-cpt.php:573
 msgid "This page shows all (occurrances of) events. You can view the summary of an event by clicking on it. If you have the necessary permissions, a link to the event's edit page will appear also."
-msgstr "Diese Seite zeigt alle Terminereignisse an. Sie können die Zusammenfassung eines Termins sehen, wenn Sie auf den Termin klicken. Wenn Sie die erforderlichen Berechtigungen haben, sehen Sie einen Link zum Bearbeiten des Termins."
+msgstr "Diese Seite zeigt alle Terminereignisse an. Sie können die Details eines Termins ansehen, indem Sie auf den jeweiligen Termin klicken. Wenn Sie die erforderlichen Berechtigungen haben, sehen Sie einen Link zum Bearbeiten des Termins."
 
 #: event-organiser-settings.php:202
 msgid "If selected only one occurrence of an event will be displayed on event lists and archives (this can be over-ridden by shortcode attributes and widget options."
-msgstr "Bei Auswahl wird von wiederkehrenden Terminen nur ein Termin auf Event-Listen und -Archiven angezeigt (dies kann überschrieben werden durch Shortcode-Attribute und Widget-Optionen)."
+msgstr "Wenn die Option gewählt ist, wird von wiederkehrenden Terminen nur ein Termin auf Event-Listen und in Archiven angezeigt (die Einstellung kann durch Shortcode-Attribute und Widget-Optionen überschrieben werden)."
 
 #: event-organiser-calendar.php:265
 msgid "Current date/time"
-msgstr "Aktuelle/s Datum / Zeit"
+msgstr "Aktuelles Datum und Zeit"
 
 #: includes/class-eo-ical-parser.php:428
+#, fuzzy
 msgid "Feed contains an indefinitely recurring event. This event will recurr until %s."
-msgstr ""
+msgstr "Der Feed enthält ein zeitlich unbegrenzt wiederkehrendes Ereignis. Dieses Ereignis wird bis %s wiederholt."
 
 #: event-organiser-settings.php:52
 #: event-organiser.php:128
@@ -760,7 +774,7 @@ msgstr "Veranstaltungsorte verwalten"
 #: classes/class-eo-event-list-widget.php:117
 #: includes/event-organiser-cpt.php:49
 msgid "Venue:"
-msgstr "Veranstaltungsort"
+msgstr "Veranstaltungsort:"
 
 #: event-organiser-settings.php:223
 msgid "If selected the event will be automatically trashed 24 hours after the last occurrence finishes."
@@ -778,7 +792,7 @@ msgstr "Bearbeite &#8220;%s&#8221;"
 
 #: event-organiser-settings.php:169
 msgid "Add an 'events' link to the navigation menu:"
-msgstr "Einen Termin-Link zum Navigationsmenü hinzufügen:"
+msgstr "Einen 'Termine'-Link zum Navigationsmenü hinzufügen:"
 
 #: classes/class-eo-event-list-widget.php:178
 msgid "'No events' message"
@@ -789,6 +803,7 @@ msgid "Event saved."
 msgstr "Termin gespeichert."
 
 #: includes/event-organiser-cpt.php:99
+#, fuzzy
 msgid "Parent Category:"
 msgstr "Eltern-Kategorie:"
 
@@ -801,6 +816,7 @@ msgid "View all categories"
 msgstr "Alle Terminkategorien"
 
 #: includes/event-organiser-cpt.php:165
+#, fuzzy
 msgid "Event tags list navigation"
 msgstr "Termin Tags Listennavigation"
 
@@ -822,11 +838,14 @@ msgstr "Erweiterungen"
 
 #: event-organiser-venues.php:126
 msgid "You do not have permission to delete this venue"
-msgstr "Du hast keine Rechte diesen Veranstaltungsort zu löschen."
+msgstr "Du hast keine Rechte, diesen Veranstaltungsort zu löschen."
 
 #: includes/event-organiser-register.php:558
+#, fuzzy
 msgid "<h4>The Default Templates Have Changed</h4>Don't panic! If you've set up your own templates in your theme you won't notice any change. </br> If you haven't and want the old templates back, <a href='http://wp-event-organiser.com/blog/new-default-templates-in-1-7'>see this post</a>."
 msgstr ""
+"<h4>Die Standardvorlagen wurden geändert </ h4>Keine Panik! Wenn Sie in Ihrem Design eigene Vorlagen eingerichtet haben, werden Sie keine Änderungen bemerken. </br>Wenn Sie die alten Vorlagen nicht haben und zurück wollen,  sehen Sie sich  <a \n"
+"href='http://wp-event-organiser.com/blog/new-default-templates-in-1-7'> diesen Post an</a>."
 
 #: event-organiser-manage.php:161
 #, php-format
@@ -857,7 +876,7 @@ msgstr "alle %d Monate am"
 
 #: event-organiser-venues.php:46
 msgid "You do not have permission to manage venues"
-msgstr "Du hast nicht die Berechtigung Veranstaltungsorte zu verwalten."
+msgstr "Du hast nicht die Berechtigung, Veranstaltungsorte zu verwalten."
 
 #: classes/class-eo-agenda-widget.php:149
 #: classes/class-eo-venue-list-table.php:90
@@ -870,9 +889,10 @@ msgstr "Kalenderoptionen"
 
 #: event-organiser-calendar.php:389
 msgid "Event Detail"
-msgstr "Termin Detail"
+msgstr "Termindetails"
 
 #: includes/event-organiser-cpt.php:238
+#, fuzzy
 msgid "Events list navigation"
 msgstr "Termine Listennavigation"
 
@@ -886,7 +906,7 @@ msgstr "Terminkategorien"
 
 #: event-organiser-manage.php:158
 msgid "Expired events"
-msgstr "Abgelaufene Termine"
+msgstr "Vergangene Termine"
 
 #: event-organiser-settings.php:655
 msgid "Events Category page:"
@@ -894,6 +914,7 @@ msgstr "Veranstaltungskategorien-Seite:"
 
 #: features/bootstrap/FeatureContext.php:413
 #: features/bootstrap/FeatureContext.php:608
+#, fuzzy
 msgid "Main Sidebar"
 msgstr "Haupt Sidebar"
 
@@ -903,7 +924,7 @@ msgstr "Ungültiger monatlicher Zeitplan (ungültige Ordnungszahl)"
 
 #: event-organiser-settings.php:278
 msgid "Enable event pretty permalinks:"
-msgstr "Benutzerdefinierte Permalinks aktiviere:"
+msgstr "Benutzerdefinierte Permalinks aktivieren:"
 
 #: event-organiser-settings.php:53
 #: event-organiser.php:129
@@ -916,14 +937,16 @@ msgid "None"
 msgstr "Keine"
 
 #: includes/event-organiser-cpt.php:532
+#, fuzzy
 msgid "Choose the recurrence end date. No further occurrences are added after this date, but an occurrence that starts before may finish after this date."
 msgstr "Wählen Sie das Enddatum der Wiederholung. Es werden keine weiteren Wiederholungen nach diesem Datum hinzugefügt, aber eine Wiederholung, die vorher startet, kann nach diesem Zeitpunkt enden."
 
 #: event-organiser-edit.php:182
 msgid "Recurrence frequency"
-msgstr "Wiederholung"
+msgstr "Wiederholungshäufigkeit"
 
 #: event-organiser-calendar.php:364
+#, fuzzy
 msgid "Close modal"
 msgstr "Modal schließen"
 
@@ -950,11 +973,11 @@ msgstr "Zeige lange Termine"
 
 #: event-organiser-venues.php:154
 msgid "Venue(s) <strong>were not </strong> deleted"
-msgstr "Veranstaltungsort(e) <strong>wurde(n) nicht</strong> gelöscht"
+msgstr "Veranstaltungsort(e) wurde(n) <strong>nicht</strong> gelöscht"
 
 #: event-organiser-edit.php:80
 msgid "This is a recurring event. Check to edit this event and its recurrences"
-msgstr "Anwählen, um den Termin und all seine Vorkommen zu bearbeiten"
+msgstr "Dies ist ein wiederkehrender Termin. Anwählen, um diesen Termin und all seine Vorkommen zu bearbeiten"
 
 #: classes/class-eo-widget-venues.php:55
 msgid "Select Venue"
@@ -970,7 +993,7 @@ msgstr "Veranstaltungsort aktualisieren"
 
 #: event-organiser-settings.php:669
 msgid "Set permissions for events and venue management"
-msgstr "Berechtigungen für Termine setzen und Veranstaltungsorte verwalten"
+msgstr "Berechtigungen für Termine und Veranstaltungsorte verwalten"
 
 #: classes/class-eo-event-list-widget.php:65
 msgid "Past events"
@@ -1007,17 +1030,17 @@ msgid "Error:"
 msgstr "Fehler:"
 
 #: includes/event.php:1136
-#, fuzzy
 msgid "There is already an occurrence on this date"
 msgstr "An diesem Datum wurde bereits ein Ereignis eingetragen."
 
 #: includes/event-organiser-cpt.php:342
+#, fuzzy
 msgid "This event has been broken from a recurring event."
 msgstr "Dieser Termin wurde durch einen wiederkehrenden Termin zerstört."
 
 #: includes/event-organiser-cpt.php:107
 msgid "Event categories list"
-msgstr "Termin Kategorien Liste"
+msgstr "Liste der Terminkategorien"
 
 #: includes/event-organiser-event-functions.php:799
 #: includes/event-organiser-register.php:260
@@ -1047,7 +1070,7 @@ msgstr "Veranstaltungsorte"
 
 #: event-organiser-go-pro.php:95
 msgid "Go to Event Organiser settings"
-msgstr "Gehe zu 'Event Organiser'- Einstellungen"
+msgstr "Gehe zu 'Event Organiser'-Einstellungen"
 
 #: event-organiser-manage.php:164
 msgid "Events within 1 year"
@@ -1080,11 +1103,12 @@ msgid "Add New Venue"
 msgstr "Neuen Veranstaltungsort hinzufügen"
 
 #: includes/event-organiser-cpt.php:521
+#, fuzzy
 msgid "The start date is the date the event starts. If the event is a recurring event, this is the start date of the first occurrence."
 msgstr "Das Startdatum ist das Datum an dem der Termin beginnt. Wenn der Termin wiederkehrend ist, ist es das Startdatum des ersten Terminereignisses."
 
 #: includes/event-organiser-cpt.php:339
-#, php-format
+#, php-format,fuzzy
 msgid "Event draft updated. <a target=\"_blank\" href=\"%s\">Preview event</a>"
 msgstr "Termin-Entwurf aktualisiert. <a target=\"_blank\" href=\"%s\">Event Vorschau</a>"
 
@@ -1094,9 +1118,10 @@ msgstr "Leider wurden keine Ergebnisse für das angefragte Archiv gefunden."
 
 #: includes/event-organiser-cpt.php:33
 msgid "Search Venues"
-msgstr "Veranstaltungsort durchsuchen"
+msgstr "Veranstaltungsorte durchsuchen"
 
 #: event-organiser-settings.php:184
+#, fuzzy
 msgid "This alters the default format for inputting dates."
 msgstr "Dies ändert die Standardformatierung für die Datumseingabe."
 
@@ -1111,10 +1136,12 @@ msgstr "Datumsformat:"
 #: event-organiser-edit.php:21
 #: event-organiser-manage.php:23
 #: event-organiser-settings.php:149
+#, fuzzy
 msgid "Organiser"
 msgstr "Organiser"
 
 #: event-organiser-go-pro.php:71
+#, fuzzy
 msgid "Sell tickets for specific dates or sell tickets for all dates of an event - such as booking places on a course. You can offer multiple tickets, and customise the booking form to suit your needs."
 msgstr "Verkaufe Tickets an einem bestimmten Zeitpunkt oder verkaufe Tickets für alle Daten eines Termins - z.B. Plätze in einem Lehrgang. Du kannst mehrere Tickets anbieten und das Buchungsformular Deinen  Anforderungen anpassen."
 
@@ -1130,11 +1157,11 @@ msgstr "Terminschlagworte"
 
 #: event-organiser-edit.php:135
 msgid "End Date"
-msgstr "Ende Datum"
+msgstr "Enddatum"
 
 #: includes/class-eo-ical-parser.php:549
 #: includes/class-eo-ical-parser.php:574
-#, php-format
+#, php-format,fuzzy
 msgid "[Lines %1$d-%2$d]"
 msgstr "[Zeilen %1$d-%2$d]"
 
@@ -1146,7 +1173,7 @@ msgstr "Termine von anderen löschen"
 
 #: includes/event-organiser-cpt.php:166
 msgid "Event tags list"
-msgstr "Termin Tags Liste"
+msgstr "Liste der Terminschlagworte"
 
 #: includes/class-eo-theme-compatability.php:193
 #: includes/class-eo-theme-compatability.php:195
@@ -1167,7 +1194,7 @@ msgstr "Die Termindaten wurden nicht gespeichert."
 
 #: classes/class-eo-calendar-widget.php:24
 msgid "Displays a calendar of your events"
-msgstr "Zeigt einen Kalender mit Deinen Terminen"
+msgstr "Zeigt einen Terminkalender"
 
 #: event-organiser-calendar.php:270
 msgid "Create an event"
@@ -1192,10 +1219,12 @@ msgid "File Error encountered: %d"
 msgstr "Dateifehler aufgetreten: %d"
 
 #: event-organiser-settings.php:715
+#, fuzzy
 msgid "Please note to enable these structures you must first have pretty permalinks enabled on WordPress in Settings > Permalinks."
 msgstr "Bitte beachten Sie: Permalinks müssen hierfür unter WordPress > Einstellungen > Permalinks aktiviert sein."
 
 #: classes/class-eo-widget-categories.php:131
+#, fuzzy
 msgid "Show hierarchy"
 msgstr "Stuktur anzeigen"
 
@@ -1229,11 +1258,11 @@ msgstr "%d Terminkategorien wurden erstellt"
 #: event-organiser-venues.php:52
 #: event-organiser-venues.php:81
 msgid "You do not have permission to edit this venue."
-msgstr "Du hast keine Berechtigung diesen Veranstaltungsort zu bearbeiten."
+msgstr "Du hast keine Berechtigung, diesen Veranstaltungsort zu bearbeiten."
 
 #: event-organiser-edit.php:107
 msgid "Start Date/Time:"
-msgstr "Start Datum/Zeit"
+msgstr "Startdatum- und zeit"
 
 #: features/bootstrap/FeatureContext.php:415
 #: features/bootstrap/FeatureContext.php:610
@@ -1241,6 +1270,7 @@ msgid "Widgets in this area will be shown on all posts and pages."
 msgstr "Widgets in diesem Bereich werden in allen Beiträgen und Seiten angezeigt."
 
 #: event-organiser-settings.php:756
+#, fuzzy
 msgid "Page list (fallback)"
 msgstr "Seitenliste (Sicherung)"
 
@@ -1262,14 +1292,17 @@ msgid "Start"
 msgstr "Start"
 
 #: classes/class-eo-calendar-widget.php:81
+#, fuzzy
 msgid "Link directly to event for days with only one event"
 msgstr "Verlinke direkt zum Termin bei Tage mit nur einem einzelnen Termin"
 
 #: event-organiser-settings.php:366
+#, fuzzy
 msgid "Event Organiser's page templates will be used if your theme does not provide appropriate templates."
 msgstr "Event Organiser's eigene Templates werden für den Fall herangezogen, dass dein Theme keine passenden Templates bietet."
 
 #: includes/event-organiser-cpt.php:534
+#, fuzzy
 msgid "If weekly recurrence is selected, select which days of the week the event should be repeated. If no days are selected, the day of the start date is used"
 msgstr "Wenn wöchentliche Wiederholung ausgewählt ist, wählen Sie, welche Tage der Woche wiederholt werden. Wenn keine Tage ausgewählt sind, wird der Tag des Startdatums verwendet."
 
@@ -1279,19 +1312,22 @@ msgstr "Neues Terminschlagwort hinzufügen"
 
 #: event-organiser-venues.php:430
 msgid "Venue name"
-msgstr "Veranstaltungsortsname"
+msgstr "Name des Veranstaltungsorts"
 
 #: includes/event-organiser-cpt.php:152
+#, fuzzy
 msgctxt "taxonomy singular name"
 msgid "Tag"
 msgstr "Tag"
 
 #: includes/event-organiser-ajax.php:792
+#, fuzzy
 msgid "Events are not editable via the admin calendar"
 msgstr "Termine können nicht durch den Admin-Kalender editiert werden"
 
 #: event-organiser-calendar.php:76
 #: includes/event-organiser-register.php:70
+#, fuzzy
 msgid "go to date"
 msgstr "Gehe zu Datum"
 
@@ -1310,7 +1346,7 @@ msgstr "Zeigt eine Terminliste"
 
 #: includes/event-organiser-cpt.php:239
 msgid "Events list"
-msgstr "Termine Liste"
+msgstr "Terminliste"
 
 #: event-organiser-manage.php:202
 msgid "&mdash; No Change &mdash;"
@@ -1318,7 +1354,7 @@ msgstr "— Keine Änderung —"
 
 #: event-organiser-edit.php:112
 msgid "Start Date"
-msgstr "Start Datum"
+msgstr "Startdatum"
 
 #: includes/event-organiser-cpt.php:163
 msgid "Add or remove tags"
@@ -1329,6 +1365,7 @@ msgid "View Event"
 msgstr "Termine anzeigen"
 
 #: includes/event.php:616
+#, fuzzy
 msgid "Schedule not recognised."
 msgstr "Zeitplan wurde nicht erkannt"
 
@@ -1341,8 +1378,9 @@ msgid "Event updated."
 msgstr "Termin aktualisiert."
 
 #: includes/event-organiser-ajax.php:393
+#, fuzzy
 msgid "Organiser:"
-msgstr "Veranstalter:"
+msgstr "Organiser:"
 
 #: event-organiser-calendar.php:73
 #: includes/event-organiser-register.php:67
@@ -1356,26 +1394,29 @@ msgstr "Ende"
 
 #: includes/class-event-organiser-im-export.php:71
 msgid "Invalid file uploaded. The file must be a ics calendar file of type 'text/calendar', no larger than 2MB."
-msgstr "Ungültige Datei hochgeladen. Die Datei muss eine ICS-Kalender-Datei vom Typ \"text/calendar\" und nicht größer als 2MB sein."
+msgstr "Ungültige Datei hochgeladen. Die Datei muss eine ICS-Kalender-Datei vom Typ \"text/calendar\" sein und darf eine Größe von 2MB nicht überschreiten."
 
 #: event-organiser-edit.php:219
 msgid "day of week"
-msgstr "Tag der Woche"
+msgstr "Wochentag"
 
 #: event-organiser-settings.php:658
-#, php-format
+#, php-format,fuzzy
 msgid "For more information see documentation <a href='%s'>on editing the templates</a>"
 msgstr "Für weitere Informationen siehe Dokumentation <a href='%s'>über das Editieren der Templates</a>"
 
 #: event-organiser-edit.php:100
+#, fuzzy
 msgid "Enter time in 24-hour hh colon mm format"
 msgstr "Zeit im 24-hour hh colon mm Format angeben"
 
 #: event-organiser-settings.php:205
+#, fuzzy
 msgid "Are current events past?"
 msgstr "Sind aktuell laufende Termine als bereits vergangen gewertet werden?"
 
 #: includes/event-organiser-cpt.php:95
+#, fuzzy
 msgctxt "taxonomy singular name"
 msgid "Category"
 msgstr "Kategorie"
@@ -1386,6 +1427,7 @@ msgid "every day"
 msgstr "jeden Tag"
 
 #: includes/event-organiser-cpt.php:542
+#, fuzzy
 msgid "Use the venues input field to search for existing venues"
 msgstr "Benutzen Sie das Eingabefeld für Unterrichtsorte um nach vorhandenen Unterrichtsorten zu suchen"
 
@@ -1398,12 +1440,13 @@ msgid "Search events"
 msgstr "Termine suchen"
 
 #: includes/event-organiser-cpt.php:579
+#, fuzzy
 msgid "You can create an event on this Calendar, by clicking on day or dragging over multiple days (in Month view) or multiple times (in Week and Day view). You can give the event a title, specify a venue and provide a descripton. The event can be immediately published or saved as a draft. In any case, the event is created and you are forwarded to that event's edit page."
 msgstr "Sie können einen Termin in diesem Kalender erstellen, indem Sie auf einen Tag klicken oder die Maus über mehrere Tage ziehen (in der Monatsansicht) oder mehrmals klicken (in Wochen-und Tagesansicht). Sie können dem Termin einen Titel geben, den Unterrichtsort zuordnen und eine Beschreibung eingeben. Der Termin kann sofort veröffentlicht oder als Entwurf gespeichert werden. In jedem Fall wird der Termin erstellt, und Sie werden auf die Bearbeiten-Seite weitergeleitet."
 
 #: includes/event-organiser-cpt.php:164
 msgid "Separate tags with commas"
-msgstr "Terminschlagworte mit Kommata trennen"
+msgstr "Terminschlagworte, getrennt durch Kommata"
 
 #: includes/class-event-organiser-im-export.php:274
 msgid "1 venue was created"
@@ -1411,10 +1454,12 @@ msgstr "1 Veranstaltungsort wurde erstellt"
 
 #. / TRANSLATORS: [this plugin] requires [required plugin] version [required plugin version] or higher
 #: event-organiser-debug.php:437
+#, fuzzy
 msgid "%1$s requires %1$s version %1$s or higher"
-msgstr ""
+msgstr "%1$s benötigt %1$s Version %1$s oder höher"
 
 #: event-organiser-settings.php:716
+#, fuzzy
 msgid "You may also need to go to WordPress Settings > Permalinks and click 'Save Changes' before any changes will take effect."
 msgstr "Möglicherweise müssen Sie dahin gehen: WordPress Einstellungen > Permalinks und 'Save Changes' drücken, bevor irgendwelche Änderungen wirksam werden."
 
@@ -1427,6 +1472,7 @@ msgid "Show More"
 msgstr "Mehr anzeigen"
 
 #: event-organiser-settings.php:214
+#, fuzzy
 msgid "If 'no' is selected, an occurrence of an event is only past when it has finished. Otherwise, an occurrence is considered 'past' as soon as it starts."
 msgstr "Ist 'Nein' gewählt, so ist ein Termin nur vorbei, wenn er vollständig abgelaufen ist. Andernfalls wird ein Termin als bereits vergangen gewertet, sobald er begonnen hat."
 
@@ -1449,20 +1495,20 @@ msgstr "jedes Jahr"
 
 #: event-organiser-calendar.php:215
 msgid "Occurrence deleted."
-msgstr "Ereignis gelöscht"
+msgstr "Ereignis gelöscht."
 
 #: includes/event-organiser-cpt.php:529
 msgid "To repeat an event according to some regular pattern, use the recurrence dropdown menu to select how the event is to repeat. Further options then appear, "
-msgstr "Wenn Sie einen Termin nach einem regelmäßigen Muster wiederholen lassen möchten, verwenden Sie das Dropdown-Menü \"Wiederholung\". Weitere Optionen erscheinen dann."
+msgstr "Wenn Sie einen Termin nach einem regelmäßigen Muster wiederholen lassen möchten, verwenden Sie das Dropdown-Menü \"Wiederholung\", um weitere Optionen zu erhalten."
 
 #: event-organiser-settings.php:263
 msgid "Disable CSS:"
-msgstr "CSS deaktivieren"
+msgstr "CSS deaktivieren:"
 
 #: classes/class-eo-widget-categories.php:128
 #: classes/class-eo-widget-venues.php:129
 msgid "Display as dropdown"
-msgstr "Als Dopdown anzeigen"
+msgstr "Als Dropdown anzeigen"
 
 #: event-organiser-settings.php:48
 #: event-organiser.php:124
@@ -1472,11 +1518,11 @@ msgstr "Termine löschen"
 
 #: event-organiser-edit.php:226
 msgid "Repeat this event until:"
-msgstr "Wiederkehrende Termine"
+msgstr "Termin wiederholen bis:"
 
 #: event-organiser-settings.php:217
 msgid "Delete expired events:"
-msgstr "Abgelaufene Termine löschen:"
+msgstr "Vergangene Termine löschen:"
 
 #: event-organiser-edit.php:225
 #: includes/event-organiser-event-functions.php:856
@@ -1486,7 +1532,7 @@ msgstr "bis"
 
 #: event-organiser-edit.php:189
 msgid "Repeat on days of week:"
-msgstr "Tag der Woche"
+msgstr "An folgenden Wochentagen wiederholen:"
 
 #: classes/class-eo-event-list-widget.php:152
 msgid "DESC"
@@ -1494,16 +1540,17 @@ msgstr "DESC"
 
 #: classes/class-eo-event-list-widget.php:157
 #: event-organiser-settings.php:196
+#, fuzzy
 msgid "Group occurrences"
 msgstr "Gruppenereignisse"
 
 #: event-organiser-go-pro.php:23
 msgid "Get Event Organiser Pro Add-On"
-msgstr "Hole Dir das 'Event Organiser Pro'-Add-On"
+msgstr "Hol Dir das 'Event Organiser Pro'-Add-On"
 
 #: event-organiser-settings.php:243
 msgid "Google API key:"
-msgstr ""
+msgstr "Google API-Schlüssel :"
 
 #: event-organiser-venues.php:195
 msgid "Venue(s) <strong>deleted</strong>"
@@ -1511,27 +1558,30 @@ msgstr "Veranstaltungsort(e) <strong>gelöscht</strong>"
 
 #: event-organiser-settings.php:144
 msgid "Select which features events should support"
-msgstr "Wählen Sie, welche Funktionen in den Terminen unterstützt werden sollen."
+msgstr "Wählen Sie, welche Funktionen von den Terminen unterstützt werden sollten."
 
 #: includes/event-organiser-cpt.php:48
 msgid "View all venues"
 msgstr "Alle Veranstaltungsorte"
 
 #: includes/event-organiser-cpt.php:106
+#, fuzzy
 msgid "Event categories list navigation"
 msgstr "Termin Kategorien Listennavigation"
 
 #: event-organiser-settings.php:586
 msgid "Event Settings: %s"
-msgstr "Termin Einstellungen: %s"
+msgstr "Termin-Einstellungen: %s"
 
 #: includes/event-organiser-cpt.php:518
+#, fuzzy
 msgid "Creating events"
 msgstr "Termine erstellen"
 
 #: event-organiser-settings.php:668
+#, fuzzy
 msgid "Event management permissions"
-msgstr "Terimverwaltungsfreigaben"
+msgstr "Terminverwaltungsfreigaben"
 
 #: includes/event-organiser-ajax.php:798
 msgid "Are you sure you want to do this?"
@@ -1539,7 +1589,7 @@ msgstr "Bist du dir sicher, dass du fortfahren möchtest?"
 
 #: event-organiser-calendar.php:213
 msgid "Event deleted."
-msgstr ""
+msgstr "Event gelöscht."
 
 #: event-organiser-calendar.php:74
 #: includes/event-organiser-register.php:68
@@ -1571,7 +1621,7 @@ msgstr "Aus den meist verwendeten Terminschlagworten auswählen"
 #: event-organiser-edit.php:14
 #: templates/event-meta-event-single.php:32
 msgid "Event Details"
-msgstr "Termin Details"
+msgstr "Termin-Details"
 
 #: includes/event-organiser-register.php:249
 msgid "Hour"
@@ -1607,19 +1657,20 @@ msgstr "'Ansehen' bringt Sie zur Seite des Veranstaltungsortes."
 
 #: includes/event-organiser-ajax.php:444
 msgid "Edit Event: %s"
-msgstr ""
+msgstr "Bearbeite Event: %s"
 
 #: event-organiser-calendar.php:344
 msgid "Switch to month view"
 msgstr "Wechsle in die Monatsansicht"
 
 #: event-organiser-venues.php:443
+#, fuzzy
 msgid "Get Link"
 msgstr "Link erhalten"
 
 #: event-organiser-settings.php:585
 msgid "Event Settings"
-msgstr "Termin Einstellungen"
+msgstr "Termin-Einstellungen"
 
 #: templates/event-meta-event-single.php:45
 #, php-format
@@ -1636,13 +1687,14 @@ msgstr "wöchentlich"
 
 #: includes/event.php:626
 msgid "Start date not provided."
-msgstr "Startdatum nicht angegeben"
+msgstr "Startdatum ist nicht angegeben."
 
 #: includes/event-organiser-ajax.php:805
 msgid "You do not have permission to edit this event"
-msgstr "Du hast nicht die Berechtigung diesen Termin zu bearbeiten"
+msgstr "Du hast nicht die Berechtigung, um diesen Termin zu bearbeiten."
 
 #: event-organiser-settings.php:369
+#, fuzzy
 msgid "Disable template handling"
 msgstr "Theme Behandlung deaktivieren"
 
@@ -1656,7 +1708,7 @@ msgstr "Die iCal-Datei konnte nicht gelesen werden"
 
 #: event-organiser-edit.php:211
 msgid "Select whether to repeat monthly by date or day:"
-msgstr "Wähle ob die monatliche Wiederholung auf das Datum oder den Tag bezogen sein soll:"
+msgstr "Wähle, ob die monatliche Wiederholung auf das Datum oder den Tag bezogen sein soll."
 
 #: event-organiser-calendar.php:336
 msgid "Navigate to next period"
@@ -1668,7 +1720,7 @@ msgstr "jährlich"
 
 #: includes/event-organiser-register.php:265
 msgid "every year on the"
-msgstr "jeden Monat am"
+msgstr "jedes Jahr am"
 
 #: event-organiser-calendar.php:311
 msgid "Save Draft"
@@ -1676,21 +1728,24 @@ msgstr "Entwurf speichern"
 
 #: includes/event-organiser-cpt.php:159
 msgid "New Tag Name"
-msgstr "Neuer Terminschlagwortname"
+msgstr "Neues Terminschlagwort"
 
 #: templates/single-event.php:60
 msgid "This event was posted by <a href=\"%3$s\">%2$s</a>."
-msgstr ""
+msgstr "Dieses Event wurde von <a href=\"%3$s\">%2$s</a> gepostet."
 
 #: includes/event-organiser-register.php:590
+#, fuzzy
 msgid "Google Maps now requires you register for an API key. If you wish to use maps on your site, %splease enter your key%s."
-msgstr ""
+msgstr "Google Maps erfordert jetzt, dass Sie sich für einen API-Schlüssel registrieren. Wenn Sie Karten auf Ihrer Website verwenden möchten, geben Sie bitte %sIhren Schlüssel% s ein."
 
 #: event-organiser-settings.php:714
+#, fuzzy
 msgid "Choose a custom permalink structure for events, venues, event categories and event tags."
 msgstr "Wählen Sie eine benutzerdefinierte Permalink-Struktur für Termine, Veranstaltungsorte, Terminkategorien und Terminschlagworte."
 
 #: event-organiser-settings.php:318
+#, fuzzy
 msgid "Day archive"
 msgstr "Tagesarchiv"
 
@@ -1705,14 +1760,16 @@ msgid "Event Tags"
 msgstr "Terminschlagworte"
 
 #: includes/event-organiser-cpt.php:242
+#, fuzzy
 msgid "Uploaded to this event"
-msgstr "Hochladen und diesem Termin hinzufügen"
+msgstr "Zum Termin hochgeladen und hinzugefügt"
 
 #: includes/class-eo-ical-parser.php:208
 msgid "Feed not found"
 msgstr "Kein Feed gefunden"
 
 #: event-organiser-debug.php:72
+#, fuzzy
 msgid "Most bugs arise from theme or plug-in conflicts. You can check this by disabling all other plug-ins and switching to TwentyTweleve. To help speed things along, if you report a bug please indicate if you have done so. Once the plug-in or theme has been identified it is often easy to resolve the issue. Below any <strong>known</strong> plug-in and theme conflicts are highlighted in red."
 msgstr "Die meisten Fehler entstehen durch Theme- oder Plugin-Konflikte. Dies lässt sich überprüfen, indem man alle anderen Plugins deaktiviert und das Standard-Theme verwendet (TwentyTweleve). Um die Fehlerhebung zu beschleunigen, sollten Sie diesen Schritt durchführen und darauf hinweisen. Ist das Plugin oder Theme identifiziert, ist es in der Regel recht einfach das Problem zu beheben. Im Folgenden sind <strong>bekannte</strong> Konflikte in rot hervorgehoben."
 
@@ -1735,23 +1792,24 @@ msgstr "Termin veröffentlichen"
 
 #: includes/event-organiser-cpt.php:39
 msgid "New Venue Name"
-msgstr "Neuer Veranstaltungsortsname"
+msgstr "Neuer Name des Veranstaltungsortes"
 
 #: includes/class-event-organiser-im-export.php:73
-#, php-format
+#, php-format,fuzzy
 msgid "File size: %s. File type: %s"
 msgstr "Dateigröße: %s. Dateityp: %s"
 
 #: includes/event-organiser-cpt.php:334
-#, php-format
+#, php-format,fuzzy
 msgid "Event scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview event</a>"
 msgstr "Termin geplant für: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Termin-Vorschau</a>"
 
 #: event-organiser-manage.php:35
 msgid "Start Date/Time"
-msgstr "Start Datum / Zeit"
+msgstr "Startdatum und -zeit"
 
 #: event-organiser-settings.php:365
+#, fuzzy
 msgid "Enable template handling"
 msgstr "Aktiviere Template Behandlung"
 
@@ -1774,6 +1832,7 @@ msgid "Address"
 msgstr "Straße und Hausnummer"
 
 #: includes/event-organiser-cpt.php:519
+#, fuzzy
 msgid "Creating events:"
 msgstr "Termine erstellen:"
 
@@ -1813,11 +1872,11 @@ msgstr "Permalinks"
 
 #: includes/class-eo-ical-parser.php:299
 msgid "There was an error opening the ICAL file."
-msgstr "Fehler beim öffnen der iCal-Datei."
+msgstr "Fehler beim Öffnen der iCal-Datei."
 
 #: includes/class-event-organiser-im-export.php:281
 msgid "1 category was created"
-msgstr "1 Terminkategorie wurde erstellt"
+msgstr "Eine Terminkategorie wurde erstellt"
 
 #: event-organiser-calendar.php:352
 msgid "Switch to day view"
@@ -1841,7 +1900,7 @@ msgstr "Terminkategorie aktualisieren"
 
 #: templates/event-meta-event-single.php:81
 msgid "Upcoming Dates"
-msgstr "Kommende Daten"
+msgstr "Kommende Termine"
 
 #: event-organiser-settings.php:47
 #: event-organiser.php:123
@@ -1851,22 +1910,24 @@ msgstr "Termine veröffentlichen"
 
 #: includes/event-organiser-cpt.php:560
 msgid "Hovering over a row in the venues list will display action links that allow you to manage that venue. You can perform the following actions:"
-msgstr "Bewegen Sie die Maus über eine Zeile in der Liste, und sie sehen Links, mit denen Sie die Veranstaltungsorte verwalten können. Sie können folgende Aktionen durchführen:"
+msgstr "Bewegen Sie die Maus über eine Zeile in der Liste und klicken Sie auf die erscheinenden Links, um die Veranstaltungsorte verwalten zu können. Sie können folgende Aktionen durchführen:"
 
 #: includes/event-organiser-cpt.php:574
 msgid "By clicking the relevant tab, you can view events in Month, Week or Day mode. You can also filter the events by events by category and venue. The 'go to date' button allows you to quickly jump to a specific date."
-msgstr "Durch einen Klick auf den entsprechenden Reiter können Sie Termine im Modus Monat, Woche oder Tag sehen. Sie können die Termine auch nach Terminkategorie und Veranstaltungsort filtern. Über die Schaltfläche 'Gehe zu Datum' können Sie schnell zu einem bestimmten Datum springen."
+msgstr "Durch einen Klick auf den entsprechenden Reiter können Sie Termine im Modus 'Monat', 'Woche' oder 'Tag' sehen. Sie können die Termine auch nach Terminkategorien oder Veranstaltungsorten filtern. Über die Schaltfläche 'Gehe zu Datum' springen Sie schnell zu einem bestimmten Datum."
 
 #: classes/class-eo-event-list-widget.php:166
+#, fuzzy
 msgid "Event list widget placeholders"
 msgstr "Terminliste Widget Platzhalter"
 
 #: classes/class-eo-agenda-widget.php:20
+#, fuzzy
 msgid "Events Agenda"
 msgstr "Termin-Anordnung"
 
 #: templates/event-meta-event-single.php:41
-#, php-format
+#, php-format,fuzzy
 msgid "This event is running from %1$s until %2$s. It is next occurring on %3$s"
 msgstr "Dieser Termin läuft vom %1$s bis %2$s und findet das nächste Mal am %3$s statt."
 
@@ -1880,16 +1941,17 @@ msgstr "Anzahl der Termine"
 
 #: includes/event-organiser-event-functions.php:777
 #: includes/event-organiser-register.php:270
+#, fuzzy
 msgid "first"
 msgstr "ersten"
 
 #: classes/class-eventorganiser-shortcodes.php:439
 msgid "There is no excerpt because this is a protected post."
-msgstr "Es gibt keine Kurzfassung, da dies ein geschützter Artikel ist."
+msgstr "Es ist kein Auszug vorhanden. Dies ist ein geschützter Artikel."
 
 #: includes/class-event-organiser-im-export.php:94
 msgid "The export button below generates an ICS file of your events that can be imported in to other calendar applications such as Google Calendar."
-msgstr "Der Export-Button (unten) erzeugt eine ICS-Datei Ihrer Termine, die in andere Anwendungen wie Google-Kalender importiert werden kann."
+msgstr "Der Export-Button (unten) erzeugt eine ICS-Datei Ihrer Termine, die in andere Anwendungen wie z. B. in den Google-Kalender importiert werden kann."
 
 #: classes/class-eo-widget-categories.php:11
 #: event-organiser-settings.php:333
@@ -1902,9 +1964,10 @@ msgstr "Jahre"
 
 #: includes/class-eo-ical-parser.php:193
 msgid "There was an error detecting iCal source."
-msgstr "Fehler beim Lokalisieren der iCal-Quelle."
+msgstr "Beim Erkennen der iCal-Datei ist ein Fehler aufgetreten."
 
 #: event-organiser-debug.php:253
+#, fuzzy
 msgid "Known plug-in & theme conflicts, highlighted in red, may be minor or have a simple resolution. Please contact support."
 msgstr "Bekannte Plug-in- und Theme-Konflikte, markiert in rot, können kleinere oder eine einfache Lösung haben. Bitte kontaktieren Sie den Support."
 
@@ -1918,13 +1981,14 @@ msgstr "Geografische Breite/Länge:"
 
 #: classes/class-eo-event-list-widget.php:58
 msgid "Running events"
-msgstr "Laufende Termine"
+msgstr "Gegenwärtige Termine"
 
 #: event-organiser-go-pro.php:81
 msgid "Add information on your venue pages with venue custom fields, or give your venues more attentioned with their own 'featured image'"
-msgstr "Füge weitere Informationen zu Deinen Veranstaltungsort-Seiten mit benutzerdefinierten Feldern hinzu oder verleihe ihnen mehr Publikumsbeachtung durch eigene Feature-Bilder."
+msgstr "Fügen Sie weitere Informationen zu Ihren Veranstaltungsort-Seiten mithilfe benutzerdefinierter Felder hinzu oder sorgen Sie für mehr Aufmerksamkeit durch ein eigenes Termin-Bild."
 
 #: event-organiser-settings.php:362
+#, fuzzy
 msgid "Event Organiser will attempt to ensure compatability with your theme and apply additional styles."
 msgstr "Event Organiser versucht die Kompatibilität mit dem installierten Theme zu gewährleisten und fügt zusätzliche Styles hinzu."
 
@@ -1951,12 +2015,13 @@ msgstr "mm-tt-jjjj"
 
 #. / TRANSLATORS: [this plugin] has only been tested up to [required plugin] [required plugin version]
 #: event-organiser-debug.php:424
+#, fuzzy
 msgid "%1$s has only been tested up to %1$s %1$s"
-msgstr ""
+msgstr "%1$s wurde nur bis %1$s %1$s getestet"
 
 #: includes/event-organiser-register.php:578
 msgid "You can <a href='%s'>change your timezone settings here</a>."
-msgstr "<a href='%s'>Hier können die Zeitzonen-Einstellungen bearbeitet werden.</a>"
+msgstr "<a href='%s'>Hier können Sie Ihre Zeitzonen-Einstellungen bearbeiten.</a>"
 
 #: classes/class-eo-event-list-widget.php:151
 msgid "ASC"
@@ -1972,7 +2037,7 @@ msgstr "Datum"
 
 #: includes/event-organiser-cpt.php:43
 msgid "Event venues list navigation"
-msgstr "Termin Ortslisten-Navigation"
+msgstr "Liste der Veranstaltungsorte"
 
 #: classes/class-eo-venue-list-table.php:89
 msgid "View &#8220;%s&#8221;"
@@ -2030,10 +2095,11 @@ msgstr "Springe zum heutigen Tag"
 #: includes/class-eo-theme-compatability.php:184
 #: templates/taxonomy-event-tag.php:27
 msgid "Event Tag: %s"
-msgstr "Termin Tag: %s"
+msgstr "Terminschlagwort: %s"
 
 #. //php.net/date
 #: includes/event-organiser-cpt.php:336
+#, fuzzy
 msgid "M j, Y @ G:i"
 msgstr "M j, Y @ G:i"
 
@@ -2047,9 +2113,7 @@ msgstr "Termin hinzufügen"
 
 #: event-organiser-go-pro.php:80
 msgid "Venue custom fields & thumbnails"
-msgstr ""
-"Benutzerdefinierte Felder und Thumbnails\n"
-"\\t\\t\\tder Veranstaltungsorte"
+msgstr "Benutzerdefinierte Felder und Vorschaubilder des Veranstaltungsortes"
 
 #: event-organiser-calendar.php:181
 msgid "You do not have sufficient permissions to edit this event. "
@@ -2075,11 +2139,11 @@ msgstr "Woche"
 
 #: includes/event-organiser-register.php:588
 msgid "Enter a Google Maps API key"
-msgstr ""
+msgstr "Gib einen Google Maps API-Schlüssel ein."
 
 #: includes/event-organiser-cpt.php:42
 msgid "Separate venues with commas"
-msgstr "Separate Veranstaltungsort mit Komma"
+msgstr "Veranstaltungsorte, getrennt durch Kommata"
 
 #: event-organiser-edit.php:166
 msgid "custom"
@@ -2094,12 +2158,13 @@ msgid "Add To Google Calendar"
 msgstr "Zum Google-Kalender hinzufügen"
 
 #: classes/class-eo-event-list-widget.php:164
+#, fuzzy
 msgid "Template (leave blank for default)"
 msgstr "Vorlage (leer lassen für Standard)"
 
 #: includes/class-event-organiser-im-export.php:244
 msgid "No events were imported."
-msgstr "Keine Termine wurden importiert"
+msgstr "Es wurden keine Termine importiert."
 
 #: includes/event-organiser-cpt.php:36
 msgid "Edit Venue"
@@ -2115,11 +2180,11 @@ msgstr "Übergeordnete Terminkategorie"
 
 #: event-organiser-go-pro.php:51
 msgid "Get Event Organiser Pro"
-msgstr "Hole Dir 'Event Organiser Pro'"
+msgstr "Hol Dir 'Event Organiser Pro'"
 
 #: includes/event-organiser-cpt.php:240
 msgid "Event Archives"
-msgstr "Termin Archiv"
+msgstr "Termin-Archive"
 
 #: includes/event-organiser-cpt.php:168
 msgid "View all tags"
@@ -2136,4 +2201,4 @@ msgstr "Startdatum"
 #: event-organiser-add-ons.php:127
 #: event-organiser-go-pro.php:89
 msgid "Find out more &hellip;"
-msgstr "Erfahre mehr darüber ..."
+msgstr "Mehr erfahren..."

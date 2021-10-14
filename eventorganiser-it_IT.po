@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2016-11-26T22:15:47+00:00\n"
-"PO-Revision-Date: 2017-08-23T05:39:57+00:00\n"
+"PO-Revision-Date: 2021-10-14T15:19:36+00:00\n"
 "Language: it_IT\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
@@ -273,7 +273,6 @@ msgid "This page highlights useful information for debugging. If you're reportin
 msgstr "Questa pagina evidenzia informazioni utili per il debug. Se stai segnalando un bug, includi queste informazioni. Il  link 'system info' nella scheda di amministrazione degli Eventi è visibile solo agli amministratori e solo quando %1$s è impostato su %1$s."
 
 #: includes/event-organiser-ajax.php:784
-#, fuzzy
 msgid "Event not found"
 msgstr "Evento non trovato"
 
@@ -662,7 +661,6 @@ msgid "Open modal of selected event"
 msgstr "Apri la finestra di dialogo modale dell'evento selezionato"
 
 #: includes/event-organiser-cpt.php:237
-#, fuzzy
 msgid "Filter events list"
 msgstr "Filtra la lista eventi"
 
@@ -814,7 +812,7 @@ msgstr "Visualizza tutte le categorie"
 #: includes/event-organiser-cpt.php:165
 #, fuzzy
 msgid "Event tags list navigation"
-msgstr "Visualizzazione lista tag evento"
+msgstr "Paginazione lista tag evento"
 
 #: event-organiser-settings.php:258
 msgid "Templates:"
@@ -888,7 +886,7 @@ msgstr "Dettaglio evento"
 #: includes/event-organiser-cpt.php:238
 #, fuzzy
 msgid "Events list navigation"
-msgstr "Visualizzazione lista eventi"
+msgstr "Paginazione lista eventi"
 
 #: classes/class-eo-widget-categories.php:25
 #: includes/event-organiser-cpt.php:94
@@ -970,7 +968,7 @@ msgstr "Il luogo <strong>non &egrave;</strong> stato cancellato"
 
 #: event-organiser-edit.php:80
 msgid "This is a recurring event. Check to edit this event and its recurrences"
-msgstr "Seleziona per modificare l'evento e riprogrammarlo"
+msgstr "Questo è un evento ricorrente. Seleziona per modificare l'evento e riprogrammarlo"
 
 #: classes/class-eo-widget-venues.php:55
 msgid "Select Venue"
@@ -1237,7 +1235,6 @@ msgid "Future events"
 msgstr "Eventi futuri"
 
 #: includes/event-organiser-register.php:575
-#, fuzzy
 msgid "Your site timezone is %s"
 msgstr "Il fuso orario del tuo sito è: %s"
 
@@ -1304,7 +1301,6 @@ msgid "Venue name"
 msgstr "Nome luogo"
 
 #: includes/event-organiser-cpt.php:152
-#, fuzzy
 msgctxt "taxonomy singular name"
 msgid "Tag"
 msgstr "Tag"
@@ -1333,7 +1329,6 @@ msgid "Displays a list of events"
 msgstr "Mostra la lista degli eventi"
 
 #: includes/event-organiser-cpt.php:239
-#, fuzzy
 msgid "Events list"
 msgstr "Lista eventi"
 
@@ -1403,7 +1398,6 @@ msgid "Are current events past?"
 msgstr "Sono passati gli eventi correnti?"
 
 #: includes/event-organiser-cpt.php:95
-#, fuzzy
 msgctxt "taxonomy singular name"
 msgid "Category"
 msgstr "Categoria"
@@ -1441,7 +1435,7 @@ msgstr "È stato creato 1 luogo"
 #: event-organiser-debug.php:437
 #, fuzzy
 msgid "%1$s requires %1$s version %1$s or higher"
-msgstr "%1$s richiede %1$s la versione %1$s o superiore"
+msgstr "%1$s richiede %1$s versione %1$s o superiore"
 
 #: event-organiser-settings.php:716
 msgid "You may also need to go to WordPress Settings > Permalinks and click 'Save Changes' before any changes will take effect."
@@ -1563,7 +1557,6 @@ msgid "Event management permissions"
 msgstr "Permessi gestione eventi"
 
 #: includes/event-organiser-ajax.php:798
-#, fuzzy
 msgid "Are you sure you want to do this?"
 msgstr "Sicuro di volerlo fare?"
 
@@ -1601,7 +1594,7 @@ msgstr "Scegli fra i tag pi&ugrave; utilizzati"
 #: event-organiser-edit.php:14
 #: templates/event-meta-event-single.php:32
 msgid "Event Details"
-msgstr "Dettaglio eventi"
+msgstr "Dettagli evento"
 
 #: includes/event-organiser-register.php:249
 msgid "Hour"
@@ -2014,7 +2007,7 @@ msgstr "Data"
 #: includes/event-organiser-cpt.php:43
 #, fuzzy
 msgid "Event venues list navigation"
-msgstr "Navigazione della lista luoghi eventi"
+msgstr "Paginazione della lista luoghi eventi"
 
 #: classes/class-eo-venue-list-table.php:89
 #, fuzzy
@@ -2161,7 +2154,6 @@ msgid "Get Event Organiser Pro"
 msgstr "Ottieni Event Organiser Pro"
 
 #: includes/event-organiser-cpt.php:240
-#, fuzzy
 msgid "Event Archives"
 msgstr "Archivio Eventi"
 
